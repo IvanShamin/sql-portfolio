@@ -1,0 +1,81 @@
+material_id,category,sub_category,material_name
+SIL-QUSA-10000994,Silicates & Quartz,Quartz sand,Quartz sand grade A
+SIL-QUSA-10007982,Silicates & Quartz,Quartz sand,Quartz sand grade B
+SIL-QUSA-10009706,Silicates & Quartz,Quartz sand,Quartz sand grade C
+SIL-QUSA-10018054,Silicates & Quartz,Quartz sand,Quartz sand grade D
+SIL-ZISI-10018758,Silicates & Quartz,Zircon silicate,Zircon silicate grade A
+SIL-ZISI-10027497,Silicates & Quartz,Zircon silicate,Zircon silicate grade B
+SIL-ZISI-10035656,Silicates & Quartz,Zircon silicate,Zircon silicate grade C
+SIL-ZISI-10039053,Silicates & Quartz,Zircon silicate,Zircon silicate grade D
+SIL-WO-10045986,Silicates & Quartz,Wollastonite,Wollastonite grade A
+SIL-WO-10053493,Silicates & Quartz,Wollastonite,Wollastonite grade B
+SIL-WO-10056059,Silicates & Quartz,Wollastonite,Wollastonite grade C
+SIL-WO-10063107,Silicates & Quartz,Wollastonite,Wollastonite grade D
+SIL-TA-10064013,Silicates & Quartz,Talc,Talc grade A
+SIL-TA-10069089,Silicates & Quartz,Talc,Talc grade B
+SIL-TA-10073054,Silicates & Quartz,Talc,Talc grade C
+SIL-TA-10079045,Silicates & Quartz,Talc,Talc grade D
+FEC-SOFE-10085526,Feldspars & Clays,Sodium feldspar,Sodium feldspar grade A
+FEC-SOFE-10087061,Feldspars & Clays,Sodium feldspar,Sodium feldspar grade B
+FEC-SOFE-10090177,Feldspars & Clays,Sodium feldspar,Sodium feldspar grade C
+FEC-SOFE-10098837,Feldspars & Clays,Sodium feldspar,Sodium feldspar grade D
+FEC-POFE-10100072,Feldspars & Clays,Potassium feldspar,Potassium feldspar grade A
+FEC-POFE-10104228,Feldspars & Clays,Potassium feldspar,Potassium feldspar grade B
+FEC-POFE-10105170,Feldspars & Clays,Potassium feldspar,Potassium feldspar grade C
+FEC-POFE-10111053,Feldspars & Clays,Potassium feldspar,Potassium feldspar grade D
+FEC-KA-10119961,Feldspars & Clays,Kaolin,Kaolin grade A
+FEC-KA-10125232,Feldspars & Clays,Kaolin,Kaolin grade B
+FEC-KA-10126765,Feldspars & Clays,Kaolin,Kaolin grade C
+FEC-KA-10131953,Feldspars & Clays,Kaolin,Kaolin grade D
+FEC-BACL-10134862,Feldspars & Clays,Ball clay,Ball clay grade A
+FEC-BACL-10135928,Feldspars & Clays,Ball clay,Ball clay grade B
+FEC-BACL-10140894,Feldspars & Clays,Ball clay,Ball clay grade C
+FEC-BACL-10144295,Feldspars & Clays,Ball clay,Ball clay grade D
+FLB-BO-10147054,Fluxes & Borates,Borax,Borax grade A
+FLB-BO-10151026,Fluxes & Borates,Borax,Borax grade B
+FLB-BO-10159014,Fluxes & Borates,Borax,Borax grade C
+FLB-BO-10159954,Fluxes & Borates,Borax,Borax grade D
+FLB-BOAC-10160452,Fluxes & Borates,Boric acid,Boric acid grade A
+FLB-BOAC-10162300,Fluxes & Borates,Boric acid,Boric acid grade B
+FLB-BOAC-10165039,Fluxes & Borates,Boric acid,Boric acid grade C
+FLB-BOAC-10169645,Fluxes & Borates,Boric acid,Boric acid grade D
+FLB-SOAS-10178405,Fluxes & Borates,Soda ash,Soda ash grade A
+FLB-SOAS-10181183,Fluxes & Borates,Soda ash,Soda ash grade B
+FLB-SOAS-10187947,Fluxes & Borates,Soda ash,Soda ash grade C
+FLB-SOAS-10191777,Fluxes & Borates,Soda ash,Soda ash grade D
+FLB-LICA-10195997,Fluxes & Borates,Lithium carbonate,Lithium carbonate grade A
+FLB-LICA-10198167,Fluxes & Borates,Lithium carbonate,Lithium carbonate grade B
+FLB-LICA-10202993,Fluxes & Borates,Lithium carbonate,Lithium carbonate grade C
+FLB-LICA-10205298,Fluxes & Borates,Lithium carbonate,Lithium carbonate grade D
+OXC-ZIOX-10213543,Oxides & Colorants,Zinc oxide,Zinc oxide grade A
+OXC-ZIOX-10221839,Oxides & Colorants,Zinc oxide,Zinc oxide grade B
+OXC-ZIOX-10229086,Oxides & Colorants,Zinc oxide,Zinc oxide grade C
+OXC-ZIOX-10232689,Oxides & Colorants,Zinc oxide,Zinc oxide grade D
+OXC-AL-10235301,Oxides & Colorants,Alumina,Alumina grade A
+OXC-AL-10235839,Oxides & Colorants,Alumina,Alumina grade B
+OXC-AL-10238793,Oxides & Colorants,Alumina,Alumina grade C
+OXC-AL-10246031,Oxides & Colorants,Alumina,Alumina grade D
+OXC-TIDI-10248354,Oxides & Colorants,Titanium dioxide,Titanium dioxide grade A
+OXC-TIDI-10250825,Oxides & Colorants,Titanium dioxide,Titanium dioxide grade B
+OXC-TIDI-10257980,Oxides & Colorants,Titanium dioxide,Titanium dioxide grade C
+OXC-TIDI-10266524,Oxides & Colorants,Titanium dioxide,Titanium dioxide grade D
+OXC-IROX-10268196,Oxides & Colorants,Iron oxide,Iron oxide grade A
+OXC-IROX-10274836,Oxides & Colorants,Iron oxide,Iron oxide grade B
+OXC-IROX-10283479,Oxides & Colorants,Iron oxide,Iron oxide grade C
+OXC-IROX-10292113,Oxides & Colorants,Iron oxide,Iron oxide grade D
+CAR-CACA-10293364,Carbonates,Calcium carbonate,Calcium carbonate grade A
+CAR-CACA-10298492,Carbonates,Calcium carbonate,Calcium carbonate grade B
+CAR-CACA-10305010,Carbonates,Calcium carbonate,Calcium carbonate grade C
+CAR-CACA-10305890,Carbonates,Calcium carbonate,Calcium carbonate grade D
+CAR-DO-10308775,Carbonates,Dolomite,Dolomite grade A
+CAR-DO-10310277,Carbonates,Dolomite,Dolomite grade B
+CAR-DO-10316179,Carbonates,Dolomite,Dolomite grade C
+CAR-DO-10325060,Carbonates,Dolomite,Dolomite grade D
+CAR-BACA-10331591,Carbonates,Barium carbonate,Barium carbonate grade A
+CAR-BACA-10339037,Carbonates,Barium carbonate,Barium carbonate grade B
+CAR-BACA-10346061,Carbonates,Barium carbonate,Barium carbonate grade C
+CAR-BACA-10353609,Carbonates,Barium carbonate,Barium carbonate grade D
+CAR-STCA-10360903,Carbonates,Strontium carbonate,Strontium carbonate grade A
+CAR-STCA-10362767,Carbonates,Strontium carbonate,Strontium carbonate grade B
+CAR-STCA-10368822,Carbonates,Strontium carbonate,Strontium carbonate grade C
+CAR-STCA-10376050,Carbonates,Strontium carbonate,Strontium carbonate grade D

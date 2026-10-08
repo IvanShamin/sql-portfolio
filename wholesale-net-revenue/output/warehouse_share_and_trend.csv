@@ -1,0 +1,46 @@
+product_line,month,warehouse,net_revenue_eur,pct_of_line_in_month,mom_change_pct,warehouse_rank
+Ceramic pigments,2026-06-01,West,144825.32,36.8,,1
+Ceramic pigments,2026-06-01,Central,138374.54,35.2,,2
+Ceramic pigments,2026-06-01,North,110324.12,28.0,,3
+Ceramic pigments,2026-07-01,Central,161311.46,50.4,16.6,1
+Ceramic pigments,2026-07-01,West,115908.47,36.2,-20.0,2
+Ceramic pigments,2026-07-01,North,42821.68,13.4,-61.2,3
+Ceramic pigments,2026-08-01,West,143435.12,39.7,23.7,1
+Ceramic pigments,2026-08-01,North,110267.02,30.5,157.5,2
+Ceramic pigments,2026-08-01,Central,107875.47,29.8,-33.1,3
+Digital inks,2026-06-01,West,300112.81,42.7,,1
+Digital inks,2026-06-01,North,211433.81,30.0,,2
+Digital inks,2026-06-01,Central,192077.91,27.3,,3
+Digital inks,2026-07-01,West,435293.02,51.4,45.0,1
+Digital inks,2026-07-01,Central,224851.04,26.6,17.1,2
+Digital inks,2026-07-01,North,186045.67,22.0,-12.0,3
+Digital inks,2026-08-01,West,330777.99,52.1,-24.0,1
+Digital inks,2026-08-01,Central,236692.78,37.3,5.3,2
+Digital inks,2026-08-01,North,67018.49,10.6,-64.0,3
+Engobes,2026-06-01,North,40286.13,37.4,,1
+Engobes,2026-06-01,Central,34747.56,32.3,,2
+Engobes,2026-06-01,West,32622.19,30.3,,3
+Engobes,2026-07-01,North,36772.86,43.9,-8.7,1
+Engobes,2026-07-01,Central,26913.65,32.1,-22.5,2
+Engobes,2026-07-01,West,20051.37,23.9,-38.5,3
+Engobes,2026-08-01,North,34242.53,51.6,-6.9,1
+Engobes,2026-08-01,Central,20162.36,30.4,-25.1,2
+Engobes,2026-08-01,West,12002.74,18.1,-40.1,3
+Frits,2026-06-01,North,80822.53,46.8,,1
+Frits,2026-06-01,Central,61114.25,35.4,,2
+Frits,2026-06-01,West,30646.84,17.8,,3
+Frits,2026-07-01,North,75099.43,50.1,-7.1,1
+Frits,2026-07-01,Central,41505.27,27.7,-32.1,2
+Frits,2026-07-01,West,33300.59,22.2,8.7,3
+Frits,2026-08-01,North,70132.93,54.1,-6.6,1
+Frits,2026-08-01,Central,37087.70,28.6,-10.6,2
+Frits,2026-08-01,West,22476.91,17.3,-32.5,3
+Ready-to-use glazes,2026-06-01,West,118988.49,38.6,,1
+Ready-to-use glazes,2026-06-01,Central,96216.80,31.2,,2
+Ready-to-use glazes,2026-06-01,North,93012.93,30.2,,3
+Ready-to-use glazes,2026-07-01,Central,112558.56,43.0,17.0,1
+Ready-to-use glazes,2026-07-01,North,102055.00,39.0,9.7,2
+Ready-to-use glazes,2026-07-01,West,46939.69,17.9,-60.6,3
+Ready-to-use glazes,2026-08-01,North,88107.91,42.4,-13.7,1
+Ready-to-use glazes,2026-08-01,Central,79001.93,38.1,-29.8,2
+Ready-to-use glazes,2026-08-01,West,40452.72,19.5,-13.8,3

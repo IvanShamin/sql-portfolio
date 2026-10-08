@@ -1,0 +1,2101 @@
+order_number,order_date,warehouse,client_type,product_line,quantity,unit_price_eur,total_eur,payment,payment_fee_pct
+S-2026-000001,2026-06-01,North,Retail,Ready-to-use glazes,15,49.14,737.1,Transfer,0.5
+S-2026-000002,2026-06-01,Central,Wholesale,Frits,39,29.01,1131.39,Transfer,0.5
+S-2026-000003,2026-06-01,West,Retail,Frits,6,29.57,177.42,Credit card,2.8
+S-2026-000004,2026-06-01,Central,Wholesale,Frits,27,29.84,805.68,Credit card,2.8
+S-2026-000005,2026-06-01,Central,Retail,Ready-to-use glazes,2,48.06,96.12,Cash,1.0
+S-2026-000006,2026-06-01,Central,Wholesale,Frits,23,28.64,658.72,Transfer,0.5
+S-2026-000007,2026-06-01,Central,Wholesale,Ready-to-use glazes,50,42.92,2146.0,Transfer,0.5
+S-2026-000008,2026-06-01,West,Retail,Digital inks,3,218.57,655.71,Credit card,2.8
+S-2026-000009,2026-06-01,Central,Retail,Frits,10,30.8,308.0,Credit card,2.8
+S-2026-000010,2026-06-01,Central,Wholesale,Digital inks,39,194.0,7566.0,Credit card,2.8
+S-2026-000011,2026-06-01,West,Wholesale,Frits,6,29.57,177.42,Credit card,2.8
+S-2026-000012,2026-06-01,Central,Retail,Ready-to-use glazes,6,49.8,298.8,Cash,1.0
+S-2026-000013,2026-06-01,North,Wholesale,Ceramic pigments,63,105.68,6657.84,Credit card,2.8
+S-2026-000014,2026-06-01,West,Wholesale,Ceramic pigments,23,107.91,2481.93,Transfer,0.5
+S-2026-000015,2026-06-01,West,Wholesale,Ready-to-use glazes,10,43.34,433.4,Transfer,0.5
+S-2026-000016,2026-06-01,Central,Wholesale,Digital inks,80,192.89,15431.2,Transfer,0.5
+S-2026-000017,2026-06-01,West,Wholesale,Ready-to-use glazes,103,45.26,4661.78,Transfer,0.5
+S-2026-000018,2026-06-01,North,Wholesale,Ready-to-use glazes,27,41.79,1128.33,Transfer,0.5
+S-2026-000019,2026-06-01,Central,Retail,Ready-to-use glazes,10,47.6,476.0,Cash,1.0
+S-2026-000020,2026-06-01,North,Wholesale,Frits,66,26.84,1771.44,Transfer,0.5
+S-2026-000021,2026-06-01,West,Retail,Engobes,3,25.57,76.71,Credit card,2.8
+S-2026-000022,2026-06-01,West,Wholesale,Ready-to-use glazes,179,42.22,7557.38,Transfer,0.5
+S-2026-000023,2026-06-01,North,Retail,Frits,8,30.11,240.88,Transfer,0.5
+S-2026-000024,2026-06-01,West,Retail,Ceramic pigments,4,116.14,464.56,Credit card,2.8
+S-2026-000025,2026-06-01,Central,Wholesale,Frits,91,29.83,2714.53,Transfer,0.5
+S-2026-000026,2026-06-01,Central,Retail,Frits,10,31.8,318.0,Credit card,2.8
+S-2026-000027,2026-06-01,North,Retail,Ceramic pigments,2,114.45,228.9,Credit card,2.8
+S-2026-000028,2026-06-01,North,Retail,Frits,12,28.99,347.88,Cash,1.0
+S-2026-000029,2026-06-01,West,Wholesale,Ceramic pigments,32,110.16,3525.12,Transfer,0.5
+S-2026-000030,2026-06-01,North,Wholesale,Engobes,40,23.55,942.0,Transfer,0.5
+S-2026-000031,2026-06-01,North,Wholesale,Frits,150,30.8,4620.0,Transfer,0.5
+S-2026-000032,2026-06-01,West,Wholesale,Frits,87,28.86,2510.82,Transfer,0.5
+S-2026-000033,2026-06-01,North,Wholesale,Ready-to-use glazes,42,44.5,1869.0,Transfer,0.5
+S-2026-000034,2026-06-01,West,Wholesale,Ready-to-use glazes,32,46.09,1474.88,Transfer,0.5
+S-2026-000035,2026-06-01,North,Retail,Frits,11,32.62,358.82,Credit card,2.8
+S-2026-000036,2026-06-01,North,Wholesale,Engobes,28,24.65,690.2,Credit card,2.8
+S-2026-000037,2026-06-01,West,Wholesale,Digital inks,38,200.3,7611.4,Credit card,2.8
+S-2026-000038,2026-06-01,West,Retail,Frits,18,31.23,562.14,Credit card,2.8
+S-2026-000039,2026-06-02,Central,Retail,Digital inks,4,218.39,873.56,Credit card,2.8
+S-2026-000040,2026-06-02,West,Retail,Ready-to-use glazes,4,49.85,199.4,Cash,1.0
+S-2026-000041,2026-06-02,Central,Retail,Engobes,6,26.37,158.22,Cash,1.0
+S-2026-000042,2026-06-02,North,Wholesale,Frits,12,30.02,360.24,Transfer,0.5
+S-2026-000043,2026-06-02,Central,Retail,Ceramic pigments,3,120.73,362.19,Cash,1.0
+S-2026-000044,2026-06-02,West,Wholesale,Digital inks,57,193.77,11044.89,Transfer,0.5
+S-2026-000045,2026-06-02,Central,Wholesale,Engobes,15,22.16,332.4,Credit card,2.8
+S-2026-000046,2026-06-02,North,Wholesale,Engobes,34,23.84,810.56,Transfer,0.5
+S-2026-000047,2026-06-02,Central,Wholesale,Ready-to-use glazes,30,45.45,1363.5,Credit card,2.8
+S-2026-000048,2026-06-02,West,Wholesale,Ceramic pigments,41,108.98,4468.18,Transfer,0.5
+S-2026-000049,2026-06-02,North,Wholesale,Ceramic pigments,18,110.62,1991.16,Transfer,0.5
+S-2026-000050,2026-06-02,West,Wholesale,Frits,47,28.3,1330.1,Credit card,2.8
+S-2026-000051,2026-06-02,North,Wholesale,Frits,24,27.72,665.28,Transfer,0.5
+S-2026-000052,2026-06-02,West,Wholesale,Frits,16,28.62,457.92,Transfer,0.5
+S-2026-000053,2026-06-02,West,Retail,Ceramic pigments,5,117.57,587.85,Cash,1.0
+S-2026-000054,2026-06-02,North,Wholesale,Ready-to-use glazes,50,46.73,2336.5,Transfer,0.5
+S-2026-000055,2026-06-02,West,Wholesale,Ready-to-use glazes,58,46.63,2704.54,Transfer,0.5
+S-2026-000056,2026-06-02,West,Retail,Frits,11,30.22,332.42,Credit card,2.8
+S-2026-000057,2026-06-02,North,Wholesale,Frits,20,28.89,577.8,Transfer,0.5
+S-2026-000058,2026-06-02,Central,Wholesale,Ready-to-use glazes,281,43.46,12212.26,Transfer,0.5
+S-2026-000059,2026-06-02,Central,Retail,Ready-to-use glazes,5,49.46,247.3,Cash,1.0
+S-2026-000060,2026-06-02,Central,Wholesale,Ready-to-use glazes,15,46.02,690.3,Transfer,0.5
+S-2026-000061,2026-06-02,West,Wholesale,Ready-to-use glazes,27,42.57,1149.39,Credit card,2.8
+S-2026-000062,2026-06-02,West,Wholesale,Ready-to-use glazes,17,46.57,791.69,Transfer,0.5
+S-2026-000063,2026-06-02,North,Retail,Frits,5,30.05,150.25,Transfer,0.5
+S-2026-000064,2026-06-02,North,Retail,Frits,10,31.36,313.6,Cash,1.0
+S-2026-000065,2026-06-02,West,Wholesale,Ready-to-use glazes,102,46.2,4712.4,Transfer,0.5
+S-2026-000066,2026-06-02,West,Retail,Ready-to-use glazes,10,48.0,480.0,Transfer,0.5
+S-2026-000067,2026-06-02,Central,Retail,Digital inks,7,217.11,1519.77,Credit card,2.8
+S-2026-000068,2026-06-02,West,Wholesale,Digital inks,66,195.94,12932.04,Transfer,0.5
+S-2026-000069,2026-06-02,North,Retail,Frits,7,30.94,216.58,Credit card,2.8
+S-2026-000070,2026-06-02,Central,Retail,Engobes,6,25.52,153.12,Credit card,2.8
+S-2026-000071,2026-06-03,West,Retail,Frits,3,30.38,91.14,Transfer,0.5
+S-2026-000072,2026-06-03,Central,Wholesale,Digital inks,8,201.01,1608.08,Transfer,0.5
+S-2026-000073,2026-06-03,North,Wholesale,Engobes,112,24.78,2775.36,Transfer,0.5
+S-2026-000074,2026-06-03,Central,Wholesale,Frits,80,26.93,2154.4,Transfer,0.5
+S-2026-000075,2026-06-03,North,Retail,Frits,3,29.91,89.73,Credit card,2.8
+S-2026-000076,2026-06-03,Central,Wholesale,Frits,100,29.49,2949.0,Transfer,0.5
+S-2026-000077,2026-06-03,Central,Retail,Digital inks,9,218.9,1970.1,Transfer,0.5
+S-2026-000078,2026-06-03,Central,Wholesale,Ready-to-use glazes,35,43.51,1522.85,Transfer,0.5
+S-2026-000079,2026-06-03,West,Retail,Digital inks,6,218.38,1310.28,Credit card,2.8
+S-2026-000080,2026-06-03,Central,Wholesale,Ready-to-use glazes,10,44.39,443.9,Credit card,2.8
+S-2026-000081,2026-06-03,Central,Retail,Engobes,3,25.09,75.27,Credit card,2.8
+S-2026-000082,2026-06-03,North,Wholesale,Ready-to-use glazes,22,45.17,993.74,Transfer,0.5
+S-2026-000083,2026-06-03,West,Wholesale,Engobes,110,23.59,2594.9,Credit card,2.8
+S-2026-000084,2026-06-03,North,Wholesale,Digital inks,44,198.2,8720.8,Transfer,0.5
+S-2026-000085,2026-06-03,Central,Wholesale,Engobes,15,24.7,370.5,Transfer,0.5
+S-2026-000086,2026-06-03,North,Retail,Frits,3,30.43,91.29,Credit card,2.8
+S-2026-000087,2026-06-03,West,Wholesale,Engobes,5,25.81,129.05,Transfer,0.5
+S-2026-000088,2026-06-03,Central,Wholesale,Frits,94,29.41,2764.54,Transfer,0.5
+S-2026-000089,2026-06-03,North,Wholesale,Engobes,35,23.48,821.8,Transfer,0.5
+S-2026-000090,2026-06-03,West,Wholesale,Ceramic pigments,60,104.48,6268.8,Transfer,0.5
+S-2026-000091,2026-06-03,West,Retail,Digital inks,18,207.62,3737.16,Credit card,2.8
+S-2026-000092,2026-06-03,Central,Wholesale,Frits,117,27.69,3239.73,Transfer,0.5
+S-2026-000093,2026-06-03,Central,Wholesale,Ready-to-use glazes,72,44.12,3176.64,Transfer,0.5
+S-2026-000094,2026-06-03,North,Wholesale,Frits,84,27.55,2314.2,Transfer,0.5
+S-2026-000095,2026-06-03,North,Wholesale,Digital inks,57,203.28,11586.96,Transfer,0.5
+S-2026-000096,2026-06-03,North,Retail,Engobes,4,25.83,103.32,Cash,1.0
+S-2026-000097,2026-06-03,Central,Wholesale,Frits,44,27.57,1213.08,Credit card,2.8
+S-2026-000098,2026-06-03,West,Retail,Digital inks,6,222.38,1334.28,Cash,1.0
+S-2026-000099,2026-06-03,Central,Wholesale,Ceramic pigments,10,108.68,1086.8,Credit card,2.8
+S-2026-000100,2026-06-03,West,Retail,Ready-to-use glazes,10,48.63,486.3,Cash,1.0
+S-2026-000101,2026-06-03,Central,Retail,Ready-to-use glazes,7,45.73,320.11,Cash,1.0
+S-2026-000102,2026-06-03,North,Wholesale,Ready-to-use glazes,47,45.59,2142.73,Transfer,0.5
+S-2026-000103,2026-06-03,West,Wholesale,Engobes,100,24.73,2473.0,Transfer,0.5
+S-2026-000104,2026-06-03,Central,Wholesale,Frits,13,29.28,380.64,Transfer,0.5
+S-2026-000105,2026-06-03,Central,Retail,Digital inks,4,203.63,814.52,Transfer,0.5
+S-2026-000106,2026-06-04,Central,Wholesale,Digital inks,13,212.86,2767.18,Transfer,0.5
+S-2026-000107,2026-06-04,North,Wholesale,Frits,46,29.28,1346.88,Transfer,0.5
+S-2026-000108,2026-06-04,North,Wholesale,Engobes,33,25.37,837.21,Transfer,0.5
+S-2026-000109,2026-06-04,West,Wholesale,Frits,64,28.43,1819.52,Transfer,0.5
+S-2026-000110,2026-06-04,Central,Wholesale,Ceramic pigments,33,100.91,3330.03,Transfer,0.5
+S-2026-000111,2026-06-04,North,Retail,Ready-to-use glazes,11,47.74,525.14,Credit card,2.8
+S-2026-000112,2026-06-04,West,Wholesale,Ceramic pigments,38,110.17,4186.46,Transfer,0.5
+S-2026-000113,2026-06-04,West,Wholesale,Frits,24,26.55,637.2,Transfer,0.5
+S-2026-000114,2026-06-04,West,Retail,Ready-to-use glazes,3,49.19,147.57,Credit card,2.8
+S-2026-000115,2026-06-04,West,Wholesale,Digital inks,74,203.23,15039.02,Transfer,0.5
+S-2026-000116,2026-06-04,North,Wholesale,Ready-to-use glazes,25,43.11,1077.75,Transfer,0.5
+S-2026-000117,2026-06-04,West,Retail,Digital inks,5,205.0,1025.0,Transfer,0.5
+S-2026-000118,2026-06-04,West,Retail,Frits,13,30.76,399.88,Cash,1.0
+S-2026-000119,2026-06-04,North,Wholesale,Ceramic pigments,40,110.15,4406.0,Credit card,2.8
+S-2026-000120,2026-06-04,North,Wholesale,Ready-to-use glazes,76,43.84,3331.84,Credit card,2.8
+S-2026-000121,2026-06-04,Central,Retail,Digital inks,3,211.23,633.69,Transfer,0.5
+S-2026-000122,2026-06-04,Central,Wholesale,Ready-to-use glazes,39,44.82,1747.98,Transfer,0.5
+S-2026-000123,2026-06-04,North,Retail,Ready-to-use glazes,7,47.35,331.45,Credit card,2.8
+S-2026-000124,2026-06-04,West,Retail,Digital inks,9,217.38,1956.42,Cash,1.0
+S-2026-000125,2026-06-04,North,Wholesale,Frits,40,28.8,1152.0,Transfer,0.5
+S-2026-000126,2026-06-04,North,Wholesale,Digital inks,12,195.22,2342.64,Credit card,2.8
+S-2026-000127,2026-06-04,North,Retail,Ready-to-use glazes,7,48.99,342.93,Credit card,2.8
+S-2026-000128,2026-06-04,Central,Wholesale,Ready-to-use glazes,21,44.91,943.11,Credit card,2.8
+S-2026-000129,2026-06-04,Central,Retail,Frits,18,32.88,591.84,Credit card,2.8
+S-2026-000130,2026-06-04,Central,Wholesale,Digital inks,37,197.99,7325.63,Transfer,0.5
+S-2026-000131,2026-06-04,North,Retail,Frits,15,29.66,444.9,Cash,1.0
+S-2026-000132,2026-06-04,North,Wholesale,Ceramic pigments,19,110.67,2102.73,Transfer,0.5
+S-2026-000133,2026-06-04,Central,Wholesale,Ready-to-use glazes,59,44.45,2622.55,Transfer,0.5
+S-2026-000134,2026-06-04,North,Wholesale,Digital inks,34,192.29,6537.86,Transfer,0.5
+S-2026-000135,2026-06-04,West,Wholesale,Ceramic pigments,27,102.81,2775.87,Credit card,2.8
+S-2026-000136,2026-06-04,West,Retail,Digital inks,5,203.42,1017.1,Cash,1.0
+S-2026-000137,2026-06-04,West,Wholesale,Ceramic pigments,28,111.01,3108.28,Transfer,0.5
+S-2026-000138,2026-06-05,North,Retail,Digital inks,2,223.16,446.32,Transfer,0.5
+S-2026-000139,2026-06-05,West,Retail,Engobes,4,27.58,110.32,Transfer,0.5
+S-2026-000140,2026-06-05,North,Wholesale,Ready-to-use glazes,26,48.51,1261.26,Credit card,2.8
+S-2026-000141,2026-06-05,West,Wholesale,Ceramic pigments,61,109.35,6670.35,Credit card,2.8
+S-2026-000142,2026-06-05,Central,Wholesale,Ready-to-use glazes,140,42.12,5896.8,Transfer,0.5
+S-2026-000143,2026-06-05,West,Retail,Digital inks,3,215.48,646.44,Credit card,2.8
+S-2026-000144,2026-06-05,North,Wholesale,Digital inks,23,195.04,4485.92,Transfer,0.5
+S-2026-000145,2026-06-05,North,Wholesale,Engobes,21,26.4,554.4,Transfer,0.5
+S-2026-000146,2026-06-05,West,Retail,Digital inks,2,212.13,424.26,Credit card,2.8
+S-2026-000147,2026-06-05,North,Wholesale,Frits,24,26.57,637.68,Transfer,0.5
+S-2026-000148,2026-06-05,Central,Retail,Engobes,7,25.73,180.11,Transfer,0.5
+S-2026-000149,2026-06-05,North,Wholesale,Frits,17,29.38,499.46,Transfer,0.5
+S-2026-000150,2026-06-05,North,Wholesale,Frits,38,27.26,1035.88,Credit card,2.8
+S-2026-000151,2026-06-05,North,Wholesale,Ceramic pigments,22,110.9,2439.8,Transfer,0.5
+S-2026-000152,2026-06-05,Central,Retail,Ready-to-use glazes,10,47.66,476.6,Cash,1.0
+S-2026-000153,2026-06-05,West,Wholesale,Engobes,22,23.35,513.7,Transfer,0.5
+S-2026-000154,2026-06-05,North,Wholesale,Frits,39,29.58,1153.62,Transfer,0.5
+S-2026-000155,2026-06-05,North,Retail,Engobes,4,27.07,108.28,Cash,1.0
+S-2026-000156,2026-06-05,West,Wholesale,Ceramic pigments,39,108.67,4238.13,Transfer,0.5
+S-2026-000157,2026-06-06,North,Retail,Ceramic pigments,4,113.68,454.72,Cash,1.0
+S-2026-000158,2026-06-06,Central,Wholesale,Engobes,23,23.89,549.47,Transfer,0.5
+S-2026-000159,2026-06-06,West,Wholesale,Engobes,62,23.46,1454.52,Transfer,0.5
+S-2026-000160,2026-06-06,Central,Wholesale,Frits,53,27.05,1433.65,Transfer,0.5
+S-2026-000161,2026-06-06,West,Wholesale,Digital inks,42,203.0,8526.0,Transfer,0.5
+S-2026-000162,2026-06-06,North,Wholesale,Frits,32,28.84,922.88,Credit card,2.8
+S-2026-000163,2026-06-06,Central,Wholesale,Ready-to-use glazes,49,43.52,2132.48,Transfer,0.5
+S-2026-000164,2026-06-06,Central,Retail,Ready-to-use glazes,5,48.73,243.65,Cash,1.0
+S-2026-000165,2026-06-06,Central,Wholesale,Frits,18,29.0,522.0,Credit card,2.8
+S-2026-000166,2026-06-06,North,Wholesale,Frits,54,28.68,1548.72,Transfer,0.5
+S-2026-000167,2026-06-06,North,Wholesale,Ceramic pigments,54,105.45,5694.3,Transfer,0.5
+S-2026-000168,2026-06-06,North,Retail,Digital inks,9,223.27,2009.43,Credit card,2.8
+S-2026-000169,2026-06-06,North,Wholesale,Engobes,36,23.69,852.84,Transfer,0.5
+S-2026-000170,2026-06-06,West,Wholesale,Frits,41,29.45,1207.45,Transfer,0.5
+S-2026-000171,2026-06-07,West,Wholesale,Digital inks,70,192.14,13449.8,Transfer,0.5
+S-2026-000172,2026-06-07,West,Retail,Engobes,4,27.04,108.16,Cash,1.0
+S-2026-000173,2026-06-07,Central,Wholesale,Ready-to-use glazes,85,43.58,3704.3,Transfer,0.5
+S-2026-000174,2026-06-07,North,Wholesale,Engobes,102,24.16,2464.32,Transfer,0.5
+S-2026-000175,2026-06-07,West,Wholesale,Engobes,78,24.59,1918.02,Transfer,0.5
+S-2026-000176,2026-06-07,North,Wholesale,Frits,50,29.33,1466.5,Transfer,0.5
+S-2026-000177,2026-06-07,Central,Retail,Digital inks,9,208.11,1872.99,Credit card,2.8
+S-2026-000178,2026-06-07,North,Wholesale,Ready-to-use glazes,25,41.94,1048.5,Transfer,0.5
+S-2026-000179,2026-06-07,Central,Retail,Ready-to-use glazes,4,47.98,191.92,Credit card,2.8
+S-2026-000180,2026-06-07,North,Wholesale,Ceramic pigments,94,110.54,10390.76,Transfer,0.5
+S-2026-000181,2026-06-07,North,Retail,Frits,9,31.62,284.58,Transfer,0.5
+S-2026-000182,2026-06-07,North,Wholesale,Ceramic pigments,46,107.6,4949.6,Credit card,2.8
+S-2026-000183,2026-06-08,West,Retail,Digital inks,5,220.56,1102.8,Credit card,2.8
+S-2026-000184,2026-06-08,North,Retail,Engobes,2,25.92,51.84,Credit card,2.8
+S-2026-000185,2026-06-08,Central,Retail,Digital inks,3,222.4,667.2,Credit card,2.8
+S-2026-000186,2026-06-08,Central,Retail,Digital inks,5,226.43,1132.15,Credit card,2.8
+S-2026-000187,2026-06-08,North,Wholesale,Engobes,48,25.64,1230.72,Credit card,2.8
+S-2026-000188,2026-06-08,West,Wholesale,Digital inks,22,196.88,4331.36,Credit card,2.8
+S-2026-000189,2026-06-08,Central,Retail,Frits,6,30.88,185.28,Credit card,2.8
+S-2026-000190,2026-06-08,North,Wholesale,Ready-to-use glazes,119,45.37,5399.03,Transfer,0.5
+S-2026-000191,2026-06-08,West,Wholesale,Digital inks,82,193.06,15830.92,Credit card,2.8
+S-2026-000192,2026-06-08,North,Wholesale,Engobes,28,25.16,704.48,Transfer,0.5
+S-2026-000193,2026-06-08,West,Retail,Ceramic pigments,9,119.15,1072.35,Cash,1.0
+S-2026-000194,2026-06-08,North,Wholesale,Frits,35,28.37,992.95,Transfer,0.5
+S-2026-000195,2026-06-08,North,Wholesale,Frits,68,28.84,1961.12,Transfer,0.5
+S-2026-000196,2026-06-08,West,Wholesale,Engobes,30,22.31,669.3,Transfer,0.5
+S-2026-000197,2026-06-08,Central,Retail,Digital inks,3,224.95,674.85,Transfer,0.5
+S-2026-000198,2026-06-08,Central,Retail,Ready-to-use glazes,10,49.67,496.7,Transfer,0.5
+S-2026-000199,2026-06-08,North,Retail,Frits,6,32.52,195.12,Credit card,2.8
+S-2026-000200,2026-06-08,Central,Retail,Ceramic pigments,4,118.82,475.28,Cash,1.0
+S-2026-000201,2026-06-08,North,Retail,Frits,3,30.84,92.52,Cash,1.0
+S-2026-000202,2026-06-08,West,Wholesale,Frits,43,29.9,1285.7,Transfer,0.5
+S-2026-000203,2026-06-08,North,Wholesale,Frits,18,27.99,503.82,Transfer,0.5
+S-2026-000204,2026-06-08,West,Wholesale,Ready-to-use glazes,23,41.75,960.25,Transfer,0.5
+S-2026-000205,2026-06-08,West,Wholesale,Ready-to-use glazes,17,45.18,768.06,Transfer,0.5
+S-2026-000206,2026-06-08,West,Wholesale,Ceramic pigments,50,107.43,5371.5,Transfer,0.5
+S-2026-000207,2026-06-08,Central,Wholesale,Ready-to-use glazes,19,44.45,844.55,Transfer,0.5
+S-2026-000208,2026-06-08,North,Retail,Frits,10,32.18,321.8,Credit card,2.8
+S-2026-000209,2026-06-08,West,Wholesale,Engobes,64,24.61,1575.04,Transfer,0.5
+S-2026-000210,2026-06-09,Central,Retail,Engobes,7,26.7,186.9,Credit card,2.8
+S-2026-000211,2026-06-09,Central,Wholesale,Ceramic pigments,207,109.86,22741.02,Transfer,0.5
+S-2026-000212,2026-06-09,Central,Retail,Ready-to-use glazes,9,47.62,428.58,Credit card,2.8
+S-2026-000213,2026-06-09,West,Wholesale,Ceramic pigments,72,112.62,8108.64,Transfer,0.5
+S-2026-000214,2026-06-09,North,Wholesale,Frits,67,28.33,1898.11,Credit card,2.8
+S-2026-000215,2026-06-09,North,Wholesale,Digital inks,99,210.59,20848.41,Transfer,0.5
+S-2026-000216,2026-06-09,North,Wholesale,Engobes,28,22.85,639.8,Transfer,0.5
+S-2026-000217,2026-06-09,West,Wholesale,Frits,47,30.15,1417.05,Transfer,0.5
+S-2026-000218,2026-06-09,Central,Retail,Ready-to-use glazes,3,49.2,147.6,Cash,1.0
+S-2026-000219,2026-06-09,West,Wholesale,Digital inks,25,197.36,4934.0,Transfer,0.5
+S-2026-000220,2026-06-09,North,Retail,Ready-to-use glazes,13,48.63,632.19,Cash,1.0
+S-2026-000221,2026-06-09,North,Retail,Engobes,10,25.46,254.6,Cash,1.0
+S-2026-000222,2026-06-09,North,Retail,Engobes,3,25.77,77.31,Transfer,0.5
+S-2026-000223,2026-06-09,West,Wholesale,Digital inks,79,197.75,15622.25,Credit card,2.8
+S-2026-000224,2026-06-09,North,Retail,Ready-to-use glazes,13,46.41,603.33,Cash,1.0
+S-2026-000225,2026-06-09,West,Wholesale,Ready-to-use glazes,43,46.04,1979.72,Transfer,0.5
+S-2026-000226,2026-06-09,Central,Wholesale,Ready-to-use glazes,50,47.48,2374.0,Transfer,0.5
+S-2026-000227,2026-06-09,Central,Retail,Ready-to-use glazes,9,48.17,433.53,Credit card,2.8
+S-2026-000228,2026-06-09,West,Wholesale,Ceramic pigments,116,112.2,13015.2,Transfer,0.5
+S-2026-000229,2026-06-09,West,Retail,Digital inks,5,207.54,1037.7,Credit card,2.8
+S-2026-000230,2026-06-09,West,Retail,Ready-to-use glazes,16,51.71,827.36,Cash,1.0
+S-2026-000231,2026-06-09,Central,Wholesale,Ceramic pigments,44,111.47,4904.68,Transfer,0.5
+S-2026-000232,2026-06-09,Central,Retail,Frits,6,32.09,192.54,Credit card,2.8
+S-2026-000233,2026-06-09,North,Wholesale,Engobes,24,22.51,540.24,Transfer,0.5
+S-2026-000234,2026-06-09,West,Wholesale,Digital inks,99,199.4,19740.6,Transfer,0.5
+S-2026-000235,2026-06-09,North,Wholesale,Digital inks,42,210.67,8848.14,Credit card,2.8
+S-2026-000236,2026-06-09,North,Wholesale,Ready-to-use glazes,30,44.91,1347.3,Credit card,2.8
+S-2026-000237,2026-06-09,Central,Retail,Frits,17,30.11,511.87,Credit card,2.8
+S-2026-000238,2026-06-09,Central,Retail,Ceramic pigments,4,123.45,493.8,Credit card,2.8
+S-2026-000239,2026-06-09,Central,Retail,Digital inks,10,217.88,2178.8,Credit card,2.8
+S-2026-000240,2026-06-09,North,Retail,Ready-to-use glazes,13,46.98,610.74,Cash,1.0
+S-2026-000241,2026-06-09,North,Wholesale,Ceramic pigments,41,105.04,4306.64,Transfer,0.5
+S-2026-000242,2026-06-09,West,Wholesale,Digital inks,93,203.51,18926.43,Credit card,2.8
+S-2026-000243,2026-06-10,Central,Retail,Digital inks,7,220.71,1544.97,Cash,1.0
+S-2026-000244,2026-06-10,Central,Retail,Engobes,4,26.47,105.88,Credit card,2.8
+S-2026-000245,2026-06-10,North,Retail,Ceramic pigments,7,116.82,817.74,Credit card,2.8
+S-2026-000246,2026-06-10,West,Wholesale,Digital inks,24,192.64,4623.36,Transfer,0.5
+S-2026-000247,2026-06-10,Central,Wholesale,Engobes,26,24.13,627.38,Transfer,0.5
+S-2026-000248,2026-06-10,Central,Wholesale,Engobes,60,22.14,1328.4,Transfer,0.5
+S-2026-000249,2026-06-10,Central,Wholesale,Frits,36,29.59,1065.24,Transfer,0.5
+S-2026-000250,2026-06-10,West,Retail,Ceramic pigments,9,116.04,1044.36,Credit card,2.8
+S-2026-000251,2026-06-10,Central,Retail,Digital inks,8,203.64,1629.12,Credit card,2.8
+S-2026-000252,2026-06-10,North,Wholesale,Engobes,34,22.06,750.04,Credit card,2.8
+S-2026-000253,2026-06-10,West,Retail,Frits,4,31.88,127.52,Cash,1.0
+S-2026-000254,2026-06-10,North,Retail,Engobes,5,26.02,130.1,Cash,1.0
+S-2026-000255,2026-06-10,North,Retail,Engobes,8,26.32,210.56,Transfer,0.5
+S-2026-000256,2026-06-10,North,Retail,Ready-to-use glazes,5,47.33,236.65,Cash,1.0
+S-2026-000257,2026-06-10,North,Retail,Ready-to-use glazes,10,47.43,474.3,Cash,1.0
+S-2026-000258,2026-06-10,West,Wholesale,Frits,46,28.23,1298.58,Transfer,0.5
+S-2026-000259,2026-06-10,North,Retail,Engobes,6,26.01,156.06,Credit card,2.8
+S-2026-000260,2026-06-10,North,Wholesale,Ready-to-use glazes,23,44.87,1032.01,Transfer,0.5
+S-2026-000261,2026-06-10,Central,Wholesale,Frits,53,27.5,1457.5,Transfer,0.5
+S-2026-000262,2026-06-10,North,Wholesale,Engobes,27,24.1,650.7,Transfer,0.5
+S-2026-000263,2026-06-10,Central,Wholesale,Engobes,48,23.35,1120.8,Credit card,2.8
+S-2026-000264,2026-06-10,West,Retail,Digital inks,9,213.4,1920.6,Credit card,2.8
+S-2026-000265,2026-06-11,Central,Retail,Frits,8,32.17,257.36,Cash,1.0
+S-2026-000266,2026-06-11,West,Wholesale,Engobes,16,23.93,382.88,Transfer,0.5
+S-2026-000267,2026-06-11,West,Wholesale,Frits,22,28.26,621.72,Transfer,0.5
+S-2026-000268,2026-06-11,West,Retail,Frits,10,30.5,305.0,Credit card,2.8
+S-2026-000269,2026-06-11,Central,Wholesale,Ready-to-use glazes,47,42.57,2000.79,Transfer,0.5
+S-2026-000270,2026-06-11,Central,Wholesale,Ceramic pigments,30,105.99,3179.7,Transfer,0.5
+S-2026-000271,2026-06-11,North,Retail,Digital inks,8,217.2,1737.6,Credit card,2.8
+S-2026-000272,2026-06-11,Central,Wholesale,Frits,18,29.34,528.12,Transfer,0.5
+S-2026-000273,2026-06-11,North,Retail,Frits,5,32.25,161.25,Transfer,0.5
+S-2026-000274,2026-06-11,North,Retail,Digital inks,14,214.69,3005.66,Credit card,2.8
+S-2026-000275,2026-06-11,West,Wholesale,Engobes,88,24.2,2129.6,Transfer,0.5
+S-2026-000276,2026-06-11,Central,Wholesale,Frits,61,28.13,1715.93,Transfer,0.5
+S-2026-000277,2026-06-11,North,Retail,Ready-to-use glazes,20,49.13,982.6,Cash,1.0
+S-2026-000278,2026-06-11,North,Wholesale,Frits,47,29.41,1382.27,Transfer,0.5
+S-2026-000279,2026-06-11,Central,Retail,Engobes,2,24.64,49.28,Transfer,0.5
+S-2026-000280,2026-06-11,North,Retail,Ready-to-use glazes,11,48.42,532.62,Cash,1.0
+S-2026-000281,2026-06-11,West,Wholesale,Digital inks,69,202.77,13991.13,Transfer,0.5
+S-2026-000282,2026-06-11,Central,Retail,Frits,3,30.9,92.7,Credit card,2.8
+S-2026-000283,2026-06-11,Central,Retail,Ready-to-use glazes,4,49.66,198.64,Transfer,0.5
+S-2026-000284,2026-06-11,North,Wholesale,Ready-to-use glazes,32,45.71,1462.72,Transfer,0.5
+S-2026-000285,2026-06-11,Central,Wholesale,Frits,101,29.22,2951.22,Transfer,0.5
+S-2026-000286,2026-06-11,West,Wholesale,Digital inks,37,196.52,7271.24,Transfer,0.5
+S-2026-000287,2026-06-11,North,Wholesale,Engobes,80,24.95,1996.0,Transfer,0.5
+S-2026-000288,2026-06-11,Central,Wholesale,Frits,51,29.84,1521.84,Transfer,0.5
+S-2026-000289,2026-06-11,Central,Retail,Frits,9,32.41,291.69,Transfer,0.5
+S-2026-000290,2026-06-11,North,Wholesale,Digital inks,19,190.57,3620.83,Transfer,0.5
+S-2026-000291,2026-06-11,Central,Wholesale,Engobes,70,23.52,1646.4,Transfer,0.5
+S-2026-000292,2026-06-11,Central,Retail,Frits,11,30.85,339.35,Credit card,2.8
+S-2026-000293,2026-06-11,North,Wholesale,Ceramic pigments,56,109.96,6157.76,Transfer,0.5
+S-2026-000294,2026-06-11,West,Retail,Ready-to-use glazes,22,46.29,1018.38,Credit card,2.8
+S-2026-000295,2026-06-11,Central,Retail,Ceramic pigments,5,118.93,594.65,Credit card,2.8
+S-2026-000296,2026-06-11,North,Wholesale,Frits,69,30.12,2078.28,Transfer,0.5
+S-2026-000297,2026-06-11,North,Retail,Engobes,6,24.55,147.3,Credit card,2.8
+S-2026-000298,2026-06-11,West,Wholesale,Digital inks,41,197.4,8093.4,Transfer,0.5
+S-2026-000299,2026-06-12,Central,Wholesale,Ceramic pigments,32,111.97,3583.04,Transfer,0.5
+S-2026-000300,2026-06-12,Central,Retail,Frits,7,29.8,208.6,Cash,1.0
+S-2026-000301,2026-06-12,West,Retail,Ready-to-use glazes,4,48.66,194.64,Transfer,0.5
+S-2026-000302,2026-06-12,North,Wholesale,Ready-to-use glazes,47,41.37,1944.39,Transfer,0.5
+S-2026-000303,2026-06-12,North,Retail,Ready-to-use glazes,10,49.56,495.6,Credit card,2.8
+S-2026-000304,2026-06-12,Central,Wholesale,Frits,32,29.27,936.64,Transfer,0.5
+S-2026-000305,2026-06-12,West,Retail,Ready-to-use glazes,5,46.0,230.0,Transfer,0.5
+S-2026-000306,2026-06-12,Central,Wholesale,Digital inks,18,197.73,3559.14,Transfer,0.5
+S-2026-000307,2026-06-12,Central,Retail,Frits,4,32.22,128.88,Credit card,2.8
+S-2026-000308,2026-06-12,Central,Wholesale,Frits,44,30.09,1323.96,Transfer,0.5
+S-2026-000309,2026-06-12,West,Wholesale,Frits,24,27.83,667.92,Transfer,0.5
+S-2026-000310,2026-06-12,West,Wholesale,Ready-to-use glazes,32,45.37,1451.84,Credit card,2.8
+S-2026-000311,2026-06-12,Central,Wholesale,Ceramic pigments,39,108.81,4243.59,Transfer,0.5
+S-2026-000312,2026-06-12,Central,Wholesale,Frits,220,29.89,6575.8,Credit card,2.8
+S-2026-000313,2026-06-12,North,Wholesale,Frits,41,26.66,1093.06,Transfer,0.5
+S-2026-000314,2026-06-12,Central,Retail,Ready-to-use glazes,4,48.49,193.96,Cash,1.0
+S-2026-000315,2026-06-12,Central,Retail,Ready-to-use glazes,3,47.16,141.48,Credit card,2.8
+S-2026-000316,2026-06-12,North,Retail,Engobes,8,26.98,215.84,Cash,1.0
+S-2026-000317,2026-06-12,West,Wholesale,Ready-to-use glazes,25,40.98,1024.5,Transfer,0.5
+S-2026-000318,2026-06-12,West,Wholesale,Ceramic pigments,64,111.58,7141.12,Credit card,2.8
+S-2026-000319,2026-06-12,West,Wholesale,Ceramic pigments,53,105.14,5572.42,Transfer,0.5
+S-2026-000320,2026-06-12,North,Retail,Frits,6,28.25,169.5,Credit card,2.8
+S-2026-000321,2026-06-12,West,Retail,Ready-to-use glazes,4,50.97,203.88,Cash,1.0
+S-2026-000322,2026-06-12,North,Retail,Digital inks,2,213.15,426.3,Transfer,0.5
+S-2026-000323,2026-06-12,Central,Retail,Engobes,11,26.01,286.11,Cash,1.0
+S-2026-000324,2026-06-12,Central,Wholesale,Ceramic pigments,62,103.43,6412.66,Transfer,0.5
+S-2026-000325,2026-06-12,West,Retail,Ready-to-use glazes,3,47.69,143.07,Credit card,2.8
+S-2026-000326,2026-06-12,Central,Retail,Digital inks,8,231.69,1853.52,Cash,1.0
+S-2026-000327,2026-06-12,West,Wholesale,Ceramic pigments,20,112.97,2259.4,Transfer,0.5
+S-2026-000328,2026-06-12,North,Wholesale,Engobes,23,24.97,574.31,Transfer,0.5
+S-2026-000329,2026-06-13,West,Wholesale,Ready-to-use glazes,18,43.81,788.58,Credit card,2.8
+S-2026-000330,2026-06-13,West,Retail,Ceramic pigments,5,117.0,585.0,Cash,1.0
+S-2026-000331,2026-06-13,North,Wholesale,Engobes,28,23.53,658.84,Transfer,0.5
+S-2026-000332,2026-06-13,Central,Wholesale,Digital inks,20,204.81,4096.2,Transfer,0.5
+S-2026-000333,2026-06-13,Central,Retail,Ready-to-use glazes,9,49.45,445.05,Cash,1.0
+S-2026-000334,2026-06-13,West,Retail,Digital inks,5,213.61,1068.05,Cash,1.0
+S-2026-000335,2026-06-13,West,Retail,Frits,4,30.43,121.72,Credit card,2.8
+S-2026-000336,2026-06-13,West,Retail,Ceramic pigments,7,113.58,795.06,Credit card,2.8
+S-2026-000337,2026-06-13,North,Wholesale,Ceramic pigments,44,110.46,4860.24,Transfer,0.5
+S-2026-000338,2026-06-13,North,Retail,Frits,10,32.53,325.3,Cash,1.0
+S-2026-000339,2026-06-13,West,Retail,Engobes,21,26.5,556.5,Credit card,2.8
+S-2026-000340,2026-06-14,North,Wholesale,Engobes,78,23.82,1857.96,Transfer,0.5
+S-2026-000341,2026-06-14,Central,Wholesale,Ceramic pigments,59,108.61,6407.99,Credit card,2.8
+S-2026-000342,2026-06-14,North,Retail,Engobes,4,25.8,103.2,Transfer,0.5
+S-2026-000343,2026-06-14,Central,Wholesale,Ceramic pigments,18,108.36,1950.48,Transfer,0.5
+S-2026-000344,2026-06-14,West,Wholesale,Frits,40,28.55,1142.0,Transfer,0.5
+S-2026-000345,2026-06-14,Central,Wholesale,Digital inks,16,189.77,3036.32,Transfer,0.5
+S-2026-000346,2026-06-14,West,Retail,Engobes,18,24.5,441.0,Credit card,2.8
+S-2026-000347,2026-06-14,West,Retail,Digital inks,2,204.0,408.0,Credit card,2.8
+S-2026-000348,2026-06-14,Central,Wholesale,Engobes,30,22.56,676.8,Transfer,0.5
+S-2026-000349,2026-06-14,West,Wholesale,Engobes,42,24.49,1028.58,Credit card,2.8
+S-2026-000350,2026-06-14,North,Retail,Ceramic pigments,10,119.7,1197.0,Transfer,0.5
+S-2026-000351,2026-06-14,North,Retail,Engobes,7,27.34,191.38,Credit card,2.8
+S-2026-000352,2026-06-14,West,Wholesale,Engobes,72,24.38,1755.36,Transfer,0.5
+S-2026-000353,2026-06-14,West,Wholesale,Ready-to-use glazes,18,41.05,738.9,Transfer,0.5
+S-2026-000354,2026-06-15,West,Wholesale,Ceramic pigments,44,114.62,5043.28,Transfer,0.5
+S-2026-000355,2026-06-15,West,Wholesale,Ready-to-use glazes,153,45.62,6979.86,Transfer,0.5
+S-2026-000356,2026-06-15,Central,Wholesale,Engobes,15,24.26,363.9,Transfer,0.5
+S-2026-000357,2026-06-15,Central,Wholesale,Frits,202,29.22,5902.44,Transfer,0.5
+S-2026-000358,2026-06-15,West,Wholesale,Ready-to-use glazes,24,42.28,1014.72,Transfer,0.5
+S-2026-000359,2026-06-15,North,Retail,Engobes,13,26.58,345.54,Credit card,2.8
+S-2026-000360,2026-06-15,West,Wholesale,Digital inks,20,200.74,4014.8,Transfer,0.5
+S-2026-000361,2026-06-15,North,Retail,Engobes,8,27.76,222.08,Credit card,2.8
+S-2026-000362,2026-06-15,North,Retail,Digital inks,5,220.14,1100.7,Transfer,0.5
+S-2026-000363,2026-06-15,West,Wholesale,Ready-to-use glazes,92,45.72,4206.24,Transfer,0.5
+S-2026-000364,2026-06-15,Central,Retail,Ceramic pigments,5,115.22,576.1,Cash,1.0
+S-2026-000365,2026-06-15,West,Retail,Engobes,4,26.2,104.8,Credit card,2.8
+S-2026-000366,2026-06-15,Central,Retail,Frits,7,31.67,221.69,Cash,1.0
+S-2026-000367,2026-06-15,West,Wholesale,Frits,58,29.15,1690.7,Credit card,2.8
+S-2026-000368,2026-06-15,West,Wholesale,Engobes,16,24.17,386.72,Credit card,2.8
+S-2026-000369,2026-06-15,West,Retail,Digital inks,9,207.08,1863.72,Cash,1.0
+S-2026-000370,2026-06-15,West,Wholesale,Digital inks,13,200.07,2600.91,Credit card,2.8
+S-2026-000371,2026-06-15,North,Retail,Ceramic pigments,5,111.69,558.45,Credit card,2.8
+S-2026-000372,2026-06-15,Central,Retail,Ready-to-use glazes,9,47.78,430.02,Credit card,2.8
+S-2026-000373,2026-06-15,West,Retail,Digital inks,12,214.12,2569.44,Cash,1.0
+S-2026-000374,2026-06-15,Central,Wholesale,Frits,17,29.54,502.18,Transfer,0.5
+S-2026-000375,2026-06-15,Central,Retail,Digital inks,13,214.19,2784.47,Transfer,0.5
+S-2026-000376,2026-06-15,Central,Wholesale,Ceramic pigments,43,108.94,4684.42,Transfer,0.5
+S-2026-000377,2026-06-15,West,Wholesale,Ready-to-use glazes,73,46.13,3367.49,Credit card,2.8
+S-2026-000378,2026-06-16,West,Wholesale,Engobes,44,24.79,1090.76,Transfer,0.5
+S-2026-000379,2026-06-16,West,Retail,Digital inks,9,210.56,1895.04,Credit card,2.8
+S-2026-000380,2026-06-16,North,Retail,Frits,8,32.13,257.04,Cash,1.0
+S-2026-000381,2026-06-16,North,Retail,Frits,6,31.79,190.74,Cash,1.0
+S-2026-000382,2026-06-16,North,Wholesale,Ceramic pigments,27,104.41,2819.07,Transfer,0.5
+S-2026-000383,2026-06-16,North,Wholesale,Frits,96,28.85,2769.6,Transfer,0.5
+S-2026-000384,2026-06-16,West,Wholesale,Ready-to-use glazes,35,47.43,1660.05,Transfer,0.5
+S-2026-000385,2026-06-16,Central,Retail,Ceramic pigments,3,115.66,346.98,Credit card,2.8
+S-2026-000386,2026-06-16,West,Wholesale,Engobes,101,22.6,2282.6,Transfer,0.5
+S-2026-000387,2026-06-16,Central,Wholesale,Ready-to-use glazes,43,44.38,1908.34,Transfer,0.5
+S-2026-000388,2026-06-16,Central,Wholesale,Ready-to-use glazes,18,39.62,713.16,Transfer,0.5
+S-2026-000389,2026-06-16,North,Wholesale,Frits,57,27.81,1585.17,Transfer,0.5
+S-2026-000390,2026-06-16,North,Wholesale,Frits,11,27.31,300.41,Transfer,0.5
+S-2026-000391,2026-06-16,West,Wholesale,Ceramic pigments,17,103.82,1764.94,Transfer,0.5
+S-2026-000392,2026-06-16,North,Retail,Engobes,17,26.88,456.96,Credit card,2.8
+S-2026-000393,2026-06-16,West,Wholesale,Engobes,35,26.24,918.4,Transfer,0.5
+S-2026-000394,2026-06-16,West,Wholesale,Ready-to-use glazes,120,42.03,5043.6,Transfer,0.5
+S-2026-000395,2026-06-16,West,Wholesale,Ready-to-use glazes,46,42.49,1954.54,Transfer,0.5
+S-2026-000396,2026-06-16,North,Retail,Ready-to-use glazes,8,46.79,374.32,Cash,1.0
+S-2026-000397,2026-06-16,North,Wholesale,Ready-to-use glazes,36,42.02,1512.72,Transfer,0.5
+S-2026-000398,2026-06-16,West,Retail,Ready-to-use glazes,4,47.94,191.76,Credit card,2.8
+S-2026-000399,2026-06-16,North,Wholesale,Ready-to-use glazes,119,46.1,5485.9,Credit card,2.8
+S-2026-000400,2026-06-16,North,Retail,Ready-to-use glazes,7,52.19,365.33,Credit card,2.8
+S-2026-000401,2026-06-16,West,Retail,Ready-to-use glazes,5,48.17,240.85,Credit card,2.8
+S-2026-000402,2026-06-16,West,Wholesale,Engobes,125,24.77,3096.25,Transfer,0.5
+S-2026-000403,2026-06-17,West,Retail,Ready-to-use glazes,2,47.14,94.28,Cash,1.0
+S-2026-000404,2026-06-17,Central,Wholesale,Ready-to-use glazes,15,43.35,650.25,Transfer,0.5
+S-2026-000405,2026-06-17,North,Retail,Engobes,3,25.67,77.01,Credit card,2.8
+S-2026-000406,2026-06-17,Central,Wholesale,Ready-to-use glazes,76,44.58,3388.08,Transfer,0.5
+S-2026-000407,2026-06-17,Central,Retail,Ready-to-use glazes,9,49.41,444.69,Cash,1.0
+S-2026-000408,2026-06-17,Central,Wholesale,Frits,50,30.18,1509.0,Transfer,0.5
+S-2026-000409,2026-06-17,North,Wholesale,Ready-to-use glazes,22,42.29,930.38,Credit card,2.8
+S-2026-000410,2026-06-17,West,Wholesale,Ceramic pigments,63,110.9,6986.7,Transfer,0.5
+S-2026-000411,2026-06-17,Central,Wholesale,Ceramic pigments,46,108.34,4983.64,Transfer,0.5
+S-2026-000412,2026-06-17,West,Retail,Digital inks,10,217.23,2172.3,Transfer,0.5
+S-2026-000413,2026-06-17,Central,Wholesale,Ceramic pigments,87,106.22,9241.14,Credit card,2.8
+S-2026-000414,2026-06-17,West,Wholesale,Ready-to-use glazes,13,46.79,608.27,Transfer,0.5
+S-2026-000415,2026-06-17,West,Wholesale,Ceramic pigments,34,106.51,3621.34,Transfer,0.5
+S-2026-000416,2026-06-17,Central,Wholesale,Ready-to-use glazes,20,44.96,899.2,Transfer,0.5
+S-2026-000417,2026-06-17,Central,Retail,Digital inks,6,220.22,1321.32,Credit card,2.8
+S-2026-000418,2026-06-17,North,Wholesale,Frits,57,27.55,1570.35,Transfer,0.5
+S-2026-000419,2026-06-17,Central,Retail,Ready-to-use glazes,4,48.05,192.2,Credit card,2.8
+S-2026-000420,2026-06-17,North,Retail,Digital inks,7,215.37,1507.59,Credit card,2.8
+S-2026-000421,2026-06-17,Central,Wholesale,Digital inks,113,217.02,24523.26,Transfer,0.5
+S-2026-000422,2026-06-17,West,Wholesale,Digital inks,31,197.09,6109.79,Transfer,0.5
+S-2026-000423,2026-06-17,Central,Retail,Frits,3,30.51,91.53,Cash,1.0
+S-2026-000424,2026-06-17,West,Retail,Ready-to-use glazes,7,45.77,320.39,Cash,1.0
+S-2026-000425,2026-06-17,West,Wholesale,Ready-to-use glazes,59,49.51,2921.09,Transfer,0.5
+S-2026-000426,2026-06-17,West,Wholesale,Ceramic pigments,82,108.31,8881.42,Credit card,2.8
+S-2026-000427,2026-06-17,North,Retail,Digital inks,6,224.31,1345.86,Credit card,2.8
+S-2026-000428,2026-06-17,West,Wholesale,Ceramic pigments,63,107.54,6775.02,Transfer,0.5
+S-2026-000429,2026-06-17,West,Retail,Frits,8,31.41,251.28,Cash,1.0
+S-2026-000430,2026-06-17,West,Wholesale,Ready-to-use glazes,58,42.48,2463.84,Transfer,0.5
+S-2026-000431,2026-06-17,West,Wholesale,Ready-to-use glazes,32,45.0,1440.0,Transfer,0.5
+S-2026-000432,2026-06-17,North,Wholesale,Ready-to-use glazes,23,40.78,937.94,Transfer,0.5
+S-2026-000433,2026-06-17,North,Retail,Engobes,3,26.13,78.39,Cash,1.0
+S-2026-000434,2026-06-17,West,Retail,Frits,4,31.09,124.36,Credit card,2.8
+S-2026-000435,2026-06-17,Central,Wholesale,Ready-to-use glazes,17,45.74,777.58,Credit card,2.8
+S-2026-000436,2026-06-17,Central,Retail,Ready-to-use glazes,5,47.16,235.8,Cash,1.0
+S-2026-000437,2026-06-17,Central,Retail,Ready-to-use glazes,9,49.19,442.71,Credit card,2.8
+S-2026-000438,2026-06-17,North,Wholesale,Engobes,24,23.6,566.4,Transfer,0.5
+S-2026-000439,2026-06-18,West,Wholesale,Ready-to-use glazes,48,46.13,2214.24,Transfer,0.5
+S-2026-000440,2026-06-18,North,Retail,Frits,8,30.79,246.32,Credit card,2.8
+S-2026-000441,2026-06-18,Central,Wholesale,Frits,24,28.67,688.08,Transfer,0.5
+S-2026-000442,2026-06-18,North,Retail,Frits,5,30.86,154.3,Transfer,0.5
+S-2026-000443,2026-06-18,North,Wholesale,Ready-to-use glazes,36,45.44,1635.84,Transfer,0.5
+S-2026-000444,2026-06-18,North,Wholesale,Engobes,31,23.48,727.88,Transfer,0.5
+S-2026-000445,2026-06-18,North,Wholesale,Frits,38,29.01,1102.38,Transfer,0.5
+S-2026-000446,2026-06-18,West,Retail,Digital inks,10,205.86,2058.6,Credit card,2.8
+S-2026-000447,2026-06-18,West,Retail,Ready-to-use glazes,4,49.77,199.08,Cash,1.0
+S-2026-000448,2026-06-18,North,Wholesale,Digital inks,98,197.31,19336.38,Credit card,2.8
+S-2026-000449,2026-06-18,Central,Retail,Digital inks,5,204.44,1022.2,Cash,1.0
+S-2026-000450,2026-06-18,Central,Wholesale,Engobes,32,25.06,801.92,Transfer,0.5
+S-2026-000451,2026-06-18,North,Retail,Engobes,10,26.91,269.1,Transfer,0.5
+S-2026-000452,2026-06-18,West,Retail,Ready-to-use glazes,6,46.77,280.62,Credit card,2.8
+S-2026-000453,2026-06-18,North,Wholesale,Frits,53,29.25,1550.25,Transfer,0.5
+S-2026-000454,2026-06-18,North,Wholesale,Digital inks,223,205.22,45764.06,Transfer,0.5
+S-2026-000455,2026-06-18,Central,Wholesale,Engobes,25,25.66,641.5,Transfer,0.5
+S-2026-000456,2026-06-18,Central,Wholesale,Digital inks,17,205.69,3496.73,Transfer,0.5
+S-2026-000457,2026-06-18,Central,Retail,Frits,17,32.43,551.31,Credit card,2.8
+S-2026-000458,2026-06-18,North,Retail,Engobes,6,26.79,160.74,Credit card,2.8
+S-2026-000459,2026-06-19,North,Wholesale,Ready-to-use glazes,91,45.59,4148.69,Transfer,0.5
+S-2026-000460,2026-06-19,North,Wholesale,Ceramic pigments,55,106.86,5877.3,Transfer,0.5
+S-2026-000461,2026-06-19,North,Wholesale,Frits,46,28.82,1325.72,Transfer,0.5
+S-2026-000462,2026-06-19,North,Wholesale,Frits,38,28.92,1098.96,Transfer,0.5
+S-2026-000463,2026-06-19,West,Wholesale,Frits,9,28.94,260.46,Transfer,0.5
+S-2026-000464,2026-06-19,West,Wholesale,Digital inks,67,197.0,13199.0,Transfer,0.5
+S-2026-000465,2026-06-19,West,Wholesale,Ready-to-use glazes,67,46.35,3105.45,Credit card,2.8
+S-2026-000466,2026-06-19,Central,Retail,Digital inks,4,231.11,924.44,Cash,1.0
+S-2026-000467,2026-06-19,Central,Wholesale,Engobes,48,21.83,1047.84,Transfer,0.5
+S-2026-000468,2026-06-19,West,Retail,Digital inks,4,214.51,858.04,Credit card,2.8
+S-2026-000469,2026-06-19,West,Retail,Engobes,4,27.61,110.44,Cash,1.0
+S-2026-000470,2026-06-19,North,Retail,Engobes,3,26.23,78.69,Cash,1.0
+S-2026-000471,2026-06-19,Central,Wholesale,Engobes,156,24.34,3797.04,Transfer,0.5
+S-2026-000472,2026-06-19,North,Wholesale,Ready-to-use glazes,51,45.12,2301.12,Transfer,0.5
+S-2026-000473,2026-06-19,West,Wholesale,Ready-to-use glazes,34,44.35,1507.9,Transfer,0.5
+S-2026-000474,2026-06-19,North,Wholesale,Frits,16,29.46,471.36,Transfer,0.5
+S-2026-000475,2026-06-19,Central,Wholesale,Ready-to-use glazes,44,41.38,1820.72,Transfer,0.5
+S-2026-000476,2026-06-19,West,Wholesale,Digital inks,40,202.96,8118.4,Transfer,0.5
+S-2026-000477,2026-06-19,Central,Wholesale,Ceramic pigments,83,99.89,8290.87,Credit card,2.8
+S-2026-000478,2026-06-19,Central,Wholesale,Ready-to-use glazes,22,44.26,973.72,Transfer,0.5
+S-2026-000479,2026-06-19,Central,Wholesale,Engobes,142,24.99,3548.58,Transfer,0.5
+S-2026-000480,2026-06-19,Central,Wholesale,Digital inks,30,202.8,6084.0,Transfer,0.5
+S-2026-000481,2026-06-19,North,Wholesale,Ready-to-use glazes,40,43.22,1728.8,Transfer,0.5
+S-2026-000482,2026-06-19,Central,Retail,Engobes,4,25.94,103.76,Cash,1.0
+S-2026-000483,2026-06-19,North,Retail,Ceramic pigments,7,114.52,801.64,Credit card,2.8
+S-2026-000484,2026-06-19,Central,Wholesale,Ready-to-use glazes,21,42.82,899.22,Transfer,0.5
+S-2026-000485,2026-06-19,North,Wholesale,Ready-to-use glazes,37,45.65,1689.05,Transfer,0.5
+S-2026-000486,2026-06-19,West,Wholesale,Ceramic pigments,49,108.79,5330.71,Credit card,2.8
+S-2026-000487,2026-06-19,West,Wholesale,Ceramic pigments,8,109.48,875.84,Transfer,0.5
+S-2026-000488,2026-06-19,Central,Retail,Frits,11,29.37,323.07,Transfer,0.5
+S-2026-000489,2026-06-19,Central,Wholesale,Digital inks,109,190.19,20730.71,Credit card,2.8
+S-2026-000490,2026-06-19,North,Retail,Digital inks,7,208.76,1461.32,Transfer,0.5
+S-2026-000491,2026-06-19,Central,Wholesale,Frits,56,25.99,1455.44,Transfer,0.5
+S-2026-000492,2026-06-20,North,Wholesale,Engobes,33,22.58,745.14,Credit card,2.8
+S-2026-000493,2026-06-20,Central,Wholesale,Frits,29,30.33,879.57,Transfer,0.5
+S-2026-000494,2026-06-20,North,Retail,Ceramic pigments,3,118.08,354.24,Cash,1.0
+S-2026-000495,2026-06-20,Central,Wholesale,Engobes,132,24.45,3227.4,Credit card,2.8
+S-2026-000496,2026-06-20,North,Retail,Engobes,15,24.91,373.65,Credit card,2.8
+S-2026-000497,2026-06-20,North,Wholesale,Ready-to-use glazes,34,42.86,1457.24,Credit card,2.8
+S-2026-000498,2026-06-21,Central,Retail,Digital inks,4,212.8,851.2,Credit card,2.8
+S-2026-000499,2026-06-21,North,Wholesale,Frits,22,30.73,676.06,Transfer,0.5
+S-2026-000500,2026-06-21,Central,Retail,Digital inks,4,203.5,814.0,Transfer,0.5
+S-2026-000501,2026-06-21,Central,Wholesale,Ready-to-use glazes,40,43.38,1735.2,Transfer,0.5
+S-2026-000502,2026-06-21,Central,Wholesale,Ceramic pigments,13,114.78,1492.14,Credit card,2.8
+S-2026-000503,2026-06-21,North,Wholesale,Ceramic pigments,159,102.97,16372.23,Transfer,0.5
+S-2026-000504,2026-06-21,North,Retail,Ceramic pigments,8,121.38,971.04,Credit card,2.8
+S-2026-000505,2026-06-21,Central,Wholesale,Digital inks,15,196.42,2946.3,Transfer,0.5
+S-2026-000506,2026-06-22,Central,Wholesale,Ceramic pigments,33,121.14,3997.62,Transfer,0.5
+S-2026-000507,2026-06-22,North,Wholesale,Frits,17,30.13,512.21,Credit card,2.8
+S-2026-000508,2026-06-22,North,Wholesale,Ready-to-use glazes,25,46.25,1156.25,Transfer,0.5
+S-2026-000509,2026-06-22,North,Retail,Engobes,10,25.31,253.1,Cash,1.0
+S-2026-000510,2026-06-22,Central,Retail,Ceramic pigments,4,121.87,487.48,Cash,1.0
+S-2026-000511,2026-06-22,Central,Retail,Digital inks,6,213.93,1283.58,Credit card,2.8
+S-2026-000512,2026-06-22,West,Wholesale,Ready-to-use glazes,31,42.33,1312.23,Transfer,0.5
+S-2026-000513,2026-06-22,North,Wholesale,Ready-to-use glazes,8,46.59,372.72,Transfer,0.5
+S-2026-000514,2026-06-22,North,Wholesale,Engobes,29,24.37,706.73,Transfer,0.5
+S-2026-000515,2026-06-22,North,Wholesale,Ready-to-use glazes,85,43.89,3730.65,Transfer,0.5
+S-2026-000516,2026-06-22,Central,Wholesale,Ready-to-use glazes,35,44.17,1545.95,Transfer,0.5
+S-2026-000517,2026-06-22,Central,Wholesale,Engobes,13,21.94,285.22,Transfer,0.5
+S-2026-000518,2026-06-22,West,Retail,Ceramic pigments,8,124.08,992.64,Credit card,2.8
+S-2026-000519,2026-06-22,North,Wholesale,Digital inks,75,186.56,13992.0,Transfer,0.5
+S-2026-000520,2026-06-22,Central,Wholesale,Ready-to-use glazes,8,42.47,339.76,Transfer,0.5
+S-2026-000521,2026-06-22,West,Retail,Ceramic pigments,4,119.29,477.16,Credit card,2.8
+S-2026-000522,2026-06-22,North,Retail,Digital inks,3,212.1,636.3,Cash,1.0
+S-2026-000523,2026-06-22,North,Wholesale,Frits,127,28.93,3674.11,Transfer,0.5
+S-2026-000524,2026-06-22,Central,Wholesale,Frits,29,29.92,867.68,Transfer,0.5
+S-2026-000525,2026-06-22,Central,Wholesale,Ceramic pigments,37,103.68,3836.16,Credit card,2.8
+S-2026-000526,2026-06-22,Central,Retail,Engobes,11,25.09,275.99,Credit card,2.8
+S-2026-000527,2026-06-22,Central,Wholesale,Engobes,91,22.82,2076.62,Credit card,2.8
+S-2026-000528,2026-06-22,West,Wholesale,Ready-to-use glazes,54,43.34,2340.36,Transfer,0.5
+S-2026-000529,2026-06-22,West,Retail,Frits,8,30.35,242.8,Credit card,2.8
+S-2026-000530,2026-06-22,West,Wholesale,Ready-to-use glazes,249,40.16,9999.84,Transfer,0.5
+S-2026-000531,2026-06-22,West,Wholesale,Engobes,38,25.35,963.3,Transfer,0.5
+S-2026-000532,2026-06-22,North,Wholesale,Ceramic pigments,23,107.2,2465.6,Credit card,2.8
+S-2026-000533,2026-06-22,Central,Retail,Ready-to-use glazes,6,48.46,290.76,Cash,1.0
+S-2026-000534,2026-06-22,West,Retail,Ready-to-use glazes,5,48.29,241.45,Credit card,2.8
+S-2026-000535,2026-06-22,Central,Wholesale,Frits,21,27.24,572.04,Transfer,0.5
+S-2026-000536,2026-06-22,North,Wholesale,Engobes,375,24.27,9101.25,Transfer,0.5
+S-2026-000537,2026-06-22,West,Wholesale,Frits,47,27.91,1311.77,Transfer,0.5
+S-2026-000538,2026-06-22,North,Wholesale,Digital inks,32,216.7,6934.4,Transfer,0.5
+S-2026-000539,2026-06-22,West,Wholesale,Ready-to-use glazes,48,46.64,2238.72,Credit card,2.8
+S-2026-000540,2026-06-22,North,Wholesale,Frits,81,29.13,2359.53,Transfer,0.5
+S-2026-000541,2026-06-22,West,Retail,Engobes,7,25.53,178.71,Credit card,2.8
+S-2026-000542,2026-06-22,North,Wholesale,Frits,63,30.57,1925.91,Transfer,0.5
+S-2026-000543,2026-06-22,North,Wholesale,Digital inks,68,199.84,13589.12,Transfer,0.5
+S-2026-000544,2026-06-22,Central,Wholesale,Engobes,41,24.35,998.35,Transfer,0.5
+S-2026-000545,2026-06-23,Central,Wholesale,Engobes,48,24.49,1175.52,Credit card,2.8
+S-2026-000546,2026-06-23,North,Retail,Frits,6,31.16,186.96,Credit card,2.8
+S-2026-000547,2026-06-23,North,Wholesale,Ready-to-use glazes,15,42.62,639.3,Transfer,0.5
+S-2026-000548,2026-06-23,Central,Retail,Digital inks,3,218.15,654.45,Credit card,2.8
+S-2026-000549,2026-06-23,Central,Wholesale,Ceramic pigments,16,105.94,1695.04,Credit card,2.8
+S-2026-000550,2026-06-23,Central,Retail,Digital inks,7,225.59,1579.13,Cash,1.0
+S-2026-000551,2026-06-23,North,Wholesale,Frits,73,29.92,2184.16,Credit card,2.8
+S-2026-000552,2026-06-23,North,Wholesale,Ready-to-use glazes,14,47.55,665.7,Transfer,0.5
+S-2026-000553,2026-06-23,Central,Wholesale,Ready-to-use glazes,50,46.62,2331.0,Transfer,0.5
+S-2026-000554,2026-06-23,North,Wholesale,Frits,28,27.05,757.4,Credit card,2.8
+S-2026-000555,2026-06-23,West,Wholesale,Ready-to-use glazes,39,45.54,1776.06,Transfer,0.5
+S-2026-000556,2026-06-23,West,Wholesale,Ceramic pigments,69,113.77,7850.13,Transfer,0.5
+S-2026-000557,2026-06-23,North,Wholesale,Ready-to-use glazes,63,46.14,2906.82,Transfer,0.5
+S-2026-000558,2026-06-23,Central,Wholesale,Frits,32,28.09,898.88,Transfer,0.5
+S-2026-000559,2026-06-23,West,Wholesale,Frits,84,29.08,2442.72,Credit card,2.8
+S-2026-000560,2026-06-23,North,Retail,Engobes,15,25.77,386.55,Credit card,2.8
+S-2026-000561,2026-06-23,Central,Wholesale,Frits,29,30.0,870.0,Transfer,0.5
+S-2026-000562,2026-06-23,West,Wholesale,Ceramic pigments,49,115.3,5649.7,Transfer,0.5
+S-2026-000563,2026-06-23,West,Wholesale,Digital inks,52,210.54,10948.08,Transfer,0.5
+S-2026-000564,2026-06-23,North,Retail,Frits,7,29.56,206.92,Cash,1.0
+S-2026-000565,2026-06-23,Central,Wholesale,Engobes,71,23.32,1655.72,Transfer,0.5
+S-2026-000566,2026-06-23,North,Wholesale,Ready-to-use glazes,203,46.59,9457.77,Transfer,0.5
+S-2026-000567,2026-06-23,West,Wholesale,Digital inks,65,206.22,13404.3,Credit card,2.8
+S-2026-000568,2026-06-23,North,Retail,Ceramic pigments,2,113.81,227.62,Credit card,2.8
+S-2026-000569,2026-06-23,West,Wholesale,Ready-to-use glazes,49,44.46,2178.54,Transfer,0.5
+S-2026-000570,2026-06-23,Central,Retail,Digital inks,3,221.32,663.96,Cash,1.0
+S-2026-000571,2026-06-23,Central,Retail,Engobes,2,24.38,48.76,Credit card,2.8
+S-2026-000572,2026-06-23,West,Wholesale,Digital inks,24,202.68,4864.32,Transfer,0.5
+S-2026-000573,2026-06-23,Central,Wholesale,Ceramic pigments,54,107.5,5805.0,Transfer,0.5
+S-2026-000574,2026-06-23,West,Wholesale,Ready-to-use glazes,28,46.87,1312.36,Transfer,0.5
+S-2026-000575,2026-06-23,West,Wholesale,Frits,45,26.98,1214.1,Credit card,2.8
+S-2026-000576,2026-06-23,North,Retail,Engobes,6,25.95,155.7,Cash,1.0
+S-2026-000577,2026-06-23,Central,Wholesale,Digital inks,45,203.26,9146.7,Credit card,2.8
+S-2026-000578,2026-06-23,West,Wholesale,Ready-to-use glazes,59,42.78,2524.02,Transfer,0.5
+S-2026-000579,2026-06-23,West,Wholesale,Ceramic pigments,72,115.53,8318.16,Transfer,0.5
+S-2026-000580,2026-06-23,North,Wholesale,Engobes,65,23.78,1545.7,Transfer,0.5
+S-2026-000581,2026-06-23,North,Wholesale,Frits,55,29.1,1600.5,Transfer,0.5
+S-2026-000582,2026-06-23,North,Wholesale,Engobes,31,23.95,742.45,Credit card,2.8
+S-2026-000583,2026-06-24,North,Wholesale,Frits,57,26.54,1512.78,Transfer,0.5
+S-2026-000584,2026-06-24,West,Retail,Digital inks,15,211.41,3171.15,Credit card,2.8
+S-2026-000585,2026-06-24,North,Wholesale,Engobes,33,25.66,846.78,Credit card,2.8
+S-2026-000586,2026-06-24,Central,Wholesale,Ready-to-use glazes,16,41.77,668.32,Credit card,2.8
+S-2026-000587,2026-06-24,West,Retail,Ready-to-use glazes,22,49.98,1099.56,Credit card,2.8
+S-2026-000588,2026-06-24,Central,Wholesale,Ready-to-use glazes,36,45.21,1627.56,Transfer,0.5
+S-2026-000589,2026-06-24,Central,Wholesale,Engobes,48,22.99,1103.52,Transfer,0.5
+S-2026-000590,2026-06-24,Central,Wholesale,Ceramic pigments,15,111.68,1675.2,Transfer,0.5
+S-2026-000591,2026-06-24,Central,Wholesale,Ready-to-use glazes,21,42.81,899.01,Credit card,2.8
+S-2026-000592,2026-06-24,North,Wholesale,Engobes,52,26.04,1354.08,Credit card,2.8
+S-2026-000593,2026-06-24,North,Wholesale,Ready-to-use glazes,27,45.75,1235.25,Transfer,0.5
+S-2026-000594,2026-06-24,North,Retail,Frits,6,29.7,178.2,Cash,1.0
+S-2026-000595,2026-06-24,Central,Wholesale,Digital inks,117,195.74,22901.58,Transfer,0.5
+S-2026-000596,2026-06-24,Central,Wholesale,Digital inks,51,205.6,10485.6,Transfer,0.5
+S-2026-000597,2026-06-24,Central,Wholesale,Ready-to-use glazes,41,41.85,1715.85,Transfer,0.5
+S-2026-000598,2026-06-24,Central,Wholesale,Ready-to-use glazes,44,45.09,1983.96,Transfer,0.5
+S-2026-000599,2026-06-24,North,Retail,Frits,3,30.84,92.52,Transfer,0.5
+S-2026-000600,2026-06-24,North,Retail,Ready-to-use glazes,10,47.2,472.0,Transfer,0.5
+S-2026-000601,2026-06-24,West,Wholesale,Ceramic pigments,5,101.67,508.35,Transfer,0.5
+S-2026-000602,2026-06-24,West,Retail,Frits,2,31.1,62.2,Credit card,2.8
+S-2026-000603,2026-06-24,Central,Retail,Digital inks,3,232.42,697.26,Transfer,0.5
+S-2026-000604,2026-06-24,Central,Wholesale,Frits,41,28.07,1150.87,Transfer,0.5
+S-2026-000605,2026-06-24,Central,Wholesale,Frits,32,27.54,881.28,Transfer,0.5
+S-2026-000606,2026-06-24,West,Wholesale,Ready-to-use glazes,80,44.29,3543.2,Transfer,0.5
+S-2026-000607,2026-06-24,North,Wholesale,Frits,23,28.64,658.72,Transfer,0.5
+S-2026-000608,2026-06-24,Central,Wholesale,Ceramic pigments,20,106.83,2136.6,Transfer,0.5
+S-2026-000609,2026-06-24,North,Wholesale,Frits,71,27.48,1951.08,Credit card,2.8
+S-2026-000610,2026-06-24,West,Retail,Digital inks,5,209.26,1046.3,Cash,1.0
+S-2026-000611,2026-06-24,North,Wholesale,Ready-to-use glazes,18,40.57,730.26,Credit card,2.8
+S-2026-000612,2026-06-25,North,Wholesale,Ready-to-use glazes,28,45.78,1281.84,Transfer,0.5
+S-2026-000613,2026-06-25,West,Retail,Ready-to-use glazes,9,46.94,422.46,Cash,1.0
+S-2026-000614,2026-06-25,North,Wholesale,Ceramic pigments,32,113.69,3638.08,Transfer,0.5
+S-2026-000615,2026-06-25,North,Wholesale,Ready-to-use glazes,17,46.95,798.15,Transfer,0.5
+S-2026-000616,2026-06-25,West,Wholesale,Frits,80,31.35,2508.0,Transfer,0.5
+S-2026-000617,2026-06-25,Central,Retail,Ready-to-use glazes,4,46.38,185.52,Transfer,0.5
+S-2026-000618,2026-06-25,West,Wholesale,Frits,57,28.03,1597.71,Transfer,0.5
+S-2026-000619,2026-06-25,West,Wholesale,Digital inks,19,201.34,3825.46,Transfer,0.5
+S-2026-000620,2026-06-25,Central,Retail,Digital inks,7,220.09,1540.63,Credit card,2.8
+S-2026-000621,2026-06-25,West,Wholesale,Digital inks,25,199.06,4976.5,Transfer,0.5
+S-2026-000622,2026-06-25,West,Wholesale,Ready-to-use glazes,107,44.29,4739.03,Transfer,0.5
+S-2026-000623,2026-06-25,Central,Retail,Frits,25,31.97,799.25,Credit card,2.8
+S-2026-000624,2026-06-25,North,Wholesale,Digital inks,25,199.18,4979.5,Transfer,0.5
+S-2026-000625,2026-06-25,North,Wholesale,Frits,177,29.38,5200.26,Transfer,0.5
+S-2026-000626,2026-06-25,Central,Wholesale,Ready-to-use glazes,180,45.26,8146.8,Transfer,0.5
+S-2026-000627,2026-06-25,Central,Retail,Frits,10,31.08,310.8,Transfer,0.5
+S-2026-000628,2026-06-25,West,Wholesale,Digital inks,98,191.13,18730.74,Transfer,0.5
+S-2026-000629,2026-06-25,Central,Wholesale,Ceramic pigments,65,119.24,7750.6,Transfer,0.5
+S-2026-000630,2026-06-25,Central,Retail,Digital inks,7,224.44,1571.08,Cash,1.0
+S-2026-000631,2026-06-25,North,Wholesale,Ready-to-use glazes,122,45.87,5596.14,Credit card,2.8
+S-2026-000632,2026-06-25,North,Wholesale,Ceramic pigments,47,109.96,5168.12,Transfer,0.5
+S-2026-000633,2026-06-25,West,Retail,Ready-to-use glazes,5,48.95,244.75,Credit card,2.8
+S-2026-000634,2026-06-25,North,Wholesale,Ceramic pigments,28,110.62,3097.36,Credit card,2.8
+S-2026-000635,2026-06-25,West,Wholesale,Engobes,23,22.71,522.33,Transfer,0.5
+S-2026-000636,2026-06-25,North,Wholesale,Frits,117,29.35,3433.95,Transfer,0.5
+S-2026-000637,2026-06-25,West,Wholesale,Digital inks,68,194.39,13218.52,Transfer,0.5
+S-2026-000638,2026-06-25,Central,Wholesale,Frits,65,28.91,1879.15,Transfer,0.5
+S-2026-000639,2026-06-25,North,Retail,Ready-to-use glazes,5,45.23,226.15,Cash,1.0
+S-2026-000640,2026-06-25,Central,Wholesale,Engobes,37,23.78,879.86,Transfer,0.5
+S-2026-000641,2026-06-25,Central,Wholesale,Ready-to-use glazes,31,42.63,1321.53,Transfer,0.5
+S-2026-000642,2026-06-25,North,Wholesale,Ready-to-use glazes,55,42.23,2322.65,Credit card,2.8
+S-2026-000643,2026-06-25,North,Wholesale,Ready-to-use glazes,151,45.43,6859.93,Transfer,0.5
+S-2026-000644,2026-06-25,West,Wholesale,Digital inks,9,197.4,1776.6,Credit card,2.8
+S-2026-000645,2026-06-26,West,Wholesale,Engobes,17,24.03,408.51,Transfer,0.5
+S-2026-000646,2026-06-26,Central,Wholesale,Ready-to-use glazes,26,44.03,1144.78,Transfer,0.5
+S-2026-000647,2026-06-26,Central,Wholesale,Engobes,50,24.8,1240.0,Transfer,0.5
+S-2026-000648,2026-06-26,North,Wholesale,Frits,20,28.22,564.4,Transfer,0.5
+S-2026-000649,2026-06-26,West,Wholesale,Engobes,26,23.67,615.42,Transfer,0.5
+S-2026-000650,2026-06-26,North,Wholesale,Engobes,93,24.22,2252.46,Transfer,0.5
+S-2026-000651,2026-06-26,North,Retail,Frits,3,30.7,92.1,Cash,1.0
+S-2026-000652,2026-06-26,West,Wholesale,Engobes,32,24.27,776.64,Credit card,2.8
+S-2026-000653,2026-06-26,North,Retail,Frits,11,30.86,339.46,Transfer,0.5
+S-2026-000654,2026-06-26,North,Retail,Ready-to-use glazes,4,46.11,184.44,Credit card,2.8
+S-2026-000655,2026-06-26,North,Wholesale,Ready-to-use glazes,45,46.82,2106.9,Transfer,0.5
+S-2026-000656,2026-06-26,West,Retail,Ceramic pigments,10,122.6,1226.0,Credit card,2.8
+S-2026-000657,2026-06-26,West,Wholesale,Ceramic pigments,18,104.9,1888.2,Transfer,0.5
+S-2026-000658,2026-06-26,West,Retail,Ready-to-use glazes,8,45.71,365.68,Credit card,2.8
+S-2026-000659,2026-06-26,Central,Retail,Frits,6,29.85,179.1,Cash,1.0
+S-2026-000660,2026-06-26,Central,Retail,Ready-to-use glazes,3,48.47,145.41,Cash,1.0
+S-2026-000661,2026-06-26,North,Wholesale,Ready-to-use glazes,16,45.49,727.84,Transfer,0.5
+S-2026-000662,2026-06-26,West,Retail,Ready-to-use glazes,7,46.4,324.8,Transfer,0.5
+S-2026-000663,2026-06-26,Central,Wholesale,Ready-to-use glazes,60,41.21,2472.6,Transfer,0.5
+S-2026-000664,2026-06-26,Central,Wholesale,Digital inks,19,201.95,3837.05,Credit card,2.8
+S-2026-000665,2026-06-26,Central,Retail,Digital inks,2,215.28,430.56,Cash,1.0
+S-2026-000666,2026-06-26,Central,Wholesale,Ready-to-use glazes,17,41.75,709.75,Credit card,2.8
+S-2026-000667,2026-06-26,West,Wholesale,Digital inks,34,203.72,6926.48,Credit card,2.8
+S-2026-000668,2026-06-26,West,Wholesale,Engobes,87,26.08,2268.96,Transfer,0.5
+S-2026-000669,2026-06-26,North,Wholesale,Engobes,43,23.92,1028.56,Transfer,0.5
+S-2026-000670,2026-06-26,Central,Wholesale,Frits,16,28.92,462.72,Transfer,0.5
+S-2026-000671,2026-06-26,West,Wholesale,Ready-to-use glazes,109,43.07,4694.63,Transfer,0.5
+S-2026-000672,2026-06-26,North,Wholesale,Ready-to-use glazes,28,42.78,1197.84,Transfer,0.5
+S-2026-000673,2026-06-26,Central,Wholesale,Digital inks,21,193.3,4059.3,Transfer,0.5
+S-2026-000674,2026-06-26,North,Wholesale,Frits,12,27.2,326.4,Credit card,2.8
+S-2026-000675,2026-06-26,Central,Wholesale,Frits,48,28.03,1345.44,Transfer,0.5
+S-2026-000676,2026-06-26,North,Wholesale,Ready-to-use glazes,34,44.21,1503.14,Credit card,2.8
+S-2026-000677,2026-06-26,West,Retail,Frits,5,30.6,153.0,Credit card,2.8
+S-2026-000678,2026-06-26,West,Wholesale,Ready-to-use glazes,42,42.92,1802.64,Transfer,0.5
+S-2026-000679,2026-06-26,North,Wholesale,Frits,91,30.16,2744.56,Transfer,0.5
+S-2026-000680,2026-06-26,North,Wholesale,Digital inks,18,191.68,3450.24,Transfer,0.5
+S-2026-000681,2026-06-26,West,Wholesale,Frits,62,28.95,1794.9,Transfer,0.5
+S-2026-000682,2026-06-27,West,Wholesale,Ceramic pigments,32,111.87,3579.84,Transfer,0.5
+S-2026-000683,2026-06-27,Central,Retail,Engobes,8,25.97,207.76,Credit card,2.8
+S-2026-000684,2026-06-27,Central,Retail,Digital inks,3,224.53,673.59,Credit card,2.8
+S-2026-000685,2026-06-27,Central,Wholesale,Ceramic pigments,125,112.5,14062.5,Transfer,0.5
+S-2026-000686,2026-06-27,Central,Retail,Ready-to-use glazes,8,46.07,368.56,Credit card,2.8
+S-2026-000687,2026-06-27,North,Wholesale,Engobes,27,24.68,666.36,Transfer,0.5
+S-2026-000688,2026-06-27,North,Wholesale,Digital inks,74,185.92,13758.08,Transfer,0.5
+S-2026-000689,2026-06-27,North,Wholesale,Digital inks,24,199.15,4779.6,Transfer,0.5
+S-2026-000690,2026-06-27,Central,Retail,Engobes,18,26.91,484.38,Credit card,2.8
+S-2026-000691,2026-06-27,Central,Wholesale,Ready-to-use glazes,79,46.44,3668.76,Credit card,2.8
+S-2026-000692,2026-06-27,West,Retail,Digital inks,2,226.33,452.66,Credit card,2.8
+S-2026-000693,2026-06-28,North,Retail,Engobes,4,26.53,106.12,Transfer,0.5
+S-2026-000694,2026-06-28,Central,Wholesale,Frits,34,28.42,966.28,Credit card,2.8
+S-2026-000695,2026-06-28,North,Retail,Frits,15,30.02,450.3,Credit card,2.8
+S-2026-000696,2026-06-28,West,Wholesale,Ready-to-use glazes,73,45.82,3344.86,Transfer,0.5
+S-2026-000697,2026-06-28,Central,Wholesale,Ready-to-use glazes,36,46.13,1660.68,Transfer,0.5
+S-2026-000698,2026-06-28,West,Retail,Digital inks,7,204.3,1430.1,Cash,1.0
+S-2026-000699,2026-06-28,North,Wholesale,Frits,24,28.46,683.04,Transfer,0.5
+S-2026-000700,2026-06-28,North,Retail,Frits,5,31.47,157.35,Credit card,2.8
+S-2026-000701,2026-06-28,North,Wholesale,Ready-to-use glazes,10,43.92,439.2,Transfer,0.5
+S-2026-000702,2026-06-28,North,Retail,Engobes,4,26.54,106.16,Credit card,2.8
+S-2026-000703,2026-06-29,West,Wholesale,Frits,34,29.01,986.34,Transfer,0.5
+S-2026-000704,2026-06-29,West,Wholesale,Frits,17,27.26,463.42,Transfer,0.5
+S-2026-000705,2026-06-29,West,Retail,Ready-to-use glazes,7,49.75,348.25,Transfer,0.5
+S-2026-000706,2026-06-29,Central,Wholesale,Engobes,35,23.63,827.05,Transfer,0.5
+S-2026-000707,2026-06-29,West,Retail,Frits,13,29.57,384.41,Cash,1.0
+S-2026-000708,2026-06-29,West,Retail,Engobes,12,26.41,316.92,Credit card,2.8
+S-2026-000709,2026-06-29,West,Retail,Engobes,6,26.36,158.16,Cash,1.0
+S-2026-000710,2026-06-29,Central,Retail,Ceramic pigments,2,119.64,239.28,Credit card,2.8
+S-2026-000711,2026-06-29,Central,Wholesale,Digital inks,19,204.88,3892.72,Transfer,0.5
+S-2026-000712,2026-06-29,Central,Wholesale,Frits,34,27.06,920.04,Transfer,0.5
+S-2026-000713,2026-06-29,West,Wholesale,Digital inks,13,204.68,2660.84,Transfer,0.5
+S-2026-000714,2026-06-29,Central,Wholesale,Digital inks,43,196.2,8436.6,Transfer,0.5
+S-2026-000715,2026-06-29,Central,Wholesale,Frits,48,29.07,1395.36,Credit card,2.8
+S-2026-000716,2026-06-29,North,Retail,Frits,13,31.82,413.66,Transfer,0.5
+S-2026-000717,2026-06-29,North,Wholesale,Frits,75,26.92,2019.0,Credit card,2.8
+S-2026-000718,2026-06-29,North,Wholesale,Ceramic pigments,82,112.63,9235.66,Transfer,0.5
+S-2026-000719,2026-06-29,Central,Wholesale,Frits,18,27.59,496.62,Transfer,0.5
+S-2026-000720,2026-06-29,Central,Wholesale,Ready-to-use glazes,64,43.01,2752.64,Transfer,0.5
+S-2026-000721,2026-06-29,Central,Wholesale,Engobes,25,22.56,564.0,Transfer,0.5
+S-2026-000722,2026-06-29,West,Wholesale,Digital inks,30,209.67,6290.1,Transfer,0.5
+S-2026-000723,2026-06-29,West,Retail,Ready-to-use glazes,21,50.42,1058.82,Cash,1.0
+S-2026-000724,2026-06-29,West,Wholesale,Ready-to-use glazes,26,43.84,1139.84,Transfer,0.5
+S-2026-000725,2026-06-29,West,Wholesale,Engobes,14,24.96,349.44,Transfer,0.5
+S-2026-000726,2026-06-29,West,Wholesale,Ready-to-use glazes,40,47.13,1885.2,Transfer,0.5
+S-2026-000727,2026-06-29,Central,Wholesale,Digital inks,113,210.41,23776.33,Credit card,2.8
+S-2026-000728,2026-06-29,Central,Wholesale,Digital inks,24,201.68,4840.32,Transfer,0.5
+S-2026-000729,2026-06-29,Central,Wholesale,Ceramic pigments,38,101.21,3845.98,Transfer,0.5
+S-2026-000730,2026-06-29,North,Wholesale,Frits,16,30.69,491.04,Transfer,0.5
+S-2026-000731,2026-06-29,West,Retail,Digital inks,6,220.18,1321.08,Credit card,2.8
+S-2026-000732,2026-06-30,Central,Retail,Frits,3,31.03,93.09,Cash,1.0
+S-2026-000733,2026-06-30,West,Retail,Ceramic pigments,7,121.23,848.61,Cash,1.0
+S-2026-000734,2026-06-30,West,Wholesale,Frits,35,27.39,958.65,Transfer,0.5
+S-2026-000735,2026-06-30,Central,Retail,Digital inks,5,227.6,1138.0,Credit card,2.8
+S-2026-000736,2026-06-30,Central,Wholesale,Engobes,9,23.57,212.13,Transfer,0.5
+S-2026-000737,2026-06-30,North,Wholesale,Frits,208,27.25,5668.0,Transfer,0.5
+S-2026-000738,2026-06-30,North,Wholesale,Ready-to-use glazes,36,43.09,1551.24,Credit card,2.8
+S-2026-000739,2026-06-30,Central,Retail,Digital inks,3,199.21,597.63,Credit card,2.8
+S-2026-000740,2026-06-30,North,Retail,Ceramic pigments,17,117.95,2005.15,Cash,1.0
+S-2026-000741,2026-06-30,Central,Wholesale,Engobes,39,23.98,935.22,Transfer,0.5
+S-2026-000742,2026-06-30,Central,Wholesale,Ready-to-use glazes,113,44.36,5012.68,Credit card,2.8
+S-2026-000743,2026-06-30,Central,Wholesale,Ready-to-use glazes,33,43.82,1446.06,Transfer,0.5
+S-2026-000744,2026-06-30,West,Wholesale,Frits,39,29.67,1157.13,Transfer,0.5
+S-2026-000745,2026-06-30,North,Wholesale,Ceramic pigments,29,104.04,3017.16,Transfer,0.5
+S-2026-000746,2026-06-30,West,Wholesale,Engobes,77,24.88,1915.76,Transfer,0.5
+S-2026-000747,2026-06-30,Central,Wholesale,Engobes,113,25.0,2825.0,Transfer,0.5
+S-2026-000748,2026-06-30,Central,Retail,Ready-to-use glazes,6,47.98,287.88,Transfer,0.5
+S-2026-000749,2026-06-30,Central,Retail,Digital inks,7,224.64,1572.48,Credit card,2.8
+S-2026-000750,2026-06-30,West,Retail,Digital inks,8,211.83,1694.64,Credit card,2.8
+S-2026-000751,2026-06-30,Central,Retail,Frits,5,29.44,147.2,Credit card,2.8
+S-2026-000752,2026-06-30,North,Wholesale,Frits,29,28.15,816.35,Credit card,2.8
+S-2026-000753,2026-06-30,West,Retail,Engobes,6,25.67,154.02,Cash,1.0
+S-2026-000754,2026-06-30,West,Wholesale,Ready-to-use glazes,114,46.93,5350.02,Transfer,0.5
+S-2026-000755,2026-06-30,North,Wholesale,Ceramic pigments,51,112.35,5729.85,Transfer,0.5
+S-2026-000756,2026-06-30,West,Wholesale,Engobes,29,23.37,677.73,Transfer,0.5
+S-2026-000757,2026-06-30,Central,Retail,Frits,4,31.77,127.08,Cash,1.0
+S-2026-000758,2026-06-30,West,Retail,Digital inks,6,222.72,1336.32,Credit card,2.8
+S-2026-000759,2026-06-30,Central,Retail,Ceramic pigments,10,116.7,1167.0,Credit card,2.8
+S-2026-000760,2026-06-30,North,Retail,Ready-to-use glazes,9,48.63,437.67,Cash,1.0
+S-2026-000761,2026-06-30,Central,Wholesale,Ceramic pigments,77,110.05,8473.85,Transfer,0.5
+S-2026-000762,2026-06-30,North,Wholesale,Ready-to-use glazes,14,42.98,601.72,Credit card,2.8
+S-2026-000763,2026-06-30,Central,Wholesale,Engobes,10,24.7,247.0,Transfer,0.5
+S-2026-000764,2026-06-30,North,Retail,Frits,5,30.86,154.3,Credit card,2.8
+S-2026-000765,2026-06-30,Central,Retail,Frits,3,32.11,96.33,Cash,1.0
+S-2026-000766,2026-06-30,North,Wholesale,Digital inks,100,196.27,19627.0,Transfer,0.5
+S-2026-000767,2026-07-01,West,Retail,Ceramic pigments,10,116.03,1160.3,Transfer,0.5
+S-2026-000768,2026-07-01,West,Retail,Ceramic pigments,8,112.68,901.44,Credit card,2.8
+S-2026-000769,2026-07-01,Central,Retail,Digital inks,7,223.32,1563.24,Credit card,2.8
+S-2026-000770,2026-07-01,West,Retail,Ready-to-use glazes,7,47.15,330.05,Credit card,2.8
+S-2026-000771,2026-07-01,North,Wholesale,Engobes,42,23.97,1006.74,Credit card,2.8
+S-2026-000772,2026-07-01,Central,Wholesale,Frits,35,27.05,946.75,Transfer,0.5
+S-2026-000773,2026-07-01,Central,Retail,Engobes,3,25.33,75.99,Credit card,2.8
+S-2026-000774,2026-07-01,North,Retail,Ceramic pigments,2,115.16,230.32,Credit card,2.8
+S-2026-000775,2026-07-01,West,Retail,Engobes,2,26.47,52.94,Cash,1.0
+S-2026-000776,2026-07-01,West,Retail,Ready-to-use glazes,3,45.83,137.49,Cash,1.0
+S-2026-000777,2026-07-01,West,Retail,Frits,7,31.53,220.71,Credit card,2.8
+S-2026-000778,2026-07-01,North,Wholesale,Frits,79,28.92,2284.68,Transfer,0.5
+S-2026-000779,2026-07-01,North,Retail,Ceramic pigments,7,118.25,827.75,Transfer,0.5
+S-2026-000780,2026-07-01,Central,Retail,Frits,3,31.37,94.11,Credit card,2.8
+S-2026-000781,2026-07-01,Central,Wholesale,Frits,18,28.23,508.14,Credit card,2.8
+S-2026-000782,2026-07-01,Central,Retail,Engobes,5,25.0,125.0,Credit card,2.8
+S-2026-000783,2026-07-01,West,Wholesale,Digital inks,43,209.92,9026.56,Credit card,2.8
+S-2026-000784,2026-07-01,Central,Retail,Ready-to-use glazes,3,46.46,139.38,Credit card,2.8
+S-2026-000785,2026-07-01,Central,Wholesale,Frits,66,27.6,1821.6,Transfer,0.5
+S-2026-000786,2026-07-01,North,Wholesale,Frits,48,29.39,1410.72,Transfer,0.5
+S-2026-000787,2026-07-01,Central,Wholesale,Engobes,87,23.49,2043.63,Transfer,0.5
+S-2026-000788,2026-07-01,West,Wholesale,Digital inks,44,224.32,9870.08,Credit card,2.8
+S-2026-000789,2026-07-01,North,Wholesale,Ready-to-use glazes,8,43.85,350.8,Transfer,0.5
+S-2026-000790,2026-07-01,West,Wholesale,Digital inks,14,198.44,2778.16,Credit card,2.8
+S-2026-000791,2026-07-01,West,Wholesale,Ready-to-use glazes,106,41.28,4375.68,Transfer,0.5
+S-2026-000792,2026-07-01,North,Wholesale,Frits,34,28.87,981.58,Transfer,0.5
+S-2026-000793,2026-07-01,North,Retail,Engobes,5,27.08,135.4,Credit card,2.8
+S-2026-000794,2026-07-01,North,Wholesale,Frits,22,26.41,581.02,Transfer,0.5
+S-2026-000795,2026-07-01,West,Retail,Ready-to-use glazes,6,47.53,285.18,Credit card,2.8
+S-2026-000796,2026-07-01,West,Wholesale,Frits,43,30.24,1300.32,Transfer,0.5
+S-2026-000797,2026-07-01,West,Wholesale,Digital inks,61,202.05,12325.05,Transfer,0.5
+S-2026-000798,2026-07-02,North,Wholesale,Frits,86,27.78,2389.08,Transfer,0.5
+S-2026-000799,2026-07-02,North,Retail,Engobes,2,26.33,52.66,Credit card,2.8
+S-2026-000800,2026-07-02,North,Retail,Engobes,11,25.94,285.34,Cash,1.0
+S-2026-000801,2026-07-02,West,Wholesale,Engobes,61,24.8,1512.8,Credit card,2.8
+S-2026-000802,2026-07-02,Central,Wholesale,Ceramic pigments,15,107.16,1607.4,Transfer,0.5
+S-2026-000803,2026-07-02,North,Retail,Engobes,6,26.13,156.78,Credit card,2.8
+S-2026-000804,2026-07-02,West,Wholesale,Ceramic pigments,26,101.66,2643.16,Transfer,0.5
+S-2026-000805,2026-07-02,West,Retail,Engobes,2,26.84,53.68,Credit card,2.8
+S-2026-000806,2026-07-02,Central,Wholesale,Digital inks,56,200.85,11247.6,Transfer,0.5
+S-2026-000807,2026-07-02,Central,Wholesale,Ready-to-use glazes,15,43.56,653.4,Transfer,0.5
+S-2026-000808,2026-07-02,North,Retail,Ready-to-use glazes,5,46.09,230.45,Transfer,0.5
+S-2026-000809,2026-07-02,North,Retail,Ready-to-use glazes,3,49.76,149.28,Cash,1.0
+S-2026-000810,2026-07-02,North,Wholesale,Frits,11,29.17,320.87,Transfer,0.5
+S-2026-000811,2026-07-02,Central,Retail,Ready-to-use glazes,8,47.11,376.88,Transfer,0.5
+S-2026-000812,2026-07-02,West,Wholesale,Engobes,44,23.39,1029.16,Transfer,0.5
+S-2026-000813,2026-07-02,North,Retail,Frits,3,32.24,96.72,Credit card,2.8
+S-2026-000814,2026-07-02,West,Wholesale,Ready-to-use glazes,44,43.59,1917.96,Transfer,0.5
+S-2026-000815,2026-07-02,Central,Retail,Digital inks,5,198.14,990.7,Credit card,2.8
+S-2026-000816,2026-07-02,West,Wholesale,Frits,115,27.12,3118.8,Credit card,2.8
+S-2026-000817,2026-07-02,West,Wholesale,Ready-to-use glazes,32,47.53,1520.96,Transfer,0.5
+S-2026-000818,2026-07-02,Central,Wholesale,Ceramic pigments,42,112.0,4704.0,Transfer,0.5
+S-2026-000819,2026-07-02,North,Wholesale,Ready-to-use glazes,30,44.12,1323.6,Credit card,2.8
+S-2026-000820,2026-07-02,West,Wholesale,Engobes,46,25.43,1169.78,Transfer,0.5
+S-2026-000821,2026-07-02,Central,Retail,Ready-to-use glazes,7,47.48,332.36,Cash,1.0
+S-2026-000822,2026-07-02,Central,Wholesale,Digital inks,17,200.54,3409.18,Credit card,2.8
+S-2026-000823,2026-07-02,North,Wholesale,Engobes,112,23.5,2632.0,Credit card,2.8
+S-2026-000824,2026-07-02,Central,Retail,Frits,3,30.75,92.25,Credit card,2.8
+S-2026-000825,2026-07-03,North,Wholesale,Frits,130,30.25,3932.5,Transfer,0.5
+S-2026-000826,2026-07-03,West,Wholesale,Digital inks,23,197.25,4536.75,Transfer,0.5
+S-2026-000827,2026-07-03,Central,Wholesale,Ready-to-use glazes,54,47.44,2561.76,Transfer,0.5
+S-2026-000828,2026-07-03,North,Wholesale,Frits,65,29.35,1907.75,Transfer,0.5
+S-2026-000829,2026-07-03,North,Wholesale,Engobes,40,23.9,956.0,Transfer,0.5
+S-2026-000830,2026-07-03,West,Retail,Ready-to-use glazes,20,51.96,1039.2,Cash,1.0
+S-2026-000831,2026-07-03,West,Wholesale,Ready-to-use glazes,36,40.03,1441.08,Transfer,0.5
+S-2026-000832,2026-07-03,North,Wholesale,Ready-to-use glazes,66,45.01,2970.66,Transfer,0.5
+S-2026-000833,2026-07-03,North,Retail,Ready-to-use glazes,6,48.67,292.02,Credit card,2.8
+S-2026-000834,2026-07-03,Central,Wholesale,Engobes,27,24.67,666.09,Transfer,0.5
+S-2026-000835,2026-07-03,North,Wholesale,Engobes,211,24.18,5101.98,Transfer,0.5
+S-2026-000836,2026-07-03,West,Retail,Engobes,4,26.64,106.56,Credit card,2.8
+S-2026-000837,2026-07-03,North,Wholesale,Digital inks,21,186.18,3909.78,Transfer,0.5
+S-2026-000838,2026-07-03,North,Wholesale,Frits,39,28.41,1107.99,Credit card,2.8
+S-2026-000839,2026-07-03,North,Wholesale,Frits,34,28.67,974.78,Transfer,0.5
+S-2026-000840,2026-07-03,West,Retail,Frits,2,31.18,62.36,Credit card,2.8
+S-2026-000841,2026-07-03,Central,Wholesale,Digital inks,19,200.96,3818.24,Transfer,0.5
+S-2026-000842,2026-07-03,Central,Retail,Digital inks,4,212.83,851.32,Credit card,2.8
+S-2026-000843,2026-07-03,North,Retail,Engobes,3,25.03,75.09,Credit card,2.8
+S-2026-000844,2026-07-03,North,Retail,Frits,8,27.95,223.6,Credit card,2.8
+S-2026-000845,2026-07-03,North,Retail,Ready-to-use glazes,3,48.69,146.07,Credit card,2.8
+S-2026-000846,2026-07-03,North,Retail,Ready-to-use glazes,10,50.1,501.0,Cash,1.0
+S-2026-000847,2026-07-03,West,Wholesale,Frits,33,27.42,904.86,Transfer,0.5
+S-2026-000848,2026-07-03,Central,Wholesale,Frits,22,29.27,643.94,Transfer,0.5
+S-2026-000849,2026-07-03,North,Wholesale,Ready-to-use glazes,14,43.23,605.22,Transfer,0.5
+S-2026-000850,2026-07-03,Central,Wholesale,Ceramic pigments,23,112.77,2593.71,Credit card,2.8
+S-2026-000851,2026-07-03,North,Wholesale,Ceramic pigments,33,102.04,3367.32,Transfer,0.5
+S-2026-000852,2026-07-03,Central,Wholesale,Ceramic pigments,128,109.33,13994.24,Transfer,0.5
+S-2026-000853,2026-07-04,West,Retail,Digital inks,3,216.99,650.97,Credit card,2.8
+S-2026-000854,2026-07-04,Central,Wholesale,Frits,37,27.62,1021.94,Credit card,2.8
+S-2026-000855,2026-07-04,North,Retail,Ready-to-use glazes,7,50.05,350.35,Credit card,2.8
+S-2026-000856,2026-07-04,North,Wholesale,Frits,45,28.9,1300.5,Transfer,0.5
+S-2026-000857,2026-07-04,Central,Wholesale,Ready-to-use glazes,97,42.81,4152.57,Transfer,0.5
+S-2026-000858,2026-07-04,Central,Wholesale,Ready-to-use glazes,20,43.89,877.8,Credit card,2.8
+S-2026-000859,2026-07-04,Central,Wholesale,Frits,20,26.99,539.8,Transfer,0.5
+S-2026-000860,2026-07-04,Central,Wholesale,Engobes,20,24.09,481.8,Transfer,0.5
+S-2026-000861,2026-07-04,North,Retail,Engobes,2,25.03,50.06,Cash,1.0
+S-2026-000862,2026-07-04,West,Retail,Digital inks,3,214.47,643.41,Credit card,2.8
+S-2026-000863,2026-07-05,Central,Wholesale,Frits,58,28.11,1630.38,Transfer,0.5
+S-2026-000864,2026-07-05,West,Wholesale,Ready-to-use glazes,66,42.21,2785.86,Credit card,2.8
+S-2026-000865,2026-07-05,Central,Wholesale,Ready-to-use glazes,60,46.32,2779.2,Credit card,2.8
+S-2026-000866,2026-07-05,Central,Wholesale,Ceramic pigments,27,106.14,2865.78,Credit card,2.8
+S-2026-000867,2026-07-05,North,Wholesale,Engobes,113,22.37,2527.81,Credit card,2.8
+S-2026-000868,2026-07-05,North,Retail,Digital inks,4,216.66,866.64,Cash,1.0
+S-2026-000869,2026-07-05,West,Retail,Ceramic pigments,6,122.61,735.66,Credit card,2.8
+S-2026-000870,2026-07-05,North,Retail,Frits,7,32.16,225.12,Credit card,2.8
+S-2026-000871,2026-07-05,West,Wholesale,Digital inks,10,191.46,1914.6,Transfer,0.5
+S-2026-000872,2026-07-06,North,Retail,Frits,5,31.73,158.65,Credit card,2.8
+S-2026-000873,2026-07-06,North,Wholesale,Digital inks,46,213.07,9801.22,Transfer,0.5
+S-2026-000874,2026-07-06,North,Retail,Ready-to-use glazes,5,46.32,231.6,Transfer,0.5
+S-2026-000875,2026-07-06,West,Wholesale,Digital inks,76,198.7,15101.2,Credit card,2.8
+S-2026-000876,2026-07-06,North,Wholesale,Digital inks,226,203.19,45920.94,Transfer,0.5
+S-2026-000877,2026-07-06,Central,Wholesale,Engobes,8,24.2,193.6,Transfer,0.5
+S-2026-000878,2026-07-06,West,Wholesale,Frits,31,28.61,886.91,Credit card,2.8
+S-2026-000879,2026-07-06,West,Wholesale,Digital inks,35,201.46,7051.1,Transfer,0.5
+S-2026-000880,2026-07-06,North,Wholesale,Frits,17,29.52,501.84,Transfer,0.5
+S-2026-000881,2026-07-06,North,Wholesale,Ceramic pigments,60,112.01,6720.6,Transfer,0.5
+S-2026-000882,2026-07-06,North,Retail,Ceramic pigments,7,118.46,829.22,Cash,1.0
+S-2026-000883,2026-07-06,Central,Retail,Digital inks,10,217.34,2173.4,Cash,1.0
+S-2026-000884,2026-07-06,Central,Retail,Ready-to-use glazes,2,47.93,95.86,Credit card,2.8
+S-2026-000885,2026-07-06,Central,Wholesale,Ceramic pigments,95,107.8,10241.0,Transfer,0.5
+S-2026-000886,2026-07-06,Central,Retail,Frits,11,29.37,323.07,Cash,1.0
+S-2026-000887,2026-07-06,North,Retail,Frits,14,29.91,418.74,Credit card,2.8
+S-2026-000888,2026-07-06,North,Wholesale,Ready-to-use glazes,69,42.75,2949.75,Transfer,0.5
+S-2026-000889,2026-07-06,Central,Retail,Digital inks,3,213.48,640.44,Transfer,0.5
+S-2026-000890,2026-07-06,West,Retail,Ready-to-use glazes,21,47.61,999.81,Cash,1.0
+S-2026-000891,2026-07-06,Central,Retail,Frits,5,30.95,154.75,Transfer,0.5
+S-2026-000892,2026-07-06,Central,Wholesale,Digital inks,47,199.51,9376.97,Credit card,2.8
+S-2026-000893,2026-07-06,Central,Retail,Ready-to-use glazes,13,47.71,620.23,Credit card,2.8
+S-2026-000894,2026-07-06,West,Wholesale,Digital inks,152,185.97,28267.44,Credit card,2.8
+S-2026-000895,2026-07-06,North,Wholesale,Ready-to-use glazes,12,43.93,527.16,Transfer,0.5
+S-2026-000896,2026-07-06,West,Wholesale,Ready-to-use glazes,31,46.78,1450.18,Credit card,2.8
+S-2026-000897,2026-07-06,Central,Retail,Digital inks,7,218.81,1531.67,Cash,1.0
+S-2026-000898,2026-07-06,North,Wholesale,Engobes,35,22.55,789.25,Transfer,0.5
+S-2026-000899,2026-07-07,North,Retail,Engobes,5,25.93,129.65,Credit card,2.8
+S-2026-000900,2026-07-07,Central,Wholesale,Ready-to-use glazes,29,46.41,1345.89,Credit card,2.8
+S-2026-000901,2026-07-07,North,Wholesale,Ready-to-use glazes,44,45.6,2006.4,Transfer,0.5
+S-2026-000902,2026-07-07,Central,Wholesale,Ready-to-use glazes,33,45.69,1507.77,Transfer,0.5
+S-2026-000903,2026-07-07,West,Wholesale,Ceramic pigments,144,104.47,15043.68,Transfer,0.5
+S-2026-000904,2026-07-07,Central,Retail,Ceramic pigments,7,119.1,833.7,Cash,1.0
+S-2026-000905,2026-07-07,West,Wholesale,Digital inks,37,199.85,7394.45,Transfer,0.5
+S-2026-000906,2026-07-07,Central,Retail,Frits,5,31.51,157.55,Credit card,2.8
+S-2026-000907,2026-07-07,North,Retail,Ceramic pigments,9,123.23,1109.07,Credit card,2.8
+S-2026-000908,2026-07-07,Central,Retail,Engobes,8,26.58,212.64,Credit card,2.8
+S-2026-000909,2026-07-07,Central,Wholesale,Digital inks,76,208.87,15874.12,Credit card,2.8
+S-2026-000910,2026-07-07,Central,Wholesale,Ready-to-use glazes,71,46.04,3268.84,Credit card,2.8
+S-2026-000911,2026-07-07,Central,Wholesale,Ceramic pigments,23,112.24,2581.52,Transfer,0.5
+S-2026-000912,2026-07-07,Central,Wholesale,Engobes,26,24.8,644.8,Transfer,0.5
+S-2026-000913,2026-07-07,West,Retail,Ceramic pigments,8,119.44,955.52,Transfer,0.5
+S-2026-000914,2026-07-07,North,Retail,Digital inks,6,211.33,1267.98,Cash,1.0
+S-2026-000915,2026-07-07,North,Retail,Frits,14,29.35,410.9,Credit card,2.8
+S-2026-000916,2026-07-07,Central,Retail,Digital inks,7,215.83,1510.81,Credit card,2.8
+S-2026-000917,2026-07-07,West,Wholesale,Digital inks,29,197.93,5739.97,Credit card,2.8
+S-2026-000918,2026-07-07,West,Wholesale,Frits,62,29.32,1817.84,Transfer,0.5
+S-2026-000919,2026-07-07,Central,Wholesale,Ready-to-use glazes,54,44.73,2415.42,Transfer,0.5
+S-2026-000920,2026-07-07,North,Retail,Ready-to-use glazes,9,49.4,444.6,Cash,1.0
+S-2026-000921,2026-07-07,North,Wholesale,Ceramic pigments,24,115.16,2763.84,Transfer,0.5
+S-2026-000922,2026-07-07,West,Wholesale,Digital inks,29,202.57,5874.53,Transfer,0.5
+S-2026-000923,2026-07-07,Central,Wholesale,Engobes,21,23.47,492.87,Transfer,0.5
+S-2026-000924,2026-07-07,West,Wholesale,Engobes,30,24.9,747.0,Transfer,0.5
+S-2026-000925,2026-07-07,North,Retail,Frits,5,30.69,153.45,Transfer,0.5
+S-2026-000926,2026-07-07,Central,Wholesale,Engobes,33,22.57,744.81,Credit card,2.8
+S-2026-000927,2026-07-07,Central,Wholesale,Ceramic pigments,27,115.53,3119.31,Transfer,0.5
+S-2026-000928,2026-07-07,Central,Wholesale,Ready-to-use glazes,20,45.98,919.6,Transfer,0.5
+S-2026-000929,2026-07-08,West,Retail,Engobes,5,26.1,130.5,Cash,1.0
+S-2026-000930,2026-07-08,Central,Wholesale,Engobes,30,26.55,796.5,Transfer,0.5
+S-2026-000931,2026-07-08,West,Wholesale,Digital inks,29,187.87,5448.23,Transfer,0.5
+S-2026-000932,2026-07-08,North,Retail,Frits,13,29.14,378.82,Cash,1.0
+S-2026-000933,2026-07-08,North,Wholesale,Frits,53,29.01,1537.53,Transfer,0.5
+S-2026-000934,2026-07-08,Central,Wholesale,Digital inks,45,191.73,8627.85,Credit card,2.8
+S-2026-000935,2026-07-08,West,Retail,Frits,8,31.66,253.28,Credit card,2.8
+S-2026-000936,2026-07-08,North,Retail,Frits,3,30.75,92.25,Cash,1.0
+S-2026-000937,2026-07-08,Central,Wholesale,Engobes,11,23.15,254.65,Transfer,0.5
+S-2026-000938,2026-07-08,Central,Retail,Ready-to-use glazes,10,50.47,504.7,Cash,1.0
+S-2026-000939,2026-07-08,North,Wholesale,Frits,57,27.99,1595.43,Transfer,0.5
+S-2026-000940,2026-07-08,North,Retail,Digital inks,10,208.98,2089.8,Credit card,2.8
+S-2026-000941,2026-07-08,North,Wholesale,Frits,75,29.23,2192.25,Credit card,2.8
+S-2026-000942,2026-07-08,Central,Wholesale,Digital inks,111,204.69,22720.59,Credit card,2.8
+S-2026-000943,2026-07-08,West,Wholesale,Ceramic pigments,149,110.2,16419.8,Transfer,0.5
+S-2026-000944,2026-07-08,Central,Wholesale,Ready-to-use glazes,71,45.67,3242.57,Transfer,0.5
+S-2026-000945,2026-07-08,Central,Wholesale,Engobes,111,22.76,2526.36,Transfer,0.5
+S-2026-000946,2026-07-08,West,Wholesale,Digital inks,44,188.68,8301.92,Credit card,2.8
+S-2026-000947,2026-07-08,Central,Retail,Ready-to-use glazes,8,49.85,398.8,Credit card,2.8
+S-2026-000948,2026-07-08,North,Wholesale,Ceramic pigments,53,106.76,5658.28,Transfer,0.5
+S-2026-000949,2026-07-08,North,Wholesale,Engobes,23,25.33,582.59,Credit card,2.8
+S-2026-000950,2026-07-08,Central,Retail,Ready-to-use glazes,7,48.42,338.94,Credit card,2.8
+S-2026-000951,2026-07-08,North,Wholesale,Frits,82,28.06,2300.92,Transfer,0.5
+S-2026-000952,2026-07-08,North,Retail,Frits,6,30.81,184.86,Transfer,0.5
+S-2026-000953,2026-07-08,North,Wholesale,Frits,41,28.87,1183.67,Transfer,0.5
+S-2026-000954,2026-07-09,North,Wholesale,Engobes,32,23.29,745.28,Transfer,0.5
+S-2026-000955,2026-07-09,North,Retail,Ready-to-use glazes,2,47.07,94.14,Cash,1.0
+S-2026-000956,2026-07-09,West,Retail,Ready-to-use glazes,8,47.99,383.92,Credit card,2.8
+S-2026-000957,2026-07-09,West,Wholesale,Ready-to-use glazes,72,45.89,3304.08,Transfer,0.5
+S-2026-000958,2026-07-09,Central,Wholesale,Ceramic pigments,52,107.62,5596.24,Transfer,0.5
+S-2026-000959,2026-07-09,North,Wholesale,Ready-to-use glazes,118,44.71,5275.78,Transfer,0.5
+S-2026-000960,2026-07-09,West,Wholesale,Digital inks,89,193.14,17189.46,Transfer,0.5
+S-2026-000961,2026-07-09,North,Retail,Ceramic pigments,9,116.01,1044.09,Credit card,2.8
+S-2026-000962,2026-07-09,North,Wholesale,Frits,31,28.83,893.73,Credit card,2.8
+S-2026-000963,2026-07-09,North,Retail,Engobes,9,24.4,219.6,Cash,1.0
+S-2026-000964,2026-07-09,North,Wholesale,Engobes,19,24.9,473.1,Transfer,0.5
+S-2026-000965,2026-07-09,Central,Retail,Ready-to-use glazes,4,49.73,198.92,Credit card,2.8
+S-2026-000966,2026-07-09,Central,Retail,Digital inks,5,204.91,1024.55,Credit card,2.8
+S-2026-000967,2026-07-09,North,Retail,Digital inks,5,203.85,1019.25,Credit card,2.8
+S-2026-000968,2026-07-09,North,Wholesale,Frits,62,27.54,1707.48,Transfer,0.5
+S-2026-000969,2026-07-09,Central,Retail,Frits,8,32.02,256.16,Cash,1.0
+S-2026-000970,2026-07-09,North,Wholesale,Engobes,76,24.38,1852.88,Transfer,0.5
+S-2026-000971,2026-07-09,North,Wholesale,Ready-to-use glazes,23,44.55,1024.65,Transfer,0.5
+S-2026-000972,2026-07-09,West,Wholesale,Frits,59,28.54,1683.86,Transfer,0.5
+S-2026-000973,2026-07-09,Central,Wholesale,Ready-to-use glazes,77,44.66,3438.82,Transfer,0.5
+S-2026-000974,2026-07-09,Central,Wholesale,Digital inks,15,199.24,2988.6,Credit card,2.8
+S-2026-000975,2026-07-09,Central,Wholesale,Ready-to-use glazes,64,45.6,2918.4,Transfer,0.5
+S-2026-000976,2026-07-09,Central,Wholesale,Ready-to-use glazes,33,43.07,1421.31,Transfer,0.5
+S-2026-000977,2026-07-09,Central,Retail,Ready-to-use glazes,1,49.25,49.25,Transfer,0.5
+S-2026-000978,2026-07-09,West,Wholesale,Digital inks,33,211.76,6988.08,Transfer,0.5
+S-2026-000979,2026-07-09,West,Retail,Ready-to-use glazes,7,47.16,330.12,Cash,1.0
+S-2026-000980,2026-07-09,West,Wholesale,Ceramic pigments,25,114.15,2853.75,Credit card,2.8
+S-2026-000981,2026-07-09,West,Wholesale,Engobes,47,24.86,1168.42,Credit card,2.8
+S-2026-000982,2026-07-09,Central,Wholesale,Frits,123,28.35,3487.05,Transfer,0.5
+S-2026-000983,2026-07-10,Central,Wholesale,Ceramic pigments,49,105.35,5162.15,Transfer,0.5
+S-2026-000984,2026-07-10,North,Retail,Frits,3,31.48,94.44,Credit card,2.8
+S-2026-000985,2026-07-10,Central,Wholesale,Frits,34,29.28,995.52,Transfer,0.5
+S-2026-000986,2026-07-10,West,Wholesale,Ready-to-use glazes,45,44.42,1998.9,Transfer,0.5
+S-2026-000987,2026-07-10,Central,Retail,Ceramic pigments,5,122.7,613.5,Credit card,2.8
+S-2026-000988,2026-07-10,Central,Wholesale,Ceramic pigments,134,111.75,14974.5,Transfer,0.5
+S-2026-000989,2026-07-10,West,Wholesale,Ready-to-use glazes,13,46.55,605.15,Transfer,0.5
+S-2026-000990,2026-07-10,North,Wholesale,Digital inks,86,198.65,17083.9,Transfer,0.5
+S-2026-000991,2026-07-10,Central,Wholesale,Engobes,28,24.08,674.24,Transfer,0.5
+S-2026-000992,2026-07-10,Central,Wholesale,Frits,14,27.71,387.94,Credit card,2.8
+S-2026-000993,2026-07-10,Central,Retail,Ceramic pigments,2,112.39,224.78,Cash,1.0
+S-2026-000994,2026-07-10,North,Retail,Ceramic pigments,8,118.12,944.96,Cash,1.0
+S-2026-000995,2026-07-10,West,Wholesale,Frits,33,29.2,963.6,Transfer,0.5
+S-2026-000996,2026-07-10,West,Wholesale,Ready-to-use glazes,22,45.31,996.82,Credit card,2.8
+S-2026-000997,2026-07-10,North,Wholesale,Ready-to-use glazes,75,45.11,3383.25,Transfer,0.5
+S-2026-000998,2026-07-10,Central,Wholesale,Ceramic pigments,57,114.54,6528.78,Transfer,0.5
+S-2026-000999,2026-07-10,Central,Retail,Ceramic pigments,8,114.15,913.2,Credit card,2.8
+S-2026-001000,2026-07-10,North,Retail,Ready-to-use glazes,11,50.76,558.36,Credit card,2.8
+S-2026-001001,2026-07-10,West,Retail,Ready-to-use glazes,5,47.9,239.5,Credit card,2.8
+S-2026-001002,2026-07-10,Central,Retail,Ceramic pigments,3,119.78,359.34,Credit card,2.8
+S-2026-001003,2026-07-10,North,Wholesale,Ceramic pigments,25,114.84,2871.0,Transfer,0.5
+S-2026-001004,2026-07-10,West,Wholesale,Digital inks,45,204.8,9216.0,Transfer,0.5
+S-2026-001005,2026-07-10,North,Wholesale,Ready-to-use glazes,116,42.83,4968.28,Transfer,0.5
+S-2026-001006,2026-07-10,Central,Retail,Digital inks,2,216.52,433.04,Cash,1.0
+S-2026-001007,2026-07-10,Central,Wholesale,Frits,40,29.66,1186.4,Credit card,2.8
+S-2026-001008,2026-07-10,North,Wholesale,Frits,22,27.17,597.74,Credit card,2.8
+S-2026-001009,2026-07-10,Central,Wholesale,Ready-to-use glazes,81,42.85,3470.85,Transfer,0.5
+S-2026-001010,2026-07-11,Central,Wholesale,Ceramic pigments,36,110.0,3960.0,Transfer,0.5
+S-2026-001011,2026-07-11,West,Wholesale,Ceramic pigments,57,114.68,6536.76,Transfer,0.5
+S-2026-001012,2026-07-11,Central,Wholesale,Ready-to-use glazes,44,41.94,1845.36,Transfer,0.5
+S-2026-001013,2026-07-11,West,Wholesale,Ceramic pigments,58,105.57,6123.06,Transfer,0.5
+S-2026-001014,2026-07-11,North,Wholesale,Frits,29,30.2,875.8,Transfer,0.5
+S-2026-001015,2026-07-11,Central,Retail,Frits,2,30.43,60.86,Transfer,0.5
+S-2026-001016,2026-07-11,North,Retail,Ready-to-use glazes,11,45.79,503.69,Credit card,2.8
+S-2026-001017,2026-07-11,North,Retail,Digital inks,9,207.95,1871.55,Credit card,2.8
+S-2026-001018,2026-07-11,North,Wholesale,Digital inks,68,189.3,12872.4,Credit card,2.8
+S-2026-001019,2026-07-12,North,Retail,Frits,4,31.36,125.44,Cash,1.0
+S-2026-001020,2026-07-12,West,Retail,Engobes,3,24.67,74.01,Cash,1.0
+S-2026-001021,2026-07-12,Central,Retail,Ceramic pigments,5,112.38,561.9,Cash,1.0
+S-2026-001022,2026-07-12,West,Retail,Ceramic pigments,4,119.34,477.36,Credit card,2.8
+S-2026-001023,2026-07-12,West,Wholesale,Ready-to-use glazes,17,45.97,781.49,Transfer,0.5
+S-2026-001024,2026-07-12,Central,Wholesale,Ceramic pigments,63,114.85,7235.55,Transfer,0.5
+S-2026-001025,2026-07-12,West,Retail,Ceramic pigments,5,119.51,597.55,Cash,1.0
+S-2026-001026,2026-07-12,Central,Wholesale,Ceramic pigments,12,101.98,1223.76,Transfer,0.5
+S-2026-001027,2026-07-12,North,Retail,Digital inks,4,225.18,900.72,Credit card,2.8
+S-2026-001028,2026-07-12,North,Wholesale,Frits,39,27.56,1074.84,Transfer,0.5
+S-2026-001029,2026-07-12,North,Wholesale,Ready-to-use glazes,42,44.83,1882.86,Transfer,0.5
+S-2026-001030,2026-07-12,West,Wholesale,Engobes,31,24.84,770.04,Transfer,0.5
+S-2026-001031,2026-07-12,Central,Wholesale,Digital inks,18,182.39,3283.02,Transfer,0.5
+S-2026-001032,2026-07-12,Central,Wholesale,Ceramic pigments,46,112.22,5162.12,Credit card,2.8
+S-2026-001033,2026-07-12,West,Wholesale,Digital inks,36,207.89,7484.04,Credit card,2.8
+S-2026-001034,2026-07-13,Central,Retail,Engobes,7,26.34,184.38,Transfer,0.5
+S-2026-001035,2026-07-13,West,Wholesale,Ready-to-use glazes,20,46.82,936.4,Transfer,0.5
+S-2026-001036,2026-07-13,North,Wholesale,Engobes,14,25.03,350.42,Credit card,2.8
+S-2026-001037,2026-07-13,Central,Retail,Frits,3,31.49,94.47,Cash,1.0
+S-2026-001038,2026-07-13,Central,Wholesale,Ready-to-use glazes,15,44.14,662.1,Transfer,0.5
+S-2026-001039,2026-07-13,North,Wholesale,Ready-to-use glazes,24,40.07,961.68,Transfer,0.5
+S-2026-001040,2026-07-13,Central,Retail,Digital inks,12,220.82,2649.84,Credit card,2.8
+S-2026-001041,2026-07-13,North,Wholesale,Frits,18,29.05,522.9,Transfer,0.5
+S-2026-001042,2026-07-13,West,Wholesale,Engobes,34,23.36,794.24,Transfer,0.5
+S-2026-001043,2026-07-13,Central,Wholesale,Digital inks,46,211.51,9729.46,Transfer,0.5
+S-2026-001044,2026-07-13,Central,Wholesale,Frits,32,29.32,938.24,Transfer,0.5
+S-2026-001045,2026-07-13,North,Retail,Frits,4,30.98,123.92,Cash,1.0
+S-2026-001046,2026-07-13,West,Wholesale,Ceramic pigments,8,110.52,884.16,Transfer,0.5
+S-2026-001047,2026-07-13,West,Retail,Digital inks,3,210.08,630.24,Transfer,0.5
+S-2026-001048,2026-07-13,Central,Retail,Engobes,6,26.03,156.18,Cash,1.0
+S-2026-001049,2026-07-13,Central,Retail,Ready-to-use glazes,22,47.68,1048.96,Credit card,2.8
+S-2026-001050,2026-07-13,West,Wholesale,Engobes,87,23.94,2082.78,Transfer,0.5
+S-2026-001051,2026-07-13,Central,Retail,Ready-to-use glazes,2,49.84,99.68,Credit card,2.8
+S-2026-001052,2026-07-13,West,Retail,Digital inks,5,209.37,1046.85,Credit card,2.8
+S-2026-001053,2026-07-13,West,Retail,Digital inks,7,221.02,1547.14,Cash,1.0
+S-2026-001054,2026-07-13,North,Retail,Frits,6,29.68,178.08,Transfer,0.5
+S-2026-001055,2026-07-13,West,Retail,Engobes,10,27.57,275.7,Cash,1.0
+S-2026-001056,2026-07-14,North,Wholesale,Frits,68,29.48,2004.64,Credit card,2.8
+S-2026-001057,2026-07-14,North,Wholesale,Digital inks,54,203.21,10973.34,Transfer,0.5
+S-2026-001058,2026-07-14,North,Retail,Engobes,2,25.79,51.58,Transfer,0.5
+S-2026-001059,2026-07-14,West,Wholesale,Frits,86,28.3,2433.8,Transfer,0.5
+S-2026-001060,2026-07-14,North,Wholesale,Digital inks,202,211.17,42656.34,Transfer,0.5
+S-2026-001061,2026-07-14,Central,Retail,Digital inks,10,213.59,2135.9,Credit card,2.8
+S-2026-001062,2026-07-14,West,Wholesale,Ready-to-use glazes,46,46.06,2118.76,Transfer,0.5
+S-2026-001063,2026-07-14,Central,Wholesale,Digital inks,76,206.01,15656.76,Transfer,0.5
+S-2026-001064,2026-07-14,West,Retail,Ceramic pigments,9,110.01,990.09,Credit card,2.8
+S-2026-001065,2026-07-14,West,Wholesale,Digital inks,46,195.01,8970.46,Transfer,0.5
+S-2026-001066,2026-07-14,North,Retail,Ready-to-use glazes,5,50.08,250.4,Transfer,0.5
+S-2026-001067,2026-07-14,North,Wholesale,Frits,36,28.89,1040.04,Transfer,0.5
+S-2026-001068,2026-07-14,West,Wholesale,Ready-to-use glazes,27,45.08,1217.16,Credit card,2.8
+S-2026-001069,2026-07-14,North,Wholesale,Ready-to-use glazes,82,44.61,3658.02,Transfer,0.5
+S-2026-001070,2026-07-14,North,Wholesale,Frits,23,27.06,622.38,Transfer,0.5
+S-2026-001071,2026-07-14,Central,Retail,Ready-to-use glazes,2,47.26,94.52,Credit card,2.8
+S-2026-001072,2026-07-14,North,Retail,Engobes,9,25.86,232.74,Cash,1.0
+S-2026-001073,2026-07-14,North,Retail,Ready-to-use glazes,6,51.51,309.06,Credit card,2.8
+S-2026-001074,2026-07-14,North,Wholesale,Ready-to-use glazes,37,46.82,1732.34,Transfer,0.5
+S-2026-001075,2026-07-14,North,Wholesale,Ready-to-use glazes,49,42.7,2092.3,Credit card,2.8
+S-2026-001076,2026-07-14,North,Retail,Frits,4,30.68,122.72,Credit card,2.8
+S-2026-001077,2026-07-14,Central,Wholesale,Ready-to-use glazes,28,45.99,1287.72,Transfer,0.5
+S-2026-001078,2026-07-14,North,Wholesale,Ready-to-use glazes,24,44.05,1057.2,Transfer,0.5
+S-2026-001079,2026-07-14,West,Wholesale,Digital inks,25,191.69,4792.25,Transfer,0.5
+S-2026-001080,2026-07-14,North,Wholesale,Digital inks,37,191.3,7078.1,Transfer,0.5
+S-2026-001081,2026-07-14,Central,Retail,Digital inks,3,214.47,643.41,Transfer,0.5
+S-2026-001082,2026-07-14,Central,Retail,Frits,6,30.95,185.7,Credit card,2.8
+S-2026-001083,2026-07-14,West,Retail,Ceramic pigments,4,120.09,480.36,Cash,1.0
+S-2026-001084,2026-07-15,North,Retail,Frits,3,32.31,96.93,Credit card,2.8
+S-2026-001085,2026-07-15,Central,Wholesale,Ceramic pigments,89,111.54,9927.06,Transfer,0.5
+S-2026-001086,2026-07-15,Central,Wholesale,Frits,64,28.51,1824.64,Credit card,2.8
+S-2026-001087,2026-07-15,Central,Wholesale,Ready-to-use glazes,50,45.92,2296.0,Transfer,0.5
+S-2026-001088,2026-07-15,Central,Retail,Frits,11,28.94,318.34,Credit card,2.8
+S-2026-001089,2026-07-15,North,Wholesale,Ready-to-use glazes,309,45.08,13929.72,Transfer,0.5
+S-2026-001090,2026-07-15,North,Wholesale,Frits,36,27.9,1004.4,Transfer,0.5
+S-2026-001091,2026-07-15,North,Retail,Frits,4,31.06,124.24,Cash,1.0
+S-2026-001092,2026-07-15,West,Retail,Ready-to-use glazes,5,47.38,236.9,Credit card,2.8
+S-2026-001093,2026-07-15,Central,Wholesale,Ready-to-use glazes,121,41.44,5014.24,Transfer,0.5
+S-2026-001094,2026-07-15,North,Wholesale,Engobes,34,23.44,796.96,Transfer,0.5
+S-2026-001095,2026-07-15,North,Wholesale,Frits,30,29.48,884.4,Transfer,0.5
+S-2026-001096,2026-07-15,North,Wholesale,Ready-to-use glazes,27,46.86,1265.22,Credit card,2.8
+S-2026-001097,2026-07-15,North,Wholesale,Ready-to-use glazes,26,47.62,1238.12,Transfer,0.5
+S-2026-001098,2026-07-15,Central,Retail,Engobes,2,25.6,51.2,Cash,1.0
+S-2026-001099,2026-07-15,Central,Wholesale,Ceramic pigments,15,107.83,1617.45,Transfer,0.5
+S-2026-001100,2026-07-15,Central,Wholesale,Ready-to-use glazes,91,42.03,3824.73,Credit card,2.8
+S-2026-001101,2026-07-15,North,Retail,Digital inks,14,207.64,2906.96,Credit card,2.8
+S-2026-001102,2026-07-15,North,Retail,Frits,3,31.08,93.24,Cash,1.0
+S-2026-001103,2026-07-15,Central,Retail,Engobes,3,24.82,74.46,Credit card,2.8
+S-2026-001104,2026-07-15,Central,Retail,Ready-to-use glazes,6,47.61,285.66,Credit card,2.8
+S-2026-001105,2026-07-15,West,Wholesale,Ceramic pigments,68,107.26,7293.68,Transfer,0.5
+S-2026-001106,2026-07-15,North,Wholesale,Digital inks,31,197.84,6133.04,Transfer,0.5
+S-2026-001107,2026-07-15,Central,Wholesale,Frits,37,30.3,1121.1,Transfer,0.5
+S-2026-001108,2026-07-15,North,Wholesale,Frits,56,27.81,1557.36,Transfer,0.5
+S-2026-001109,2026-07-15,West,Wholesale,Frits,33,27.04,892.32,Transfer,0.5
+S-2026-001110,2026-07-15,North,Wholesale,Ready-to-use glazes,6,43.98,263.88,Transfer,0.5
+S-2026-001111,2026-07-15,North,Retail,Ready-to-use glazes,5,50.06,250.3,Credit card,2.8
+S-2026-001112,2026-07-15,West,Retail,Digital inks,3,217.38,652.14,Credit card,2.8
+S-2026-001113,2026-07-15,Central,Retail,Ceramic pigments,7,117.83,824.81,Transfer,0.5
+S-2026-001114,2026-07-15,West,Wholesale,Digital inks,20,208.1,4162.0,Transfer,0.5
+S-2026-001115,2026-07-15,Central,Wholesale,Ready-to-use glazes,16,45.5,728.0,Transfer,0.5
+S-2026-001116,2026-07-15,West,Wholesale,Digital inks,26,195.29,5077.54,Transfer,0.5
+S-2026-001117,2026-07-15,North,Wholesale,Frits,134,28.83,3863.22,Transfer,0.5
+S-2026-001118,2026-07-16,West,Wholesale,Ready-to-use glazes,31,45.7,1416.7,Transfer,0.5
+S-2026-001119,2026-07-16,Central,Retail,Frits,6,32.96,197.76,Cash,1.0
+S-2026-001120,2026-07-16,Central,Retail,Ceramic pigments,6,112.22,673.32,Cash,1.0
+S-2026-001121,2026-07-16,West,Wholesale,Frits,69,27.87,1923.03,Transfer,0.5
+S-2026-001122,2026-07-16,West,Wholesale,Digital inks,88,205.98,18126.24,Transfer,0.5
+S-2026-001123,2026-07-16,West,Wholesale,Digital inks,30,179.08,5372.4,Transfer,0.5
+S-2026-001124,2026-07-16,Central,Wholesale,Ready-to-use glazes,53,41.27,2187.31,Transfer,0.5
+S-2026-001125,2026-07-16,Central,Retail,Frits,6,31.59,189.54,Transfer,0.5
+S-2026-001126,2026-07-16,West,Retail,Ready-to-use glazes,7,48.71,340.97,Credit card,2.8
+S-2026-001127,2026-07-16,West,Wholesale,Engobes,96,23.27,2233.92,Credit card,2.8
+S-2026-001128,2026-07-16,West,Retail,Engobes,7,26.72,187.04,Credit card,2.8
+S-2026-001129,2026-07-16,Central,Wholesale,Engobes,24,24.16,579.84,Transfer,0.5
+S-2026-001130,2026-07-16,Central,Retail,Engobes,3,26.13,78.39,Cash,1.0
+S-2026-001131,2026-07-16,Central,Wholesale,Digital inks,19,204.74,3890.06,Transfer,0.5
+S-2026-001132,2026-07-16,Central,Wholesale,Engobes,75,24.38,1828.5,Transfer,0.5
+S-2026-001133,2026-07-16,North,Retail,Frits,11,31.09,341.99,Credit card,2.8
+S-2026-001134,2026-07-16,West,Wholesale,Digital inks,71,210.22,14925.62,Transfer,0.5
+S-2026-001135,2026-07-16,West,Wholesale,Frits,76,28.86,2193.36,Transfer,0.5
+S-2026-001136,2026-07-16,Central,Retail,Engobes,12,25.47,305.64,Credit card,2.8
+S-2026-001137,2026-07-16,Central,Retail,Engobes,3,26.0,78.0,Credit card,2.8
+S-2026-001138,2026-07-16,North,Retail,Frits,11,32.85,361.35,Credit card,2.8
+S-2026-001139,2026-07-16,West,Wholesale,Ceramic pigments,20,108.94,2178.8,Credit card,2.8
+S-2026-001140,2026-07-16,North,Wholesale,Ready-to-use glazes,70,48.12,3368.4,Transfer,0.5
+S-2026-001141,2026-07-17,North,Retail,Frits,6,30.34,182.04,Credit card,2.8
+S-2026-001142,2026-07-17,West,Wholesale,Frits,46,29.65,1363.9,Credit card,2.8
+S-2026-001143,2026-07-17,West,Wholesale,Ceramic pigments,13,106.85,1389.05,Transfer,0.5
+S-2026-001144,2026-07-17,Central,Wholesale,Ready-to-use glazes,67,46.92,3143.64,Credit card,2.8
+S-2026-001145,2026-07-17,Central,Wholesale,Ready-to-use glazes,101,43.35,4378.35,Transfer,0.5
+S-2026-001146,2026-07-17,Central,Wholesale,Ready-to-use glazes,47,47.05,2211.35,Transfer,0.5
+S-2026-001147,2026-07-17,North,Retail,Engobes,7,26.16,183.12,Transfer,0.5
+S-2026-001148,2026-07-17,Central,Wholesale,Ceramic pigments,13,108.76,1413.88,Transfer,0.5
+S-2026-001149,2026-07-17,North,Wholesale,Frits,11,30.19,332.09,Transfer,0.5
+S-2026-001150,2026-07-17,West,Wholesale,Frits,93,29.7,2762.1,Credit card,2.8
+S-2026-001151,2026-07-17,North,Retail,Ceramic pigments,15,117.85,1767.75,Transfer,0.5
+S-2026-001152,2026-07-17,Central,Wholesale,Frits,79,28.63,2261.77,Transfer,0.5
+S-2026-001153,2026-07-17,Central,Wholesale,Digital inks,10,194.54,1945.4,Transfer,0.5
+S-2026-001154,2026-07-17,Central,Wholesale,Engobes,68,26.3,1788.4,Transfer,0.5
+S-2026-001155,2026-07-17,West,Retail,Ceramic pigments,11,117.13,1288.43,Credit card,2.8
+S-2026-001156,2026-07-17,North,Retail,Ready-to-use glazes,4,49.59,198.36,Cash,1.0
+S-2026-001157,2026-07-17,North,Wholesale,Frits,26,27.99,727.74,Transfer,0.5
+S-2026-001158,2026-07-17,Central,Wholesale,Frits,25,27.3,682.5,Transfer,0.5
+S-2026-001159,2026-07-17,North,Wholesale,Frits,26,28.51,741.26,Transfer,0.5
+S-2026-001160,2026-07-17,Central,Wholesale,Digital inks,70,193.55,13548.5,Credit card,2.8
+S-2026-001161,2026-07-17,North,Retail,Ready-to-use glazes,4,47.49,189.96,Credit card,2.8
+S-2026-001162,2026-07-17,North,Wholesale,Engobes,30,26.4,792.0,Transfer,0.5
+S-2026-001163,2026-07-17,Central,Wholesale,Frits,114,27.52,3137.28,Transfer,0.5
+S-2026-001164,2026-07-17,North,Wholesale,Engobes,65,23.29,1513.85,Transfer,0.5
+S-2026-001165,2026-07-17,North,Retail,Ready-to-use glazes,5,49.05,245.25,Cash,1.0
+S-2026-001166,2026-07-17,North,Retail,Digital inks,10,211.11,2111.1,Credit card,2.8
+S-2026-001167,2026-07-17,North,Wholesale,Ceramic pigments,27,115.95,3130.65,Transfer,0.5
+S-2026-001168,2026-07-17,Central,Retail,Frits,10,29.99,299.9,Credit card,2.8
+S-2026-001169,2026-07-17,Central,Wholesale,Engobes,20,23.27,465.4,Transfer,0.5
+S-2026-001170,2026-07-17,Central,Wholesale,Ready-to-use glazes,35,46.63,1632.05,Transfer,0.5
+S-2026-001171,2026-07-18,North,Retail,Ready-to-use glazes,9,49.48,445.32,Cash,1.0
+S-2026-001172,2026-07-18,North,Retail,Frits,6,32.41,194.46,Credit card,2.8
+S-2026-001173,2026-07-18,Central,Retail,Engobes,2,26.69,53.38,Cash,1.0
+S-2026-001174,2026-07-18,North,Wholesale,Frits,33,26.81,884.73,Transfer,0.5
+S-2026-001175,2026-07-18,Central,Retail,Digital inks,9,214.75,1932.75,Cash,1.0
+S-2026-001176,2026-07-18,Central,Wholesale,Digital inks,38,192.35,7309.3,Credit card,2.8
+S-2026-001177,2026-07-18,West,Wholesale,Ready-to-use glazes,21,43.94,922.74,Credit card,2.8
+S-2026-001178,2026-07-18,West,Wholesale,Engobes,66,22.99,1517.34,Transfer,0.5
+S-2026-001179,2026-07-18,North,Wholesale,Engobes,46,26.27,1208.42,Transfer,0.5
+S-2026-001180,2026-07-18,West,Wholesale,Digital inks,27,188.53,5090.31,Transfer,0.5
+S-2026-001181,2026-07-18,North,Retail,Frits,17,31.23,530.91,Credit card,2.8
+S-2026-001182,2026-07-19,West,Wholesale,Frits,59,28.71,1693.89,Transfer,0.5
+S-2026-001183,2026-07-19,North,Wholesale,Ready-to-use glazes,43,41.54,1786.22,Transfer,0.5
+S-2026-001184,2026-07-19,West,Wholesale,Digital inks,90,189.99,17099.1,Credit card,2.8
+S-2026-001185,2026-07-19,North,Retail,Ready-to-use glazes,3,47.91,143.73,Credit card,2.8
+S-2026-001186,2026-07-19,West,Wholesale,Ceramic pigments,50,109.17,5458.5,Transfer,0.5
+S-2026-001187,2026-07-19,North,Wholesale,Engobes,25,23.45,586.25,Transfer,0.5
+S-2026-001188,2026-07-19,North,Wholesale,Frits,18,30.82,554.76,Transfer,0.5
+S-2026-001189,2026-07-19,West,Retail,Frits,2,31.65,63.3,Transfer,0.5
+S-2026-001190,2026-07-19,Central,Retail,Digital inks,9,213.45,1921.05,Cash,1.0
+S-2026-001191,2026-07-19,North,Retail,Digital inks,6,214.75,1288.5,Credit card,2.8
+S-2026-001192,2026-07-20,West,Wholesale,Digital inks,8,206.19,1649.52,Credit card,2.8
+S-2026-001193,2026-07-20,Central,Retail,Digital inks,10,219.85,2198.5,Transfer,0.5
+S-2026-001194,2026-07-20,West,Wholesale,Engobes,33,22.62,746.46,Transfer,0.5
+S-2026-001195,2026-07-20,North,Retail,Ready-to-use glazes,3,46.9,140.7,Credit card,2.8
+S-2026-001196,2026-07-20,North,Wholesale,Engobes,19,22.83,433.77,Transfer,0.5
+S-2026-001197,2026-07-20,West,Wholesale,Digital inks,62,195.05,12093.1,Transfer,0.5
+S-2026-001198,2026-07-20,Central,Wholesale,Digital inks,163,202.71,33041.73,Transfer,0.5
+S-2026-001199,2026-07-20,Central,Wholesale,Ready-to-use glazes,37,44.1,1631.7,Transfer,0.5
+S-2026-001200,2026-07-20,Central,Wholesale,Ready-to-use glazes,32,43.51,1392.32,Transfer,0.5
+S-2026-001201,2026-07-20,West,Retail,Digital inks,7,220.74,1545.18,Credit card,2.8
+S-2026-001202,2026-07-20,North,Wholesale,Ceramic pigments,42,115.75,4861.5,Transfer,0.5
+S-2026-001203,2026-07-20,North,Wholesale,Frits,18,27.92,502.56,Transfer,0.5
+S-2026-001204,2026-07-20,North,Retail,Ready-to-use glazes,4,49.62,198.48,Credit card,2.8
+S-2026-001205,2026-07-20,Central,Wholesale,Ready-to-use glazes,158,45.24,7147.92,Transfer,0.5
+S-2026-001206,2026-07-20,North,Wholesale,Frits,45,26.82,1206.9,Credit card,2.8
+S-2026-001207,2026-07-20,North,Wholesale,Ceramic pigments,29,109.37,3171.73,Transfer,0.5
+S-2026-001208,2026-07-20,Central,Wholesale,Engobes,152,24.07,3658.64,Transfer,0.5
+S-2026-001209,2026-07-20,West,Wholesale,Frits,14,26.57,371.98,Credit card,2.8
+S-2026-001210,2026-07-20,North,Wholesale,Ready-to-use glazes,36,45.76,1647.36,Transfer,0.5
+S-2026-001211,2026-07-20,Central,Wholesale,Frits,7,30.21,211.47,Transfer,0.5
+S-2026-001212,2026-07-20,West,Wholesale,Frits,21,29.0,609.0,Transfer,0.5
+S-2026-001213,2026-07-20,North,Retail,Engobes,12,24.34,292.08,Credit card,2.8
+S-2026-001214,2026-07-21,West,Wholesale,Digital inks,39,186.06,7256.34,Transfer,0.5
+S-2026-001215,2026-07-21,North,Wholesale,Frits,38,28.4,1079.2,Transfer,0.5
+S-2026-001216,2026-07-21,North,Wholesale,Frits,27,31.02,837.54,Transfer,0.5
+S-2026-001217,2026-07-21,North,Wholesale,Ready-to-use glazes,122,46.31,5649.82,Transfer,0.5
+S-2026-001218,2026-07-21,North,Retail,Engobes,4,25.63,102.52,Credit card,2.8
+S-2026-001219,2026-07-21,North,Wholesale,Engobes,49,23.85,1168.65,Transfer,0.5
+S-2026-001220,2026-07-21,North,Wholesale,Ready-to-use glazes,85,46.79,3977.15,Transfer,0.5
+S-2026-001221,2026-07-21,North,Wholesale,Engobes,39,23.8,928.2,Transfer,0.5
+S-2026-001222,2026-07-21,West,Wholesale,Ready-to-use glazes,16,46.1,737.6,Transfer,0.5
+S-2026-001223,2026-07-21,West,Wholesale,Ready-to-use glazes,27,43.46,1173.42,Transfer,0.5
+S-2026-001224,2026-07-21,North,Retail,Frits,10,30.99,309.9,Credit card,2.8
+S-2026-001225,2026-07-21,North,Wholesale,Ready-to-use glazes,36,45.57,1640.52,Transfer,0.5
+S-2026-001226,2026-07-21,Central,Wholesale,Frits,10,26.88,268.8,Credit card,2.8
+S-2026-001227,2026-07-21,Central,Wholesale,Ready-to-use glazes,85,42.06,3575.1,Transfer,0.5
+S-2026-001228,2026-07-21,West,Wholesale,Ceramic pigments,43,111.18,4780.74,Credit card,2.8
+S-2026-001229,2026-07-21,Central,Wholesale,Ready-to-use glazes,12,45.92,551.04,Credit card,2.8
+S-2026-001230,2026-07-21,Central,Wholesale,Ready-to-use glazes,42,45.83,1924.86,Transfer,0.5
+S-2026-001231,2026-07-21,North,Wholesale,Frits,56,29.09,1629.04,Transfer,0.5
+S-2026-001232,2026-07-21,North,Retail,Ready-to-use glazes,7,48.06,336.42,Credit card,2.8
+S-2026-001233,2026-07-21,North,Retail,Ready-to-use glazes,13,48.9,635.7,Credit card,2.8
+S-2026-001234,2026-07-21,West,Retail,Ceramic pigments,12,111.94,1343.28,Credit card,2.8
+S-2026-001235,2026-07-21,North,Retail,Ceramic pigments,6,123.03,738.18,Credit card,2.8
+S-2026-001236,2026-07-21,West,Wholesale,Frits,26,28.23,733.98,Transfer,0.5
+S-2026-001237,2026-07-21,North,Retail,Ready-to-use glazes,18,49.49,890.82,Credit card,2.8
+S-2026-001238,2026-07-21,West,Wholesale,Frits,28,28.13,787.64,Transfer,0.5
+S-2026-001239,2026-07-21,West,Retail,Ready-to-use glazes,11,47.6,523.6,Cash,1.0
+S-2026-001240,2026-07-21,West,Wholesale,Digital inks,47,194.92,9161.24,Transfer,0.5
+S-2026-001241,2026-07-21,West,Wholesale,Engobes,29,23.28,675.12,Transfer,0.5
+S-2026-001242,2026-07-21,Central,Retail,Frits,3,30.52,91.56,Credit card,2.8
+S-2026-001243,2026-07-21,West,Wholesale,Frits,19,29.11,553.09,Transfer,0.5
+S-2026-001244,2026-07-21,North,Wholesale,Ready-to-use glazes,31,45.08,1397.48,Credit card,2.8
+S-2026-001245,2026-07-21,North,Retail,Ready-to-use glazes,12,45.96,551.52,Credit card,2.8
+S-2026-001246,2026-07-21,North,Wholesale,Digital inks,38,200.91,7634.58,Transfer,0.5
+S-2026-001247,2026-07-22,West,Retail,Ceramic pigments,15,119.67,1795.05,Credit card,2.8
+S-2026-001248,2026-07-22,Central,Wholesale,Digital inks,25,198.53,4963.25,Transfer,0.5
+S-2026-001249,2026-07-22,North,Wholesale,Ready-to-use glazes,67,46.68,3127.56,Credit card,2.8
+S-2026-001250,2026-07-22,Central,Retail,Frits,10,31.24,312.4,Credit card,2.8
+S-2026-001251,2026-07-22,Central,Retail,Ready-to-use glazes,8,48.94,391.52,Transfer,0.5
+S-2026-001252,2026-07-22,North,Wholesale,Ready-to-use glazes,9,46.0,414.0,Transfer,0.5
+S-2026-001253,2026-07-22,North,Retail,Frits,3,32.05,96.15,Credit card,2.8
+S-2026-001254,2026-07-22,North,Retail,Ready-to-use glazes,11,47.71,524.81,Cash,1.0
+S-2026-001255,2026-07-22,West,Retail,Ready-to-use glazes,8,49.73,397.84,Cash,1.0
+S-2026-001256,2026-07-22,North,Wholesale,Engobes,14,24.28,339.92,Transfer,0.5
+S-2026-001257,2026-07-22,North,Retail,Ceramic pigments,3,119.68,359.04,Transfer,0.5
+S-2026-001258,2026-07-22,West,Retail,Frits,9,29.08,261.72,Transfer,0.5
+S-2026-001259,2026-07-22,Central,Wholesale,Ready-to-use glazes,43,43.35,1864.05,Transfer,0.5
+S-2026-001260,2026-07-22,West,Retail,Ready-to-use glazes,10,46.98,469.8,Credit card,2.8
+S-2026-001261,2026-07-22,Central,Wholesale,Ready-to-use glazes,21,42.84,899.64,Transfer,0.5
+S-2026-001262,2026-07-22,North,Retail,Frits,11,31.43,345.73,Credit card,2.8
+S-2026-001263,2026-07-22,West,Retail,Frits,5,30.59,152.95,Credit card,2.8
+S-2026-001264,2026-07-22,North,Wholesale,Ready-to-use glazes,116,43.48,5043.68,Transfer,0.5
+S-2026-001265,2026-07-22,West,Wholesale,Ceramic pigments,57,103.8,5916.6,Transfer,0.5
+S-2026-001266,2026-07-22,North,Wholesale,Engobes,53,24.45,1295.85,Transfer,0.5
+S-2026-001267,2026-07-22,Central,Retail,Digital inks,2,212.85,425.7,Credit card,2.8
+S-2026-001268,2026-07-22,West,Wholesale,Digital inks,26,204.23,5309.98,Transfer,0.5
+S-2026-001269,2026-07-22,Central,Wholesale,Ready-to-use glazes,18,44.93,808.74,Transfer,0.5
+S-2026-001270,2026-07-22,North,Retail,Frits,15,30.64,459.6,Credit card,2.8
+S-2026-001271,2026-07-22,West,Wholesale,Digital inks,124,210.06,26047.44,Transfer,0.5
+S-2026-001272,2026-07-22,Central,Wholesale,Ready-to-use glazes,41,46.39,1901.99,Transfer,0.5
+S-2026-001273,2026-07-22,North,Retail,Frits,1,29.71,29.71,Credit card,2.8
+S-2026-001274,2026-07-22,North,Retail,Ready-to-use glazes,15,50.42,756.3,Credit card,2.8
+S-2026-001275,2026-07-23,Central,Wholesale,Digital inks,74,197.49,14614.26,Transfer,0.5
+S-2026-001276,2026-07-23,Central,Retail,Engobes,8,26.91,215.28,Cash,1.0
+S-2026-001277,2026-07-23,North,Wholesale,Frits,23,31.2,717.6,Transfer,0.5
+S-2026-001278,2026-07-23,Central,Retail,Ceramic pigments,6,109.28,655.68,Credit card,2.8
+S-2026-001279,2026-07-23,North,Wholesale,Ready-to-use glazes,30,43.8,1314.0,Credit card,2.8
+S-2026-001280,2026-07-23,Central,Wholesale,Engobes,19,23.81,452.39,Transfer,0.5
+S-2026-001281,2026-07-23,North,Retail,Engobes,4,27.09,108.36,Credit card,2.8
+S-2026-001282,2026-07-23,Central,Wholesale,Ceramic pigments,21,114.45,2403.45,Credit card,2.8
+S-2026-001283,2026-07-23,North,Wholesale,Frits,35,26.07,912.45,Transfer,0.5
+S-2026-001284,2026-07-23,Central,Retail,Ceramic pigments,16,126.85,2029.6,Cash,1.0
+S-2026-001285,2026-07-23,North,Retail,Engobes,3,26.45,79.35,Credit card,2.8
+S-2026-001286,2026-07-23,West,Retail,Engobes,10,26.55,265.5,Credit card,2.8
+S-2026-001287,2026-07-23,North,Wholesale,Frits,78,28.32,2208.96,Transfer,0.5
+S-2026-001288,2026-07-23,Central,Wholesale,Frits,28,28.78,805.84,Credit card,2.8
+S-2026-001289,2026-07-23,Central,Retail,Ready-to-use glazes,10,47.7,477.0,Credit card,2.8
+S-2026-001290,2026-07-23,West,Wholesale,Digital inks,72,201.28,14492.16,Transfer,0.5
+S-2026-001291,2026-07-23,Central,Retail,Ready-to-use glazes,5,48.5,242.5,Credit card,2.8
+S-2026-001292,2026-07-23,Central,Retail,Frits,9,30.81,277.29,Cash,1.0
+S-2026-001293,2026-07-23,West,Wholesale,Frits,45,27.98,1259.1,Transfer,0.5
+S-2026-001294,2026-07-23,Central,Retail,Digital inks,2,216.52,433.04,Cash,1.0
+S-2026-001295,2026-07-23,West,Wholesale,Frits,61,26.75,1631.75,Credit card,2.8
+S-2026-001296,2026-07-23,North,Retail,Frits,10,31.75,317.5,Credit card,2.8
+S-2026-001297,2026-07-23,Central,Retail,Digital inks,6,203.05,1218.3,Credit card,2.8
+S-2026-001298,2026-07-23,Central,Retail,Ready-to-use glazes,3,48.37,145.11,Transfer,0.5
+S-2026-001299,2026-07-23,West,Retail,Engobes,4,26.41,105.64,Credit card,2.8
+S-2026-001300,2026-07-23,Central,Retail,Frits,7,31.08,217.56,Cash,1.0
+S-2026-001301,2026-07-23,West,Wholesale,Digital inks,29,181.99,5277.71,Transfer,0.5
+S-2026-001302,2026-07-23,North,Retail,Frits,8,31.03,248.24,Cash,1.0
+S-2026-001303,2026-07-23,Central,Wholesale,Frits,16,28.8,460.8,Transfer,0.5
+S-2026-001304,2026-07-23,North,Retail,Engobes,2,26.46,52.92,Credit card,2.8
+S-2026-001305,2026-07-23,North,Retail,Frits,10,31.45,314.5,Credit card,2.8
+S-2026-001306,2026-07-23,Central,Wholesale,Digital inks,32,196.64,6292.48,Transfer,0.5
+S-2026-001307,2026-07-23,Central,Wholesale,Ceramic pigments,80,120.75,9660.0,Transfer,0.5
+S-2026-001308,2026-07-23,Central,Wholesale,Digital inks,42,195.79,8223.18,Transfer,0.5
+S-2026-001309,2026-07-24,North,Retail,Frits,4,30.56,122.24,Cash,1.0
+S-2026-001310,2026-07-24,Central,Retail,Frits,7,32.05,224.35,Credit card,2.8
+S-2026-001311,2026-07-24,Central,Wholesale,Ready-to-use glazes,29,46.59,1351.11,Transfer,0.5
+S-2026-001312,2026-07-24,Central,Retail,Ready-to-use glazes,8,49.51,396.08,Transfer,0.5
+S-2026-001313,2026-07-24,West,Wholesale,Ready-to-use glazes,54,45.09,2434.86,Transfer,0.5
+S-2026-001314,2026-07-24,North,Retail,Digital inks,7,222.01,1554.07,Credit card,2.8
+S-2026-001315,2026-07-24,Central,Wholesale,Ready-to-use glazes,30,46.13,1383.9,Transfer,0.5
+S-2026-001316,2026-07-24,Central,Wholesale,Engobes,25,25.73,643.25,Transfer,0.5
+S-2026-001317,2026-07-24,West,Wholesale,Digital inks,45,193.57,8710.65,Transfer,0.5
+S-2026-001318,2026-07-24,North,Retail,Engobes,4,26.43,105.72,Transfer,0.5
+S-2026-001319,2026-07-24,North,Wholesale,Ready-to-use glazes,66,46.29,3055.14,Transfer,0.5
+S-2026-001320,2026-07-24,West,Wholesale,Ready-to-use glazes,70,46.29,3240.3,Transfer,0.5
+S-2026-001321,2026-07-24,West,Wholesale,Digital inks,16,189.16,3026.56,Transfer,0.5
+S-2026-001322,2026-07-24,North,Wholesale,Ready-to-use glazes,22,44.92,988.24,Transfer,0.5
+S-2026-001323,2026-07-24,Central,Wholesale,Ceramic pigments,22,110.95,2440.9,Transfer,0.5
+S-2026-001324,2026-07-24,Central,Retail,Ready-to-use glazes,6,47.82,286.92,Credit card,2.8
+S-2026-001325,2026-07-24,North,Wholesale,Frits,39,30.19,1177.41,Transfer,0.5
+S-2026-001326,2026-07-24,North,Wholesale,Frits,26,28.32,736.32,Transfer,0.5
+S-2026-001327,2026-07-24,North,Wholesale,Ready-to-use glazes,44,46.72,2055.68,Transfer,0.5
+S-2026-001328,2026-07-24,North,Retail,Ready-to-use glazes,2,47.74,95.48,Cash,1.0
+S-2026-001329,2026-07-24,Central,Retail,Engobes,4,25.68,102.72,Credit card,2.8
+S-2026-001330,2026-07-24,West,Wholesale,Engobes,16,23.81,380.96,Transfer,0.5
+S-2026-001331,2026-07-24,West,Retail,Digital inks,6,224.99,1349.94,Cash,1.0
+S-2026-001332,2026-07-25,North,Retail,Frits,2,29.25,58.5,Credit card,2.8
+S-2026-001333,2026-07-25,Central,Retail,Frits,2,31.34,62.68,Cash,1.0
+S-2026-001334,2026-07-25,Central,Wholesale,Engobes,68,23.66,1608.88,Credit card,2.8
+S-2026-001335,2026-07-25,West,Wholesale,Frits,37,27.24,1007.88,Transfer,0.5
+S-2026-001336,2026-07-25,North,Wholesale,Digital inks,64,201.54,12898.56,Transfer,0.5
+S-2026-001337,2026-07-25,Central,Retail,Frits,6,29.72,178.32,Credit card,2.8
+S-2026-001338,2026-07-25,Central,Wholesale,Ready-to-use glazes,22,44.51,979.22,Transfer,0.5
+S-2026-001339,2026-07-25,Central,Wholesale,Frits,62,29.1,1804.2,Transfer,0.5
+S-2026-001340,2026-07-25,West,Retail,Ceramic pigments,3,119.46,358.38,Credit card,2.8
+S-2026-001341,2026-07-25,West,Retail,Engobes,13,26.39,343.07,Credit card,2.8
+S-2026-001342,2026-07-25,Central,Wholesale,Frits,139,27.75,3857.25,Transfer,0.5
+S-2026-001343,2026-07-25,North,Wholesale,Ready-to-use glazes,39,43.17,1683.63,Transfer,0.5
+S-2026-001344,2026-07-26,Central,Retail,Frits,28,32.07,897.96,Cash,1.0
+S-2026-001345,2026-07-26,North,Retail,Frits,13,30.61,397.93,Cash,1.0
+S-2026-001346,2026-07-26,West,Wholesale,Digital inks,62,205.62,12748.44,Credit card,2.8
+S-2026-001347,2026-07-26,North,Wholesale,Ready-to-use glazes,30,44.17,1325.1,Transfer,0.5
+S-2026-001348,2026-07-26,West,Wholesale,Ready-to-use glazes,18,45.91,826.38,Transfer,0.5
+S-2026-001349,2026-07-26,North,Retail,Digital inks,7,208.62,1460.34,Cash,1.0
+S-2026-001350,2026-07-26,North,Retail,Engobes,5,25.11,125.55,Credit card,2.8
+S-2026-001351,2026-07-26,Central,Retail,Digital inks,5,229.76,1148.8,Credit card,2.8
+S-2026-001352,2026-07-26,Central,Wholesale,Ready-to-use glazes,76,43.44,3301.44,Transfer,0.5
+S-2026-001353,2026-07-26,North,Wholesale,Frits,100,27.8,2780.0,Credit card,2.8
+S-2026-001354,2026-07-26,North,Retail,Ceramic pigments,2,111.03,222.06,Credit card,2.8
+S-2026-001355,2026-07-27,North,Retail,Engobes,11,26.91,296.01,Cash,1.0
+S-2026-001356,2026-07-27,North,Wholesale,Ceramic pigments,19,109.08,2072.52,Credit card,2.8
+S-2026-001357,2026-07-27,Central,Wholesale,Ready-to-use glazes,19,42.05,798.95,Transfer,0.5
+S-2026-001358,2026-07-27,North,Wholesale,Frits,39,29.11,1135.29,Transfer,0.5
+S-2026-001359,2026-07-27,North,Retail,Digital inks,8,219.07,1752.56,Credit card,2.8
+S-2026-001360,2026-07-27,West,Retail,Engobes,15,26.18,392.7,Credit card,2.8
+S-2026-001361,2026-07-27,North,Wholesale,Engobes,44,22.7,998.8,Transfer,0.5
+S-2026-001362,2026-07-27,North,Wholesale,Ready-to-use glazes,2,45.06,90.12,Transfer,0.5
+S-2026-001363,2026-07-27,West,Wholesale,Engobes,34,24.75,841.5,Transfer,0.5
+S-2026-001364,2026-07-27,Central,Wholesale,Ready-to-use glazes,63,44.47,2801.61,Credit card,2.8
+S-2026-001365,2026-07-27,North,Wholesale,Engobes,109,25.32,2759.88,Credit card,2.8
+S-2026-001366,2026-07-27,Central,Wholesale,Ready-to-use glazes,13,44.01,572.13,Transfer,0.5
+S-2026-001367,2026-07-27,North,Wholesale,Engobes,146,24.41,3563.86,Transfer,0.5
+S-2026-001368,2026-07-27,North,Wholesale,Frits,36,29.97,1078.92,Transfer,0.5
+S-2026-001369,2026-07-27,North,Retail,Frits,4,30.45,121.8,Credit card,2.8
+S-2026-001370,2026-07-27,West,Retail,Digital inks,9,220.7,1986.3,Cash,1.0
+S-2026-001371,2026-07-27,North,Wholesale,Frits,13,27.53,357.89,Transfer,0.5
+S-2026-001372,2026-07-27,Central,Retail,Ceramic pigments,2,117.37,234.74,Credit card,2.8
+S-2026-001373,2026-07-27,North,Retail,Engobes,5,25.15,125.75,Credit card,2.8
+S-2026-001374,2026-07-27,West,Retail,Digital inks,15,217.52,3262.8,Credit card,2.8
+S-2026-001375,2026-07-27,Central,Wholesale,Frits,20,28.26,565.2,Credit card,2.8
+S-2026-001376,2026-07-27,North,Wholesale,Frits,32,29.94,958.08,Transfer,0.5
+S-2026-001377,2026-07-27,Central,Retail,Frits,5,30.49,152.45,Credit card,2.8
+S-2026-001378,2026-07-27,Central,Wholesale,Digital inks,48,190.43,9140.64,Transfer,0.5
+S-2026-001379,2026-07-28,West,Wholesale,Digital inks,139,191.04,26554.56,Transfer,0.5
+S-2026-001380,2026-07-28,West,Retail,Frits,2,30.98,61.96,Transfer,0.5
+S-2026-001381,2026-07-28,Central,Wholesale,Ceramic pigments,47,108.1,5080.7,Transfer,0.5
+S-2026-001382,2026-07-28,West,Wholesale,Ceramic pigments,14,113.18,1584.52,Transfer,0.5
+S-2026-001383,2026-07-28,North,Retail,Engobes,8,26.11,208.88,Credit card,2.8
+S-2026-001384,2026-07-28,North,Wholesale,Ceramic pigments,11,117.2,1289.2,Transfer,0.5
+S-2026-001385,2026-07-28,Central,Wholesale,Ready-to-use glazes,58,43.55,2525.9,Credit card,2.8
+S-2026-001386,2026-07-28,West,Wholesale,Ceramic pigments,35,108.21,3787.35,Credit card,2.8
+S-2026-001387,2026-07-28,West,Wholesale,Ready-to-use glazes,19,46.15,876.85,Credit card,2.8
+S-2026-001388,2026-07-28,Central,Retail,Digital inks,3,214.48,643.44,Credit card,2.8
+S-2026-001389,2026-07-28,Central,Wholesale,Ceramic pigments,21,107.22,2251.62,Credit card,2.8
+S-2026-001390,2026-07-28,North,Retail,Ready-to-use glazes,8,49.59,396.72,Credit card,2.8
+S-2026-001391,2026-07-28,West,Retail,Ceramic pigments,6,123.85,743.1,Cash,1.0
+S-2026-001392,2026-07-28,North,Wholesale,Frits,26,29.67,771.42,Transfer,0.5
+S-2026-001393,2026-07-28,Central,Wholesale,Frits,56,27.9,1562.4,Credit card,2.8
+S-2026-001394,2026-07-28,North,Wholesale,Ready-to-use glazes,33,45.95,1516.35,Transfer,0.5
+S-2026-001395,2026-07-28,Central,Retail,Frits,6,31.49,188.94,Transfer,0.5
+S-2026-001396,2026-07-28,West,Wholesale,Ceramic pigments,63,115.32,7265.16,Credit card,2.8
+S-2026-001397,2026-07-28,North,Retail,Frits,6,30.51,183.06,Credit card,2.8
+S-2026-001398,2026-07-28,West,Retail,Ceramic pigments,6,118.56,711.36,Transfer,0.5
+S-2026-001399,2026-07-28,West,Retail,Frits,4,31.49,125.96,Cash,1.0
+S-2026-001400,2026-07-28,West,Wholesale,Ceramic pigments,136,106.01,14417.36,Transfer,0.5
+S-2026-001401,2026-07-28,Central,Wholesale,Ready-to-use glazes,10,42.25,422.5,Transfer,0.5
+S-2026-001402,2026-07-28,North,Wholesale,Engobes,11,25.18,276.98,Transfer,0.5
+S-2026-001403,2026-07-28,North,Wholesale,Frits,49,27.47,1346.03,Transfer,0.5
+S-2026-001404,2026-07-28,North,Retail,Engobes,14,26.38,369.32,Credit card,2.8
+S-2026-001405,2026-07-28,Central,Retail,Ready-to-use glazes,3,48.34,145.02,Credit card,2.8
+S-2026-001406,2026-07-28,West,Wholesale,Digital inks,74,202.12,14956.88,Transfer,0.5
+S-2026-001407,2026-07-29,West,Wholesale,Ready-to-use glazes,32,46.09,1474.88,Transfer,0.5
+S-2026-001408,2026-07-29,Central,Wholesale,Frits,27,28.6,772.2,Credit card,2.8
+S-2026-001409,2026-07-29,Central,Wholesale,Digital inks,7,199.69,1397.83,Transfer,0.5
+S-2026-001410,2026-07-29,North,Wholesale,Engobes,105,23.11,2426.55,Transfer,0.5
+S-2026-001411,2026-07-29,North,Wholesale,Frits,5,29.01,145.05,Transfer,0.5
+S-2026-001412,2026-07-29,Central,Wholesale,Ready-to-use glazes,14,41.31,578.34,Transfer,0.5
+S-2026-001413,2026-07-29,Central,Retail,Frits,13,29.82,387.66,Credit card,2.8
+S-2026-001414,2026-07-29,Central,Wholesale,Ready-to-use glazes,35,44.75,1566.25,Transfer,0.5
+S-2026-001415,2026-07-29,North,Wholesale,Ready-to-use glazes,43,43.57,1873.51,Transfer,0.5
+S-2026-001416,2026-07-29,Central,Wholesale,Frits,74,28.33,2096.42,Transfer,0.5
+S-2026-001417,2026-07-29,Central,Wholesale,Ready-to-use glazes,27,43.66,1178.82,Transfer,0.5
+S-2026-001418,2026-07-29,North,Wholesale,Ceramic pigments,25,113.29,2832.25,Transfer,0.5
+S-2026-001419,2026-07-29,North,Wholesale,Frits,56,28.03,1569.68,Credit card,2.8
+S-2026-001420,2026-07-29,Central,Retail,Ready-to-use glazes,12,49.59,595.08,Credit card,2.8
+S-2026-001421,2026-07-29,Central,Wholesale,Digital inks,19,194.88,3702.72,Credit card,2.8
+S-2026-001422,2026-07-29,North,Retail,Frits,6,32.87,197.22,Transfer,0.5
+S-2026-001423,2026-07-29,West,Retail,Frits,2,30.89,61.78,Cash,1.0
+S-2026-001424,2026-07-29,North,Wholesale,Ready-to-use glazes,16,43.93,702.88,Transfer,0.5
+S-2026-001425,2026-07-29,West,Wholesale,Ready-to-use glazes,68,41.64,2831.52,Transfer,0.5
+S-2026-001426,2026-07-29,West,Wholesale,Engobes,52,24.59,1278.68,Transfer,0.5
+S-2026-001427,2026-07-29,West,Wholesale,Ready-to-use glazes,70,43.88,3071.6,Transfer,0.5
+S-2026-001428,2026-07-29,North,Retail,Ceramic pigments,6,118.9,713.4,Transfer,0.5
+S-2026-001429,2026-07-29,Central,Wholesale,Frits,103,30.94,3186.82,Transfer,0.5
+S-2026-001430,2026-07-29,Central,Wholesale,Frits,36,29.53,1063.08,Transfer,0.5
+S-2026-001431,2026-07-29,Central,Wholesale,Ready-to-use glazes,38,43.12,1638.56,Credit card,2.8
+S-2026-001432,2026-07-29,Central,Wholesale,Frits,27,29.34,792.18,Credit card,2.8
+S-2026-001433,2026-07-29,North,Wholesale,Ready-to-use glazes,46,45.25,2081.5,Transfer,0.5
+S-2026-001434,2026-07-29,Central,Wholesale,Digital inks,47,193.96,9116.12,Transfer,0.5
+S-2026-001435,2026-07-29,West,Wholesale,Digital inks,52,200.06,10403.12,Transfer,0.5
+S-2026-001436,2026-07-29,North,Wholesale,Frits,23,27.03,621.69,Transfer,0.5
+S-2026-001437,2026-07-29,North,Retail,Digital inks,2,214.2,428.4,Credit card,2.8
+S-2026-001438,2026-07-30,North,Retail,Frits,5,31.62,158.1,Credit card,2.8
+S-2026-001439,2026-07-30,Central,Wholesale,Ready-to-use glazes,46,44.04,2025.84,Credit card,2.8
+S-2026-001440,2026-07-30,West,Wholesale,Engobes,37,23.79,880.23,Transfer,0.5
+S-2026-001441,2026-07-30,Central,Retail,Ready-to-use glazes,4,48.32,193.28,Credit card,2.8
+S-2026-001442,2026-07-30,North,Retail,Ready-to-use glazes,2,47.78,95.56,Credit card,2.8
+S-2026-001443,2026-07-30,Central,Wholesale,Engobes,9,25.71,231.39,Transfer,0.5
+S-2026-001444,2026-07-30,Central,Retail,Ready-to-use glazes,8,49.29,394.32,Cash,1.0
+S-2026-001445,2026-07-30,North,Wholesale,Engobes,44,24.49,1077.56,Transfer,0.5
+S-2026-001446,2026-07-30,Central,Wholesale,Ready-to-use glazes,44,47.26,2079.44,Transfer,0.5
+S-2026-001447,2026-07-30,North,Wholesale,Ceramic pigments,17,116.83,1986.11,Transfer,0.5
+S-2026-001448,2026-07-30,West,Wholesale,Digital inks,45,203.13,9140.85,Transfer,0.5
+S-2026-001449,2026-07-30,West,Retail,Frits,4,29.26,117.04,Cash,1.0
+S-2026-001450,2026-07-30,West,Wholesale,Ceramic pigments,31,104.24,3231.44,Transfer,0.5
+S-2026-001451,2026-07-30,North,Wholesale,Frits,64,29.48,1886.72,Transfer,0.5
+S-2026-001452,2026-07-30,Central,Wholesale,Digital inks,22,190.17,4183.74,Credit card,2.8
+S-2026-001453,2026-07-30,West,Wholesale,Ceramic pigments,45,111.06,4997.7,Transfer,0.5
+S-2026-001454,2026-07-30,West,Wholesale,Ready-to-use glazes,61,43.52,2654.72,Credit card,2.8
+S-2026-001455,2026-07-30,North,Retail,Ready-to-use glazes,5,45.19,225.95,Cash,1.0
+S-2026-001456,2026-07-30,West,Retail,Engobes,7,27.29,191.03,Cash,1.0
+S-2026-001457,2026-07-30,Central,Wholesale,Ceramic pigments,222,109.25,24253.5,Transfer,0.5
+S-2026-001458,2026-07-30,North,Wholesale,Digital inks,17,190.64,3240.88,Credit card,2.8
+S-2026-001459,2026-07-30,Central,Wholesale,Engobes,22,25.73,566.06,Transfer,0.5
+S-2026-001460,2026-07-30,North,Wholesale,Frits,36,29.22,1051.92,Transfer,0.5
+S-2026-001461,2026-07-30,West,Wholesale,Ready-to-use glazes,7,46.15,323.05,Credit card,2.8
+S-2026-001462,2026-07-30,West,Wholesale,Ceramic pigments,39,109.4,4266.6,Credit card,2.8
+S-2026-001463,2026-07-30,Central,Wholesale,Frits,26,26.8,696.8,Credit card,2.8
+S-2026-001464,2026-07-30,Central,Wholesale,Engobes,128,24.81,3175.68,Transfer,0.5
+S-2026-001465,2026-07-30,North,Wholesale,Frits,90,28.59,2573.1,Transfer,0.5
+S-2026-001466,2026-07-30,Central,Retail,Digital inks,9,208.66,1877.94,Transfer,0.5
+S-2026-001467,2026-07-30,North,Wholesale,Digital inks,36,198.61,7149.96,Transfer,0.5
+S-2026-001468,2026-07-30,Central,Retail,Engobes,5,24.5,122.5,Credit card,2.8
+S-2026-001469,2026-07-30,Central,Wholesale,Ready-to-use glazes,50,45.72,2286.0,Transfer,0.5
+S-2026-001470,2026-07-30,Central,Retail,Ready-to-use glazes,4,49.28,197.12,Transfer,0.5
+S-2026-001471,2026-07-30,West,Wholesale,Frits,28,29.53,826.84,Transfer,0.5
+S-2026-001472,2026-07-30,Central,Wholesale,Engobes,63,25.54,1609.02,Transfer,0.5
+S-2026-001473,2026-07-31,North,Retail,Engobes,8,26.38,211.04,Credit card,2.8
+S-2026-001474,2026-07-31,West,Retail,Frits,7,32.09,224.63,Transfer,0.5
+S-2026-001475,2026-07-31,Central,Retail,Frits,6,30.89,185.34,Credit card,2.8
+S-2026-001476,2026-07-31,West,Retail,Frits,7,31.16,218.12,Transfer,0.5
+S-2026-001477,2026-07-31,North,Retail,Digital inks,22,217.75,4790.5,Credit card,2.8
+S-2026-001478,2026-07-31,Central,Wholesale,Frits,22,30.71,675.62,Transfer,0.5
+S-2026-001479,2026-07-31,Central,Wholesale,Ready-to-use glazes,9,45.73,411.57,Transfer,0.5
+S-2026-001480,2026-07-31,Central,Wholesale,Engobes,42,23.25,976.5,Transfer,0.5
+S-2026-001481,2026-07-31,Central,Retail,Ceramic pigments,12,116.83,1401.96,Transfer,0.5
+S-2026-001482,2026-07-31,West,Retail,Ceramic pigments,12,119.62,1435.44,Credit card,2.8
+S-2026-001483,2026-07-31,West,Wholesale,Engobes,18,24.19,435.42,Transfer,0.5
+S-2026-001484,2026-07-31,North,Retail,Frits,6,30.44,182.64,Credit card,2.8
+S-2026-001485,2026-07-31,Central,Retail,Ready-to-use glazes,4,45.81,183.24,Credit card,2.8
+S-2026-001486,2026-07-31,Central,Retail,Ready-to-use glazes,11,47.05,517.55,Credit card,2.8
+S-2026-001487,2026-07-31,Central,Wholesale,Ready-to-use glazes,43,44.49,1913.07,Transfer,0.5
+S-2026-001488,2026-07-31,West,Wholesale,Digital inks,37,203.19,7518.03,Transfer,0.5
+S-2026-001489,2026-07-31,North,Wholesale,Ready-to-use glazes,10,42.37,423.7,Transfer,0.5
+S-2026-001490,2026-07-31,North,Wholesale,Ceramic pigments,21,112.37,2359.77,Transfer,0.5
+S-2026-001491,2026-07-31,North,Wholesale,Frits,29,29.18,846.22,Transfer,0.5
+S-2026-001492,2026-07-31,West,Wholesale,Digital inks,89,199.32,17739.48,Transfer,0.5
+S-2026-001493,2026-07-31,West,Wholesale,Engobes,83,24.69,2049.27,Credit card,2.8
+S-2026-001494,2026-07-31,North,Wholesale,Ready-to-use glazes,13,43.73,568.49,Transfer,0.5
+S-2026-001495,2026-07-31,Central,Retail,Engobes,8,25.56,204.48,Transfer,0.5
+S-2026-001496,2026-07-31,Central,Wholesale,Ceramic pigments,34,108.87,3701.58,Credit card,2.8
+S-2026-001497,2026-07-31,West,Retail,Frits,1,29.2,29.2,Cash,1.0
+S-2026-001498,2026-07-31,West,Wholesale,Frits,69,28.73,1982.37,Transfer,0.5
+S-2026-001499,2026-07-31,North,Wholesale,Frits,45,27.55,1239.75,Transfer,0.5
+S-2026-001500,2026-07-31,Central,Retail,Digital inks,13,215.41,2800.33,Cash,1.0
+S-2026-001501,2026-07-31,Central,Wholesale,Ceramic pigments,77,107.28,8260.56,Transfer,0.5
+S-2026-001502,2026-07-31,North,Wholesale,Ready-to-use glazes,80,45.17,3613.6,Transfer,0.5
+S-2026-001503,2026-08-01,West,Wholesale,Frits,38,30.25,1149.5,Transfer,0.5
+S-2026-001504,2026-08-01,Central,Wholesale,Ceramic pigments,28,108.17,3028.76,Credit card,2.8
+S-2026-001505,2026-08-01,North,Retail,Frits,15,30.02,450.3,Credit card,2.8
+S-2026-001506,2026-08-01,West,Retail,Ceramic pigments,9,117.99,1061.91,Credit card,2.8
+S-2026-001507,2026-08-01,Central,Wholesale,Frits,48,28.75,1380.0,Credit card,2.8
+S-2026-001508,2026-08-01,North,Wholesale,Engobes,25,24.44,611.0,Credit card,2.8
+S-2026-001509,2026-08-01,North,Wholesale,Frits,103,31.33,3226.99,Transfer,0.5
+S-2026-001510,2026-08-01,North,Wholesale,Ceramic pigments,113,105.34,11903.42,Transfer,0.5
+S-2026-001511,2026-08-01,Central,Wholesale,Frits,50,30.24,1512.0,Credit card,2.8
+S-2026-001512,2026-08-01,Central,Wholesale,Ceramic pigments,74,105.43,7801.82,Credit card,2.8
+S-2026-001513,2026-08-01,North,Wholesale,Frits,51,31.19,1590.69,Transfer,0.5
+S-2026-001514,2026-08-01,West,Retail,Engobes,6,25.69,154.14,Transfer,0.5
+S-2026-001515,2026-08-02,North,Wholesale,Ready-to-use glazes,17,42.81,727.77,Credit card,2.8
+S-2026-001516,2026-08-03,North,Wholesale,Ceramic pigments,11,108.02,1188.22,Transfer,0.5
+S-2026-001517,2026-08-03,Central,Wholesale,Ready-to-use glazes,33,44.98,1484.34,Transfer,0.5
+S-2026-001518,2026-08-03,North,Retail,Frits,9,30.31,272.79,Cash,1.0
+S-2026-001519,2026-08-03,North,Retail,Engobes,8,26.13,209.04,Transfer,0.5
+S-2026-001520,2026-08-03,West,Retail,Frits,7,31.73,222.11,Transfer,0.5
+S-2026-001521,2026-08-03,North,Retail,Frits,8,30.83,246.64,Credit card,2.8
+S-2026-001522,2026-08-03,North,Wholesale,Ready-to-use glazes,66,42.72,2819.52,Transfer,0.5
+S-2026-001523,2026-08-03,Central,Wholesale,Ready-to-use glazes,116,41.94,4865.04,Transfer,0.5
+S-2026-001524,2026-08-03,West,Wholesale,Ceramic pigments,187,114.89,21484.43,Transfer,0.5
+S-2026-001525,2026-08-03,Central,Retail,Digital inks,7,218.78,1531.46,Credit card,2.8
+S-2026-001526,2026-08-03,Central,Wholesale,Ready-to-use glazes,53,47.18,2500.54,Transfer,0.5
+S-2026-001527,2026-08-03,North,Retail,Frits,5,30.48,152.4,Cash,1.0
+S-2026-001528,2026-08-03,West,Wholesale,Digital inks,90,183.7,16533.0,Transfer,0.5
+S-2026-001529,2026-08-03,North,Wholesale,Ready-to-use glazes,21,45.3,951.3,Credit card,2.8
+S-2026-001530,2026-08-03,West,Wholesale,Digital inks,26,194.24,5050.24,Transfer,0.5
+S-2026-001531,2026-08-03,West,Wholesale,Ready-to-use glazes,15,40.3,604.5,Transfer,0.5
+S-2026-001532,2026-08-03,West,Wholesale,Frits,35,26.78,937.3,Credit card,2.8
+S-2026-001533,2026-08-03,North,Wholesale,Ready-to-use glazes,35,44.3,1550.5,Transfer,0.5
+S-2026-001534,2026-08-03,North,Retail,Frits,2,31.37,62.74,Credit card,2.8
+S-2026-001535,2026-08-03,North,Retail,Frits,5,29.6,148.0,Credit card,2.8
+S-2026-001536,2026-08-03,North,Wholesale,Engobes,53,25.15,1332.95,Transfer,0.5
+S-2026-001537,2026-08-03,Central,Wholesale,Ready-to-use glazes,41,41.35,1695.35,Transfer,0.5
+S-2026-001538,2026-08-03,North,Wholesale,Engobes,45,23.4,1053.0,Transfer,0.5
+S-2026-001539,2026-08-03,Central,Retail,Digital inks,5,215.93,1079.65,Cash,1.0
+S-2026-001540,2026-08-03,North,Retail,Ready-to-use glazes,3,48.43,145.29,Transfer,0.5
+S-2026-001541,2026-08-03,North,Wholesale,Frits,45,30.41,1368.45,Transfer,0.5
+S-2026-001542,2026-08-03,North,Wholesale,Engobes,44,24.04,1057.76,Transfer,0.5
+S-2026-001543,2026-08-04,North,Wholesale,Frits,49,30.0,1470.0,Credit card,2.8
+S-2026-001544,2026-08-04,West,Wholesale,Frits,66,29.13,1922.58,Transfer,0.5
+S-2026-001545,2026-08-04,Central,Wholesale,Frits,75,29.65,2223.75,Transfer,0.5
+S-2026-001546,2026-08-04,Central,Wholesale,Engobes,40,24.15,966.0,Transfer,0.5
+S-2026-001547,2026-08-04,West,Retail,Ceramic pigments,10,115.83,1158.3,Credit card,2.8
+S-2026-001548,2026-08-04,North,Wholesale,Frits,39,29.64,1155.96,Transfer,0.5
+S-2026-001549,2026-08-04,Central,Wholesale,Ready-to-use glazes,45,43.37,1951.65,Credit card,2.8
+S-2026-001550,2026-08-04,West,Wholesale,Engobes,159,22.13,3518.67,Credit card,2.8
+S-2026-001551,2026-08-04,Central,Wholesale,Ready-to-use glazes,11,46.23,508.53,Transfer,0.5
+S-2026-001552,2026-08-04,Central,Retail,Digital inks,3,216.48,649.44,Credit card,2.8
+S-2026-001553,2026-08-04,North,Retail,Ceramic pigments,4,121.66,486.64,Credit card,2.8
+S-2026-001554,2026-08-04,Central,Retail,Ready-to-use glazes,7,46.86,328.02,Credit card,2.8
+S-2026-001555,2026-08-04,West,Wholesale,Ready-to-use glazes,12,43.61,523.32,Transfer,0.5
+S-2026-001556,2026-08-04,North,Retail,Frits,6,30.41,182.46,Credit card,2.8
+S-2026-001557,2026-08-04,West,Wholesale,Digital inks,79,199.17,15734.43,Credit card,2.8
+S-2026-001558,2026-08-04,Central,Wholesale,Ready-to-use glazes,16,42.8,684.8,Transfer,0.5
+S-2026-001559,2026-08-04,North,Retail,Ceramic pigments,6,119.87,719.22,Cash,1.0
+S-2026-001560,2026-08-04,Central,Retail,Frits,11,32.17,353.87,Transfer,0.5
+S-2026-001561,2026-08-04,North,Wholesale,Digital inks,30,195.67,5870.1,Transfer,0.5
+S-2026-001562,2026-08-04,West,Retail,Engobes,12,25.78,309.36,Credit card,2.8
+S-2026-001563,2026-08-05,North,Wholesale,Frits,89,29.37,2613.93,Transfer,0.5
+S-2026-001564,2026-08-05,West,Retail,Digital inks,7,210.23,1471.61,Cash,1.0
+S-2026-001565,2026-08-05,West,Retail,Ceramic pigments,4,122.03,488.12,Credit card,2.8
+S-2026-001566,2026-08-05,Central,Retail,Frits,13,30.78,400.14,Cash,1.0
+S-2026-001567,2026-08-05,North,Wholesale,Ceramic pigments,24,113.71,2729.04,Transfer,0.5
+S-2026-001568,2026-08-05,West,Wholesale,Frits,37,29.97,1108.89,Transfer,0.5
+S-2026-001569,2026-08-05,North,Wholesale,Ready-to-use glazes,6,42.73,256.38,Transfer,0.5
+S-2026-001570,2026-08-05,North,Wholesale,Ceramic pigments,63,107.04,6743.52,Credit card,2.8
+S-2026-001571,2026-08-05,Central,Wholesale,Digital inks,41,189.36,7763.76,Transfer,0.5
+S-2026-001572,2026-08-05,Central,Retail,Digital inks,10,202.47,2024.7,Credit card,2.8
+S-2026-001573,2026-08-05,Central,Wholesale,Engobes,10,24.67,246.7,Transfer,0.5
+S-2026-001574,2026-08-05,West,Retail,Digital inks,9,227.56,2048.04,Credit card,2.8
+S-2026-001575,2026-08-05,North,Wholesale,Ready-to-use glazes,21,46.73,981.33,Credit card,2.8
+S-2026-001576,2026-08-05,West,Wholesale,Ready-to-use glazes,16,44.23,707.68,Transfer,0.5
+S-2026-001577,2026-08-05,Central,Retail,Frits,5,31.39,156.95,Credit card,2.8
+S-2026-001578,2026-08-05,West,Wholesale,Digital inks,93,192.26,17880.18,Credit card,2.8
+S-2026-001579,2026-08-05,North,Wholesale,Ceramic pigments,39,118.38,4616.82,Transfer,0.5
+S-2026-001580,2026-08-05,North,Retail,Frits,4,31.93,127.72,Credit card,2.8
+S-2026-001581,2026-08-05,North,Wholesale,Ready-to-use glazes,14,42.33,592.62,Transfer,0.5
+S-2026-001582,2026-08-05,North,Wholesale,Frits,26,28.82,749.32,Transfer,0.5
+S-2026-001583,2026-08-05,Central,Wholesale,Digital inks,24,202.52,4860.48,Credit card,2.8
+S-2026-001584,2026-08-05,North,Wholesale,Ready-to-use glazes,28,46.48,1301.44,Transfer,0.5
+S-2026-001585,2026-08-05,Central,Retail,Frits,8,32.82,262.56,Transfer,0.5
+S-2026-001586,2026-08-06,West,Wholesale,Digital inks,47,210.88,9911.36,Transfer,0.5
+S-2026-001587,2026-08-06,Central,Retail,Digital inks,3,218.14,654.42,Credit card,2.8
+S-2026-001588,2026-08-06,West,Retail,Digital inks,7,221.5,1550.5,Credit card,2.8
+S-2026-001589,2026-08-06,North,Retail,Ceramic pigments,11,117.4,1291.4,Credit card,2.8
+S-2026-001590,2026-08-06,North,Retail,Digital inks,8,232.63,1861.04,Credit card,2.8
+S-2026-001591,2026-08-06,West,Wholesale,Ready-to-use glazes,27,42.92,1158.84,Transfer,0.5
+S-2026-001592,2026-08-06,Central,Wholesale,Frits,28,30.1,842.8,Transfer,0.5
+S-2026-001593,2026-08-06,North,Wholesale,Ceramic pigments,63,108.36,6826.68,Transfer,0.5
+S-2026-001594,2026-08-06,Central,Wholesale,Frits,24,28.31,679.44,Credit card,2.8
+S-2026-001595,2026-08-06,West,Retail,Ready-to-use glazes,9,49.28,443.52,Cash,1.0
+S-2026-001596,2026-08-06,North,Retail,Frits,5,31.15,155.75,Credit card,2.8
+S-2026-001597,2026-08-06,West,Wholesale,Digital inks,24,181.6,4358.4,Credit card,2.8
+S-2026-001598,2026-08-06,North,Retail,Frits,3,30.4,91.2,Credit card,2.8
+S-2026-001599,2026-08-06,Central,Wholesale,Engobes,41,22.8,934.8,Transfer,0.5
+S-2026-001600,2026-08-06,West,Wholesale,Ceramic pigments,68,115.73,7869.64,Transfer,0.5
+S-2026-001601,2026-08-06,North,Retail,Ceramic pigments,3,120.78,362.34,Transfer,0.5
+S-2026-001602,2026-08-06,North,Retail,Ceramic pigments,9,111.69,1005.21,Credit card,2.8
+S-2026-001603,2026-08-06,West,Retail,Frits,2,31.72,63.44,Transfer,0.5
+S-2026-001604,2026-08-06,West,Wholesale,Engobes,13,23.44,304.72,Transfer,0.5
+S-2026-001605,2026-08-06,West,Retail,Digital inks,6,219.19,1315.14,Credit card,2.8
+S-2026-001606,2026-08-06,Central,Wholesale,Ready-to-use glazes,33,46.46,1533.18,Credit card,2.8
+S-2026-001607,2026-08-06,North,Wholesale,Engobes,40,24.11,964.4,Credit card,2.8
+S-2026-001608,2026-08-06,Central,Wholesale,Digital inks,23,194.04,4462.92,Credit card,2.8
+S-2026-001609,2026-08-06,North,Retail,Ready-to-use glazes,4,47.44,189.76,Credit card,2.8
+S-2026-001610,2026-08-06,West,Wholesale,Ready-to-use glazes,22,43.15,949.3,Transfer,0.5
+S-2026-001611,2026-08-06,Central,Wholesale,Ready-to-use glazes,18,43.44,781.92,Transfer,0.5
+S-2026-001612,2026-08-06,Central,Retail,Engobes,9,26.15,235.35,Cash,1.0
+S-2026-001613,2026-08-06,Central,Wholesale,Ready-to-use glazes,45,46.36,2086.2,Transfer,0.5
+S-2026-001614,2026-08-06,Central,Wholesale,Ceramic pigments,42,97.28,4085.76,Transfer,0.5
+S-2026-001615,2026-08-07,Central,Wholesale,Ready-to-use glazes,25,42.12,1053.0,Credit card,2.8
+S-2026-001616,2026-08-07,West,Wholesale,Frits,32,27.63,884.16,Transfer,0.5
+S-2026-001617,2026-08-07,Central,Retail,Engobes,6,26.26,157.56,Credit card,2.8
+S-2026-001618,2026-08-07,North,Retail,Engobes,8,26.29,210.32,Credit card,2.8
+S-2026-001619,2026-08-07,West,Retail,Ready-to-use glazes,8,48.81,390.48,Cash,1.0
+S-2026-001620,2026-08-07,West,Wholesale,Ready-to-use glazes,21,45.25,950.25,Transfer,0.5
+S-2026-001621,2026-08-07,North,Retail,Frits,15,30.87,463.05,Transfer,0.5
+S-2026-001622,2026-08-07,North,Wholesale,Ready-to-use glazes,21,44.79,940.59,Transfer,0.5
+S-2026-001623,2026-08-07,North,Wholesale,Frits,4,29.29,117.16,Transfer,0.5
+S-2026-001624,2026-08-07,Central,Retail,Frits,14,31.13,435.82,Credit card,2.8
+S-2026-001625,2026-08-07,West,Wholesale,Digital inks,60,205.93,12355.8,Transfer,0.5
+S-2026-001626,2026-08-07,North,Retail,Ready-to-use glazes,6,46.2,277.2,Credit card,2.8
+S-2026-001627,2026-08-07,West,Wholesale,Ceramic pigments,52,109.5,5694.0,Transfer,0.5
+S-2026-001628,2026-08-07,North,Retail,Ready-to-use glazes,8,48.19,385.52,Credit card,2.8
+S-2026-001629,2026-08-07,Central,Wholesale,Digital inks,10,198.04,1980.4,Transfer,0.5
+S-2026-001630,2026-08-07,West,Retail,Frits,4,29.21,116.84,Cash,1.0
+S-2026-001631,2026-08-07,Central,Retail,Ready-to-use glazes,4,49.39,197.56,Credit card,2.8
+S-2026-001632,2026-08-07,West,Retail,Frits,5,30.9,154.5,Cash,1.0
+S-2026-001633,2026-08-07,North,Retail,Frits,22,31.57,694.54,Credit card,2.8
+S-2026-001634,2026-08-07,North,Wholesale,Engobes,25,23.0,575.0,Credit card,2.8
+S-2026-001635,2026-08-07,Central,Wholesale,Ready-to-use glazes,74,44.92,3324.08,Credit card,2.8
+S-2026-001636,2026-08-07,Central,Retail,Ready-to-use glazes,6,48.94,293.64,Cash,1.0
+S-2026-001637,2026-08-07,West,Retail,Engobes,3,25.33,75.99,Credit card,2.8
+S-2026-001638,2026-08-07,West,Wholesale,Digital inks,56,203.09,11373.04,Transfer,0.5
+S-2026-001639,2026-08-07,North,Wholesale,Frits,80,29.85,2388.0,Transfer,0.5
+S-2026-001640,2026-08-07,West,Retail,Engobes,8,27.71,221.68,Transfer,0.5
+S-2026-001641,2026-08-07,Central,Retail,Ready-to-use glazes,3,48.2,144.6,Cash,1.0
+S-2026-001642,2026-08-07,North,Wholesale,Frits,138,30.16,4162.08,Credit card,2.8
+S-2026-001643,2026-08-07,North,Retail,Ceramic pigments,6,120.39,722.34,Credit card,2.8
+S-2026-001644,2026-08-07,West,Retail,Ceramic pigments,7,117.23,820.61,Credit card,2.8
+S-2026-001645,2026-08-08,North,Wholesale,Ready-to-use glazes,81,47.3,3831.3,Transfer,0.5
+S-2026-001646,2026-08-08,Central,Wholesale,Engobes,31,26.21,812.51,Transfer,0.5
+S-2026-001647,2026-08-08,West,Retail,Engobes,3,25.98,77.94,Credit card,2.8
+S-2026-001648,2026-08-08,Central,Wholesale,Digital inks,38,192.68,7321.84,Transfer,0.5
+S-2026-001649,2026-08-08,Central,Wholesale,Digital inks,53,179.98,9538.94,Transfer,0.5
+S-2026-001650,2026-08-08,Central,Wholesale,Ready-to-use glazes,73,44.54,3251.42,Transfer,0.5
+S-2026-001651,2026-08-08,North,Wholesale,Frits,155,28.33,4391.15,Transfer,0.5
+S-2026-001652,2026-08-08,North,Retail,Ceramic pigments,5,114.03,570.15,Credit card,2.8
+S-2026-001653,2026-08-08,Central,Retail,Engobes,3,26.16,78.48,Credit card,2.8
+S-2026-001654,2026-08-08,Central,Retail,Ready-to-use glazes,3,47.49,142.47,Credit card,2.8
+S-2026-001655,2026-08-09,Central,Wholesale,Ready-to-use glazes,67,45.12,3023.04,Transfer,0.5
+S-2026-001656,2026-08-09,Central,Wholesale,Ready-to-use glazes,32,46.35,1483.2,Transfer,0.5
+S-2026-001657,2026-08-09,Central,Retail,Frits,4,31.83,127.32,Credit card,2.8
+S-2026-001658,2026-08-09,West,Retail,Digital inks,7,205.42,1437.94,Credit card,2.8
+S-2026-001659,2026-08-09,Central,Wholesale,Ceramic pigments,45,103.56,4660.2,Transfer,0.5
+S-2026-001660,2026-08-09,Central,Retail,Ceramic pigments,6,117.59,705.54,Transfer,0.5
+S-2026-001661,2026-08-09,Central,Retail,Digital inks,5,211.19,1055.95,Cash,1.0
+S-2026-001662,2026-08-09,West,Wholesale,Ready-to-use glazes,45,45.68,2055.6,Transfer,0.5
+S-2026-001663,2026-08-09,North,Retail,Frits,18,29.97,539.46,Transfer,0.5
+S-2026-001664,2026-08-09,Central,Wholesale,Ready-to-use glazes,48,43.3,2078.4,Transfer,0.5
+S-2026-001665,2026-08-09,Central,Wholesale,Engobes,27,21.94,592.38,Transfer,0.5
+S-2026-001666,2026-08-09,West,Wholesale,Digital inks,31,201.38,6242.78,Transfer,0.5
+S-2026-001667,2026-08-10,North,Wholesale,Engobes,32,23.44,750.08,Transfer,0.5
+S-2026-001668,2026-08-10,North,Wholesale,Ready-to-use glazes,27,43.81,1182.87,Transfer,0.5
+S-2026-001669,2026-08-10,Central,Wholesale,Frits,27,29.93,808.11,Transfer,0.5
+S-2026-001670,2026-08-10,West,Wholesale,Ceramic pigments,19,104.75,1990.25,Transfer,0.5
+S-2026-001671,2026-08-10,Central,Wholesale,Digital inks,17,196.28,3336.76,Credit card,2.8
+S-2026-001672,2026-08-10,West,Wholesale,Ceramic pigments,38,107.35,4079.3,Transfer,0.5
+S-2026-001673,2026-08-10,West,Wholesale,Ceramic pigments,12,114.05,1368.6,Transfer,0.5
+S-2026-001674,2026-08-10,West,Retail,Digital inks,3,215.28,645.84,Transfer,0.5
+S-2026-001675,2026-08-10,Central,Wholesale,Digital inks,86,190.76,16405.36,Transfer,0.5
+S-2026-001676,2026-08-10,West,Retail,Ready-to-use glazes,11,46.22,508.42,Credit card,2.8
+S-2026-001677,2026-08-10,West,Wholesale,Frits,13,28.43,369.59,Transfer,0.5
+S-2026-001678,2026-08-10,North,Retail,Frits,3,29.44,88.32,Cash,1.0
+S-2026-001679,2026-08-10,West,Wholesale,Ceramic pigments,75,116.12,8709.0,Transfer,0.5
+S-2026-001680,2026-08-10,West,Wholesale,Frits,76,30.19,2294.44,Credit card,2.8
+S-2026-001681,2026-08-10,North,Wholesale,Ready-to-use glazes,48,48.05,2306.4,Transfer,0.5
+S-2026-001682,2026-08-10,Central,Wholesale,Frits,182,27.5,5005.0,Transfer,0.5
+S-2026-001683,2026-08-10,North,Wholesale,Frits,43,29.74,1278.82,Transfer,0.5
+S-2026-001684,2026-08-10,North,Retail,Frits,5,30.17,150.85,Credit card,2.8
+S-2026-001685,2026-08-10,North,Retail,Ready-to-use glazes,7,49.09,343.63,Credit card,2.8
+S-2026-001686,2026-08-10,Central,Retail,Ready-to-use glazes,5,48.69,243.45,Credit card,2.8
+S-2026-001687,2026-08-10,Central,Wholesale,Ceramic pigments,25,110.93,2773.25,Credit card,2.8
+S-2026-001688,2026-08-10,West,Wholesale,Engobes,96,23.36,2242.56,Transfer,0.5
+S-2026-001689,2026-08-11,North,Wholesale,Frits,21,30.28,635.88,Transfer,0.5
+S-2026-001690,2026-08-11,North,Wholesale,Frits,23,27.57,634.11,Transfer,0.5
+S-2026-001691,2026-08-11,North,Wholesale,Frits,57,26.72,1523.04,Transfer,0.5
+S-2026-001692,2026-08-11,North,Wholesale,Ceramic pigments,72,104.29,7508.88,Credit card,2.8
+S-2026-001693,2026-08-11,Central,Wholesale,Ready-to-use glazes,56,42.85,2399.6,Transfer,0.5
+S-2026-001694,2026-08-11,North,Wholesale,Engobes,11,25.97,285.67,Credit card,2.8
+S-2026-001695,2026-08-11,Central,Retail,Ready-to-use glazes,3,49.93,149.79,Credit card,2.8
+S-2026-001696,2026-08-11,Central,Wholesale,Engobes,26,23.8,618.8,Transfer,0.5
+S-2026-001697,2026-08-11,Central,Retail,Ceramic pigments,3,116.05,348.15,Cash,1.0
+S-2026-001698,2026-08-11,North,Wholesale,Frits,56,30.09,1685.04,Transfer,0.5
+S-2026-001699,2026-08-11,North,Wholesale,Frits,118,29.34,3462.12,Transfer,0.5
+S-2026-001700,2026-08-11,North,Wholesale,Engobes,41,23.44,961.04,Transfer,0.5
+S-2026-001701,2026-08-11,West,Retail,Ceramic pigments,5,118.33,591.65,Credit card,2.8
+S-2026-001702,2026-08-11,North,Retail,Frits,19,31.88,605.72,Transfer,0.5
+S-2026-001703,2026-08-11,West,Retail,Engobes,24,26.04,624.96,Credit card,2.8
+S-2026-001704,2026-08-11,North,Wholesale,Frits,22,28.67,630.74,Transfer,0.5
+S-2026-001705,2026-08-11,West,Wholesale,Ready-to-use glazes,135,41.51,5603.85,Credit card,2.8
+S-2026-001706,2026-08-11,North,Retail,Digital inks,14,213.54,2989.56,Cash,1.0
+S-2026-001707,2026-08-11,North,Wholesale,Frits,10,28.82,288.2,Credit card,2.8
+S-2026-001708,2026-08-11,Central,Retail,Engobes,2,25.87,51.74,Credit card,2.8
+S-2026-001709,2026-08-11,Central,Wholesale,Ready-to-use glazes,31,48.43,1501.33,Transfer,0.5
+S-2026-001710,2026-08-11,Central,Retail,Digital inks,5,206.38,1031.9,Cash,1.0
+S-2026-001711,2026-08-11,Central,Retail,Digital inks,6,206.28,1237.68,Credit card,2.8
+S-2026-001712,2026-08-11,Central,Wholesale,Ready-to-use glazes,59,45.84,2704.56,Transfer,0.5
+S-2026-001713,2026-08-11,North,Retail,Ceramic pigments,10,123.64,1236.4,Cash,1.0
+S-2026-001714,2026-08-11,North,Wholesale,Ready-to-use glazes,47,44.79,2105.13,Transfer,0.5
+S-2026-001715,2026-08-11,West,Wholesale,Ceramic pigments,17,110.13,1872.21,Transfer,0.5
+S-2026-001716,2026-08-11,Central,Wholesale,Ceramic pigments,25,113.62,2840.5,Transfer,0.5
+S-2026-001717,2026-08-11,Central,Wholesale,Digital inks,67,207.42,13897.14,Transfer,0.5
+S-2026-001718,2026-08-11,North,Wholesale,Ready-to-use glazes,174,41.49,7219.26,Credit card,2.8
+S-2026-001719,2026-08-11,North,Retail,Frits,8,30.46,243.68,Cash,1.0
+S-2026-001720,2026-08-12,North,Retail,Frits,10,30.18,301.8,Transfer,0.5
+S-2026-001721,2026-08-12,North,Retail,Frits,5,31.11,155.55,Credit card,2.8
+S-2026-001722,2026-08-12,West,Wholesale,Digital inks,44,183.53,8075.32,Credit card,2.8
+S-2026-001723,2026-08-12,West,Retail,Ready-to-use glazes,3,48.75,146.25,Credit card,2.8
+S-2026-001724,2026-08-12,West,Wholesale,Ready-to-use glazes,38,42.99,1633.62,Credit card,2.8
+S-2026-001725,2026-08-12,West,Wholesale,Digital inks,70,190.85,13359.5,Transfer,0.5
+S-2026-001726,2026-08-12,West,Wholesale,Digital inks,9,198.48,1786.32,Credit card,2.8
+S-2026-001727,2026-08-12,West,Retail,Ready-to-use glazes,8,47.91,383.28,Credit card,2.8
+S-2026-001728,2026-08-12,North,Retail,Frits,6,30.73,184.38,Cash,1.0
+S-2026-001729,2026-08-12,North,Retail,Frits,11,32.05,352.55,Transfer,0.5
+S-2026-001730,2026-08-12,West,Retail,Frits,3,29.63,88.89,Credit card,2.8
+S-2026-001731,2026-08-12,Central,Wholesale,Engobes,29,24.2,701.8,Transfer,0.5
+S-2026-001732,2026-08-12,Central,Retail,Ready-to-use glazes,8,46.61,372.88,Cash,1.0
+S-2026-001733,2026-08-12,North,Retail,Engobes,15,26.3,394.5,Transfer,0.5
+S-2026-001734,2026-08-12,Central,Retail,Ready-to-use glazes,4,49.02,196.08,Credit card,2.8
+S-2026-001735,2026-08-12,West,Wholesale,Digital inks,24,187.55,4501.2,Credit card,2.8
+S-2026-001736,2026-08-12,West,Wholesale,Ready-to-use glazes,86,42.33,3640.38,Transfer,0.5
+S-2026-001737,2026-08-12,North,Wholesale,Ready-to-use glazes,78,44.71,3487.38,Transfer,0.5
+S-2026-001738,2026-08-12,Central,Wholesale,Ceramic pigments,26,109.72,2852.72,Transfer,0.5
+S-2026-001739,2026-08-12,West,Wholesale,Frits,39,30.03,1171.17,Credit card,2.8
+S-2026-001740,2026-08-12,Central,Retail,Engobes,9,24.91,224.19,Credit card,2.8
+S-2026-001741,2026-08-12,West,Retail,Ceramic pigments,6,118.46,710.76,Credit card,2.8
+S-2026-001742,2026-08-12,North,Wholesale,Engobes,29,25.93,751.97,Transfer,0.5
+S-2026-001743,2026-08-12,Central,Retail,Ceramic pigments,9,114.19,1027.71,Credit card,2.8
+S-2026-001744,2026-08-12,Central,Wholesale,Engobes,124,23.21,2878.04,Transfer,0.5
+S-2026-001745,2026-08-12,North,Wholesale,Frits,7,30.01,210.07,Transfer,0.5
+S-2026-001746,2026-08-12,Central,Wholesale,Ceramic pigments,74,110.14,8150.36,Transfer,0.5
+S-2026-001747,2026-08-13,Central,Wholesale,Digital inks,40,189.42,7576.8,Transfer,0.5
+S-2026-001748,2026-08-13,Central,Wholesale,Frits,20,29.79,595.8,Transfer,0.5
+S-2026-001749,2026-08-13,North,Wholesale,Ready-to-use glazes,52,44.0,2288.0,Transfer,0.5
+S-2026-001750,2026-08-13,West,Retail,Ceramic pigments,17,113.12,1923.04,Cash,1.0
+S-2026-001751,2026-08-13,West,Retail,Ready-to-use glazes,3,51.25,153.75,Credit card,2.8
+S-2026-001752,2026-08-13,North,Retail,Frits,5,31.59,157.95,Credit card,2.8
+S-2026-001753,2026-08-13,Central,Retail,Digital inks,10,219.91,2199.1,Cash,1.0
+S-2026-001754,2026-08-13,North,Wholesale,Frits,31,28.44,881.64,Transfer,0.5
+S-2026-001755,2026-08-13,Central,Retail,Digital inks,8,213.1,1704.8,Credit card,2.8
+S-2026-001756,2026-08-13,North,Wholesale,Engobes,60,23.67,1420.2,Transfer,0.5
+S-2026-001757,2026-08-13,Central,Retail,Frits,8,29.91,239.28,Cash,1.0
+S-2026-001758,2026-08-13,North,Wholesale,Ceramic pigments,62,108.21,6709.02,Transfer,0.5
+S-2026-001759,2026-08-13,Central,Wholesale,Ready-to-use glazes,128,45.08,5770.24,Credit card,2.8
+S-2026-001760,2026-08-14,North,Wholesale,Engobes,23,23.4,538.2,Transfer,0.5
+S-2026-001761,2026-08-14,Central,Wholesale,Frits,41,29.92,1226.72,Transfer,0.5
+S-2026-001762,2026-08-14,Central,Wholesale,Digital inks,44,215.92,9500.48,Transfer,0.5
+S-2026-001763,2026-08-14,North,Wholesale,Digital inks,44,211.17,9291.48,Transfer,0.5
+S-2026-001764,2026-08-14,North,Retail,Ceramic pigments,6,117.92,707.52,Credit card,2.8
+S-2026-001765,2026-08-14,West,Wholesale,Digital inks,153,196.5,30064.5,Transfer,0.5
+S-2026-001766,2026-08-14,North,Retail,Ready-to-use glazes,6,46.77,280.62,Cash,1.0
+S-2026-001767,2026-08-14,West,Wholesale,Ready-to-use glazes,26,41.52,1079.52,Transfer,0.5
+S-2026-001768,2026-08-14,West,Wholesale,Ready-to-use glazes,58,48.8,2830.4,Transfer,0.5
+S-2026-001769,2026-08-14,West,Retail,Ceramic pigments,7,114.93,804.51,Credit card,2.8
+S-2026-001770,2026-08-14,Central,Wholesale,Frits,140,27.04,3785.6,Transfer,0.5
+S-2026-001771,2026-08-14,West,Wholesale,Ceramic pigments,39,111.54,4350.06,Credit card,2.8
+S-2026-001772,2026-08-14,North,Wholesale,Frits,50,28.85,1442.5,Credit card,2.8
+S-2026-001773,2026-08-14,West,Retail,Ceramic pigments,4,116.38,465.52,Transfer,0.5
+S-2026-001774,2026-08-14,Central,Retail,Ceramic pigments,6,122.83,736.98,Cash,1.0
+S-2026-001775,2026-08-14,Central,Retail,Ceramic pigments,4,117.2,468.8,Credit card,2.8
+S-2026-001776,2026-08-14,North,Wholesale,Ready-to-use glazes,34,44.26,1504.84,Transfer,0.5
+S-2026-001777,2026-08-14,North,Wholesale,Ceramic pigments,218,111.39,24283.02,Transfer,0.5
+S-2026-001778,2026-08-14,North,Retail,Ready-to-use glazes,7,46.25,323.75,Credit card,2.8
+S-2026-001779,2026-08-14,North,Retail,Ceramic pigments,7,118.63,830.41,Credit card,2.8
+S-2026-001780,2026-08-14,North,Wholesale,Ready-to-use glazes,15,50.06,750.9,Transfer,0.5
+S-2026-001781,2026-08-15,Central,Retail,Ready-to-use glazes,2,50.04,100.08,Cash,1.0
+S-2026-001782,2026-08-15,Central,Wholesale,Frits,31,28.84,894.04,Transfer,0.5
+S-2026-001783,2026-08-15,North,Wholesale,Frits,38,29.16,1108.08,Credit card,2.8
+S-2026-001784,2026-08-15,Central,Retail,Ceramic pigments,10,113.61,1136.1,Transfer,0.5
+S-2026-001785,2026-08-15,North,Wholesale,Ready-to-use glazes,23,44.23,1017.29,Transfer,0.5
+S-2026-001786,2026-08-15,Central,Retail,Engobes,3,27.0,81.0,Credit card,2.8
+S-2026-001787,2026-08-16,North,Wholesale,Ready-to-use glazes,29,43.71,1267.59,Transfer,0.5
+S-2026-001788,2026-08-16,West,Wholesale,Ceramic pigments,24,110.84,2660.16,Transfer,0.5
+S-2026-001789,2026-08-16,West,Wholesale,Digital inks,15,214.93,3223.95,Credit card,2.8
+S-2026-001790,2026-08-16,West,Wholesale,Ready-to-use glazes,47,43.2,2030.4,Transfer,0.5
+S-2026-001791,2026-08-16,West,Wholesale,Ready-to-use glazes,35,45.62,1596.7,Transfer,0.5
+S-2026-001792,2026-08-17,West,Wholesale,Ceramic pigments,112,103.13,11550.56,Transfer,0.5
+S-2026-001793,2026-08-17,North,Retail,Ceramic pigments,6,117.84,707.04,Credit card,2.8
+S-2026-001794,2026-08-17,North,Wholesale,Engobes,44,26.33,1158.52,Credit card,2.8
+S-2026-001795,2026-08-17,Central,Wholesale,Frits,9,28.34,255.06,Transfer,0.5
+S-2026-001796,2026-08-17,West,Wholesale,Ceramic pigments,24,107.82,2587.68,Transfer,0.5
+S-2026-001797,2026-08-17,West,Wholesale,Engobes,8,23.91,191.28,Transfer,0.5
+S-2026-001798,2026-08-17,North,Retail,Ceramic pigments,4,113.58,454.32,Credit card,2.8
+S-2026-001799,2026-08-17,North,Wholesale,Engobes,21,24.36,511.56,Transfer,0.5
+S-2026-001800,2026-08-17,North,Wholesale,Ready-to-use glazes,46,44.96,2068.16,Transfer,0.5
+S-2026-001801,2026-08-17,Central,Retail,Ceramic pigments,4,118.1,472.4,Credit card,2.8
+S-2026-001802,2026-08-17,West,Retail,Ready-to-use glazes,5,47.7,238.5,Credit card,2.8
+S-2026-001803,2026-08-17,Central,Wholesale,Engobes,18,23.14,416.52,Transfer,0.5
+S-2026-001804,2026-08-17,West,Wholesale,Digital inks,106,199.08,21102.48,Transfer,0.5
+S-2026-001805,2026-08-17,Central,Wholesale,Digital inks,102,197.15,20109.3,Transfer,0.5
+S-2026-001806,2026-08-17,North,Wholesale,Frits,12,27.75,333.0,Transfer,0.5
+S-2026-001807,2026-08-17,West,Wholesale,Engobes,25,24.28,607.0,Transfer,0.5
+S-2026-001808,2026-08-17,North,Wholesale,Frits,60,30.04,1802.4,Transfer,0.5
+S-2026-001809,2026-08-18,Central,Wholesale,Frits,66,30.0,1980.0,Transfer,0.5
+S-2026-001810,2026-08-18,North,Wholesale,Frits,49,27.6,1352.4,Transfer,0.5
+S-2026-001811,2026-08-18,Central,Retail,Engobes,5,25.57,127.85,Credit card,2.8
+S-2026-001812,2026-08-18,West,Retail,Frits,7,31.76,222.32,Credit card,2.8
+S-2026-001813,2026-08-18,North,Wholesale,Frits,54,25.95,1401.3,Transfer,0.5
+S-2026-001814,2026-08-18,Central,Wholesale,Ready-to-use glazes,37,42.49,1572.13,Transfer,0.5
+S-2026-001815,2026-08-18,North,Retail,Ready-to-use glazes,6,47.59,285.54,Credit card,2.8
+S-2026-001816,2026-08-18,North,Retail,Frits,9,31.6,284.4,Transfer,0.5
+S-2026-001817,2026-08-18,North,Retail,Engobes,4,26.33,105.32,Transfer,0.5
+S-2026-001818,2026-08-18,North,Wholesale,Engobes,72,24.04,1730.88,Transfer,0.5
+S-2026-001819,2026-08-18,Central,Retail,Ready-to-use glazes,5,47.5,237.5,Transfer,0.5
+S-2026-001820,2026-08-18,West,Wholesale,Ceramic pigments,42,111.39,4678.38,Credit card,2.8
+S-2026-001821,2026-08-18,North,Retail,Ready-to-use glazes,7,48.12,336.84,Cash,1.0
+S-2026-001822,2026-08-18,Central,Wholesale,Digital inks,20,199.91,3998.2,Transfer,0.5
+S-2026-001823,2026-08-18,North,Retail,Engobes,9,25.67,231.03,Credit card,2.8
+S-2026-001824,2026-08-18,West,Retail,Engobes,7,25.34,177.38,Cash,1.0
+S-2026-001825,2026-08-18,Central,Retail,Ready-to-use glazes,8,46.61,372.88,Credit card,2.8
+S-2026-001826,2026-08-18,North,Wholesale,Ready-to-use glazes,64,42.61,2727.04,Transfer,0.5
+S-2026-001827,2026-08-18,West,Retail,Digital inks,7,204.09,1428.63,Cash,1.0
+S-2026-001828,2026-08-18,North,Retail,Frits,13,29.38,381.94,Cash,1.0
+S-2026-001829,2026-08-18,West,Wholesale,Frits,28,27.77,777.56,Transfer,0.5
+S-2026-001830,2026-08-18,West,Wholesale,Engobes,26,25.45,661.7,Transfer,0.5
+S-2026-001831,2026-08-18,Central,Wholesale,Digital inks,164,201.46,33039.44,Transfer,0.5
+S-2026-001832,2026-08-18,West,Wholesale,Ceramic pigments,13,114.7,1491.1,Transfer,0.5
+S-2026-001833,2026-08-18,West,Wholesale,Frits,54,27.17,1467.18,Transfer,0.5
+S-2026-001834,2026-08-18,Central,Retail,Frits,9,31.18,280.62,Cash,1.0
+S-2026-001835,2026-08-18,Central,Wholesale,Engobes,38,25.42,965.96,Transfer,0.5
+S-2026-001836,2026-08-18,West,Wholesale,Frits,39,29.85,1164.15,Transfer,0.5
+S-2026-001837,2026-08-18,West,Wholesale,Frits,23,28.09,646.07,Transfer,0.5
+S-2026-001838,2026-08-18,Central,Wholesale,Frits,22,29.15,641.3,Transfer,0.5
+S-2026-001839,2026-08-18,North,Wholesale,Engobes,43,23.48,1009.64,Transfer,0.5
+S-2026-001840,2026-08-18,Central,Retail,Ready-to-use glazes,14,46.5,651.0,Credit card,2.8
+S-2026-001841,2026-08-19,West,Retail,Digital inks,22,223.09,4907.98,Credit card,2.8
+S-2026-001842,2026-08-19,Central,Retail,Digital inks,5,210.98,1054.9,Credit card,2.8
+S-2026-001843,2026-08-19,Central,Wholesale,Digital inks,98,197.94,19398.12,Transfer,0.5
+S-2026-001844,2026-08-19,Central,Wholesale,Ready-to-use glazes,39,43.82,1708.98,Transfer,0.5
+S-2026-001845,2026-08-19,Central,Wholesale,Ceramic pigments,129,105.52,13612.08,Transfer,0.5
+S-2026-001846,2026-08-19,North,Wholesale,Digital inks,47,190.48,8952.56,Credit card,2.8
+S-2026-001847,2026-08-19,North,Wholesale,Digital inks,93,210.96,19619.28,Transfer,0.5
+S-2026-001848,2026-08-19,West,Wholesale,Frits,62,29.75,1844.5,Transfer,0.5
+S-2026-001849,2026-08-19,North,Wholesale,Frits,42,28.06,1178.52,Transfer,0.5
+S-2026-001850,2026-08-19,North,Wholesale,Frits,30,30.4,912.0,Transfer,0.5
+S-2026-001851,2026-08-19,North,Wholesale,Ready-to-use glazes,96,42.1,4041.6,Transfer,0.5
+S-2026-001852,2026-08-19,West,Wholesale,Frits,21,27.83,584.43,Credit card,2.8
+S-2026-001853,2026-08-19,North,Wholesale,Frits,7,29.87,209.09,Transfer,0.5
+S-2026-001854,2026-08-19,West,Retail,Ready-to-use glazes,5,50.59,252.95,Credit card,2.8
+S-2026-001855,2026-08-19,North,Wholesale,Engobes,18,21.74,391.32,Credit card,2.8
+S-2026-001856,2026-08-19,Central,Wholesale,Frits,212,28.84,6114.08,Transfer,0.5
+S-2026-001857,2026-08-19,North,Wholesale,Frits,11,28.73,316.03,Transfer,0.5
+S-2026-001858,2026-08-19,North,Wholesale,Frits,55,28.77,1582.35,Transfer,0.5
+S-2026-001859,2026-08-19,North,Retail,Digital inks,10,211.41,2114.1,Credit card,2.8
+S-2026-001860,2026-08-19,North,Retail,Frits,4,30.87,123.48,Cash,1.0
+S-2026-001861,2026-08-19,West,Wholesale,Ceramic pigments,25,108.72,2718.0,Transfer,0.5
+S-2026-001862,2026-08-19,West,Wholesale,Ready-to-use glazes,27,46.84,1264.68,Credit card,2.8
+S-2026-001863,2026-08-19,West,Retail,Ready-to-use glazes,10,49.92,499.2,Credit card,2.8
+S-2026-001864,2026-08-19,Central,Wholesale,Ready-to-use glazes,49,43.69,2140.81,Transfer,0.5
+S-2026-001865,2026-08-19,North,Wholesale,Frits,30,28.98,869.4,Transfer,0.5
+S-2026-001866,2026-08-19,North,Wholesale,Ceramic pigments,13,116.93,1520.09,Transfer,0.5
+S-2026-001867,2026-08-20,Central,Wholesale,Engobes,46,25.22,1160.12,Transfer,0.5
+S-2026-001868,2026-08-20,North,Retail,Engobes,8,25.27,202.16,Credit card,2.8
+S-2026-001869,2026-08-20,North,Wholesale,Ready-to-use glazes,76,45.43,3452.68,Transfer,0.5
+S-2026-001870,2026-08-20,West,Wholesale,Digital inks,60,197.72,11863.2,Transfer,0.5
+S-2026-001871,2026-08-20,North,Wholesale,Ready-to-use glazes,78,42.23,3293.94,Transfer,0.5
+S-2026-001872,2026-08-20,North,Wholesale,Ready-to-use glazes,103,42.17,4343.51,Transfer,0.5
+S-2026-001873,2026-08-20,North,Wholesale,Frits,33,27.05,892.65,Transfer,0.5
+S-2026-001874,2026-08-20,West,Wholesale,Frits,48,28.86,1385.28,Transfer,0.5
+S-2026-001875,2026-08-20,West,Retail,Ceramic pigments,13,116.76,1517.88,Credit card,2.8
+S-2026-001876,2026-08-20,North,Wholesale,Frits,155,27.76,4302.8,Transfer,0.5
+S-2026-001877,2026-08-20,Central,Wholesale,Frits,29,29.15,845.35,Transfer,0.5
+S-2026-001878,2026-08-20,North,Wholesale,Digital inks,24,190.95,4582.8,Credit card,2.8
+S-2026-001879,2026-08-20,North,Retail,Frits,5,32.19,160.95,Credit card,2.8
+S-2026-001880,2026-08-20,West,Wholesale,Ready-to-use glazes,35,46.24,1618.4,Transfer,0.5
+S-2026-001881,2026-08-20,North,Wholesale,Frits,109,28.44,3099.96,Transfer,0.5
+S-2026-001882,2026-08-20,North,Retail,Engobes,4,26.09,104.36,Credit card,2.8
+S-2026-001883,2026-08-20,West,Retail,Digital inks,25,208.95,5223.75,Credit card,2.8
+S-2026-001884,2026-08-20,West,Wholesale,Frits,84,28.01,2352.84,Transfer,0.5
+S-2026-001885,2026-08-20,North,Retail,Ceramic pigments,11,114.58,1260.38,Credit card,2.8
+S-2026-001886,2026-08-20,Central,Retail,Engobes,15,27.1,406.5,Cash,1.0
+S-2026-001887,2026-08-20,Central,Wholesale,Engobes,61,24.68,1505.48,Transfer,0.5
+S-2026-001888,2026-08-20,West,Wholesale,Ceramic pigments,22,113.43,2495.46,Transfer,0.5
+S-2026-001889,2026-08-20,Central,Wholesale,Engobes,159,25.77,4097.43,Transfer,0.5
+S-2026-001890,2026-08-20,North,Retail,Ready-to-use glazes,38,48.82,1855.16,Transfer,0.5
+S-2026-001891,2026-08-21,North,Wholesale,Digital inks,21,190.92,4009.32,Transfer,0.5
+S-2026-001892,2026-08-21,West,Wholesale,Digital inks,93,196.46,18270.78,Transfer,0.5
+S-2026-001893,2026-08-21,West,Wholesale,Ceramic pigments,29,110.12,3193.48,Transfer,0.5
+S-2026-001894,2026-08-21,West,Wholesale,Ready-to-use glazes,23,46.62,1072.26,Transfer,0.5
+S-2026-001895,2026-08-21,North,Wholesale,Engobes,37,23.42,866.54,Transfer,0.5
+S-2026-001896,2026-08-21,Central,Retail,Ready-to-use glazes,13,49.74,646.62,Credit card,2.8
+S-2026-001897,2026-08-21,Central,Retail,Ready-to-use glazes,2,45.59,91.18,Credit card,2.8
+S-2026-001898,2026-08-21,West,Wholesale,Engobes,22,23.59,518.98,Transfer,0.5
+S-2026-001899,2026-08-21,West,Wholesale,Frits,47,26.26,1234.22,Transfer,0.5
+S-2026-001900,2026-08-21,North,Retail,Ready-to-use glazes,5,47.36,236.8,Cash,1.0
+S-2026-001901,2026-08-21,North,Wholesale,Frits,63,28.7,1808.1,Transfer,0.5
+S-2026-001902,2026-08-21,West,Wholesale,Ready-to-use glazes,76,47.41,3603.16,Credit card,2.8
+S-2026-001903,2026-08-21,West,Retail,Frits,9,32.01,288.09,Credit card,2.8
+S-2026-001904,2026-08-21,North,Wholesale,Digital inks,45,197.16,8872.2,Transfer,0.5
+S-2026-001905,2026-08-21,Central,Wholesale,Engobes,26,24.35,633.1,Transfer,0.5
+S-2026-001906,2026-08-21,North,Retail,Ready-to-use glazes,7,46.93,328.51,Cash,1.0
+S-2026-001907,2026-08-21,Central,Retail,Digital inks,7,211.0,1477.0,Credit card,2.8
+S-2026-001908,2026-08-21,North,Retail,Frits,5,29.76,148.8,Credit card,2.8
+S-2026-001909,2026-08-21,Central,Wholesale,Ceramic pigments,43,100.24,4310.32,Transfer,0.5
+S-2026-001910,2026-08-21,North,Wholesale,Engobes,218,22.23,4846.14,Transfer,0.5
+S-2026-001911,2026-08-22,Central,Wholesale,Engobes,28,24.43,684.04,Credit card,2.8
+S-2026-001912,2026-08-22,North,Wholesale,Frits,33,31.56,1041.48,Credit card,2.8
+S-2026-001913,2026-08-22,West,Retail,Ceramic pigments,3,119.65,358.95,Credit card,2.8
+S-2026-001914,2026-08-22,North,Wholesale,Engobes,66,23.76,1568.16,Credit card,2.8
+S-2026-001915,2026-08-22,West,Wholesale,Digital inks,116,182.93,21219.88,Transfer,0.5
+S-2026-001916,2026-08-22,Central,Wholesale,Engobes,66,22.93,1513.38,Transfer,0.5
+S-2026-001917,2026-08-22,Central,Retail,Ready-to-use glazes,5,47.37,236.85,Transfer,0.5
+S-2026-001918,2026-08-22,Central,Retail,Frits,9,31.98,287.82,Credit card,2.8
+S-2026-001919,2026-08-22,North,Retail,Frits,5,29.92,149.6,Credit card,2.8
+S-2026-001920,2026-08-23,Central,Wholesale,Ready-to-use glazes,57,45.54,2595.78,Transfer,0.5
+S-2026-001921,2026-08-23,West,Retail,Digital inks,20,216.49,4329.8,Credit card,2.8
+S-2026-001922,2026-08-23,West,Wholesale,Engobes,24,25.43,610.32,Transfer,0.5
+S-2026-001923,2026-08-23,Central,Retail,Ceramic pigments,12,119.34,1432.08,Transfer,0.5
+S-2026-001924,2026-08-23,North,Retail,Ceramic pigments,14,118.89,1664.46,Cash,1.0
+S-2026-001925,2026-08-23,West,Retail,Frits,5,31.4,157.0,Credit card,2.8
+S-2026-001926,2026-08-23,Central,Wholesale,Ceramic pigments,58,111.04,6440.32,Transfer,0.5
+S-2026-001927,2026-08-23,North,Wholesale,Ceramic pigments,24,104.24,2501.76,Credit card,2.8
+S-2026-001928,2026-08-23,Central,Retail,Frits,8,31.2,249.6,Transfer,0.5
+S-2026-001929,2026-08-23,Central,Retail,Ready-to-use glazes,7,47.07,329.49,Credit card,2.8
+S-2026-001930,2026-08-23,North,Retail,Ready-to-use glazes,8,48.59,388.72,Transfer,0.5
+S-2026-001931,2026-08-23,West,Wholesale,Digital inks,23,200.7,4616.1,Transfer,0.5
+S-2026-001932,2026-08-23,North,Wholesale,Engobes,37,22.47,831.39,Credit card,2.8
+S-2026-001933,2026-08-23,West,Retail,Engobes,5,26.47,132.35,Cash,1.0
+S-2026-001934,2026-08-24,North,Retail,Frits,6,30.59,183.54,Credit card,2.8
+S-2026-001935,2026-08-24,Central,Wholesale,Ready-to-use glazes,83,47.31,3926.73,Transfer,0.5
+S-2026-001936,2026-08-24,Central,Wholesale,Ready-to-use glazes,96,43.59,4184.64,Transfer,0.5
+S-2026-001937,2026-08-24,North,Retail,Digital inks,13,213.67,2777.71,Credit card,2.8
+S-2026-001938,2026-08-24,North,Wholesale,Frits,48,28.55,1370.4,Credit card,2.8
+S-2026-001939,2026-08-24,Central,Wholesale,Ready-to-use glazes,16,44.92,718.72,Transfer,0.5
+S-2026-001940,2026-08-24,North,Wholesale,Ready-to-use glazes,53,47.06,2494.18,Credit card,2.8
+S-2026-001941,2026-08-24,West,Retail,Engobes,8,26.64,213.12,Credit card,2.8
+S-2026-001942,2026-08-24,Central,Wholesale,Ready-to-use glazes,32,44.9,1436.8,Credit card,2.8
+S-2026-001943,2026-08-24,North,Wholesale,Frits,27,27.23,735.21,Transfer,0.5
+S-2026-001944,2026-08-24,Central,Retail,Frits,10,32.16,321.6,Cash,1.0
+S-2026-001945,2026-08-24,West,Wholesale,Ceramic pigments,66,105.92,6990.72,Transfer,0.5
+S-2026-001946,2026-08-24,North,Retail,Ready-to-use glazes,4,46.75,187.0,Credit card,2.8
+S-2026-001947,2026-08-24,Central,Wholesale,Digital inks,37,214.2,7925.4,Transfer,0.5
+S-2026-001948,2026-08-24,West,Wholesale,Digital inks,47,207.82,9767.54,Transfer,0.5
+S-2026-001949,2026-08-24,North,Retail,Frits,10,29.64,296.4,Credit card,2.8
+S-2026-001950,2026-08-24,West,Wholesale,Digital inks,45,214.19,9638.55,Credit card,2.8
+S-2026-001951,2026-08-24,West,Retail,Digital inks,7,215.79,1510.53,Credit card,2.8
+S-2026-001952,2026-08-24,Central,Wholesale,Frits,79,26.63,2103.77,Credit card,2.8
+S-2026-001953,2026-08-24,North,Wholesale,Engobes,30,24.01,720.3,Credit card,2.8
+S-2026-001954,2026-08-24,North,Retail,Engobes,8,25.77,206.16,Credit card,2.8
+S-2026-001955,2026-08-24,North,Wholesale,Engobes,91,25.29,2301.39,Transfer,0.5
+S-2026-001956,2026-08-24,Central,Wholesale,Frits,17,26.98,458.66,Transfer,0.5
+S-2026-001957,2026-08-24,Central,Retail,Digital inks,3,214.08,642.24,Credit card,2.8
+S-2026-001958,2026-08-24,North,Wholesale,Ceramic pigments,59,104.9,6189.1,Transfer,0.5
+S-2026-001959,2026-08-24,North,Wholesale,Ready-to-use glazes,53,47.04,2493.12,Transfer,0.5
+S-2026-001960,2026-08-24,North,Wholesale,Frits,53,29.32,1553.96,Transfer,0.5
+S-2026-001961,2026-08-24,West,Wholesale,Engobes,67,25.28,1693.76,Transfer,0.5
+S-2026-001962,2026-08-24,Central,Retail,Engobes,8,25.4,203.2,Credit card,2.8
+S-2026-001963,2026-08-24,North,Wholesale,Frits,96,27.87,2675.52,Transfer,0.5
+S-2026-001964,2026-08-24,Central,Wholesale,Ready-to-use glazes,11,43.96,483.56,Transfer,0.5
+S-2026-001965,2026-08-25,North,Retail,Digital inks,8,212.82,1702.56,Transfer,0.5
+S-2026-001966,2026-08-25,West,Retail,Ceramic pigments,13,109.36,1421.68,Cash,1.0
+S-2026-001967,2026-08-25,North,Retail,Ceramic pigments,4,119.49,477.96,Credit card,2.8
+S-2026-001968,2026-08-25,West,Retail,Ready-to-use glazes,4,48.09,192.36,Credit card,2.8
+S-2026-001969,2026-08-25,North,Wholesale,Ready-to-use glazes,43,46.4,1995.2,Transfer,0.5
+S-2026-001970,2026-08-25,Central,Wholesale,Ready-to-use glazes,39,43.01,1677.39,Transfer,0.5
+S-2026-001971,2026-08-25,North,Wholesale,Ready-to-use glazes,60,44.27,2656.2,Credit card,2.8
+S-2026-001972,2026-08-25,West,Retail,Frits,6,31.47,188.82,Cash,1.0
+S-2026-001973,2026-08-25,North,Wholesale,Engobes,77,24.89,1916.53,Transfer,0.5
+S-2026-001974,2026-08-25,West,Retail,Ceramic pigments,4,119.79,479.16,Cash,1.0
+S-2026-001975,2026-08-25,Central,Wholesale,Ceramic pigments,64,111.39,7128.96,Transfer,0.5
+S-2026-001976,2026-08-25,North,Retail,Ready-to-use glazes,5,48.5,242.5,Cash,1.0
+S-2026-001977,2026-08-25,West,Wholesale,Engobes,17,23.73,403.41,Transfer,0.5
+S-2026-001978,2026-08-25,West,Wholesale,Engobes,16,23.54,376.64,Transfer,0.5
+S-2026-001979,2026-08-25,North,Retail,Ceramic pigments,3,114.67,344.01,Transfer,0.5
+S-2026-001980,2026-08-25,Central,Retail,Ready-to-use glazes,5,46.3,231.5,Cash,1.0
+S-2026-001981,2026-08-25,North,Wholesale,Digital inks,32,202.2,6470.4,Transfer,0.5
+S-2026-001982,2026-08-25,Central,Retail,Frits,5,32.48,162.4,Credit card,2.8
+S-2026-001983,2026-08-25,Central,Retail,Ready-to-use glazes,8,47.86,382.88,Transfer,0.5
+S-2026-001984,2026-08-25,Central,Wholesale,Engobes,14,23.33,326.62,Credit card,2.8
+S-2026-001985,2026-08-25,Central,Retail,Digital inks,3,215.5,646.5,Credit card,2.8
+S-2026-001986,2026-08-25,Central,Wholesale,Digital inks,26,181.56,4720.56,Transfer,0.5
+S-2026-001987,2026-08-25,North,Wholesale,Ready-to-use glazes,50,46.61,2330.5,Transfer,0.5
+S-2026-001988,2026-08-25,North,Wholesale,Engobes,55,25.06,1378.3,Transfer,0.5
+S-2026-001989,2026-08-25,West,Wholesale,Digital inks,49,201.65,9880.85,Transfer,0.5
+S-2026-001990,2026-08-25,North,Retail,Ceramic pigments,21,114.14,2396.94,Credit card,2.8
+S-2026-001991,2026-08-25,North,Retail,Frits,6,31.8,190.8,Credit card,2.8
+S-2026-001992,2026-08-25,West,Retail,Ready-to-use glazes,8,45.43,363.44,Cash,1.0
+S-2026-001993,2026-08-26,North,Retail,Engobes,6,25.32,151.92,Credit card,2.8
+S-2026-001994,2026-08-26,North,Retail,Engobes,2,25.22,50.44,Cash,1.0
+S-2026-001995,2026-08-26,Central,Wholesale,Ceramic pigments,74,114.05,8439.7,Transfer,0.5
+S-2026-001996,2026-08-26,North,Wholesale,Ready-to-use glazes,29,43.44,1259.76,Transfer,0.5
+S-2026-001997,2026-08-26,Central,Wholesale,Ready-to-use glazes,19,45.69,868.11,Transfer,0.5
+S-2026-001998,2026-08-26,West,Wholesale,Digital inks,49,191.29,9373.21,Credit card,2.8
+S-2026-001999,2026-08-26,West,Wholesale,Digital inks,49,188.69,9245.81,Transfer,0.5
+S-2026-002000,2026-08-26,West,Wholesale,Ready-to-use glazes,70,45.44,3180.8,Transfer,0.5
+S-2026-002001,2026-08-26,Central,Retail,Ready-to-use glazes,5,47.94,239.7,Cash,1.0
+S-2026-002002,2026-08-26,Central,Wholesale,Frits,24,28.64,687.36,Transfer,0.5
+S-2026-002003,2026-08-26,West,Wholesale,Digital inks,14,208.2,2914.8,Credit card,2.8
+S-2026-002004,2026-08-26,Central,Wholesale,Frits,16,27.51,440.16,Transfer,0.5
+S-2026-002005,2026-08-26,West,Wholesale,Ready-to-use glazes,40,48.18,1927.2,Transfer,0.5
+S-2026-002006,2026-08-26,West,Retail,Digital inks,16,216.92,3470.72,Cash,1.0
+S-2026-002007,2026-08-26,West,Wholesale,Ceramic pigments,38,105.31,4001.78,Transfer,0.5
+S-2026-002008,2026-08-26,West,Wholesale,Digital inks,37,210.21,7777.77,Transfer,0.5
+S-2026-002009,2026-08-26,Central,Wholesale,Ready-to-use glazes,62,42.75,2650.5,Transfer,0.5
+S-2026-002010,2026-08-26,North,Wholesale,Ready-to-use glazes,93,41.48,3857.64,Transfer,0.5
+S-2026-002011,2026-08-26,Central,Retail,Ceramic pigments,6,122.99,737.94,Cash,1.0
+S-2026-002012,2026-08-26,North,Retail,Digital inks,3,204.98,614.94,Credit card,2.8
+S-2026-002013,2026-08-26,West,Wholesale,Ceramic pigments,16,113.94,1823.04,Credit card,2.8
+S-2026-002014,2026-08-26,North,Wholesale,Ceramic pigments,76,113.09,8594.84,Transfer,0.5
+S-2026-002015,2026-08-26,Central,Wholesale,Digital inks,61,202.05,12325.05,Transfer,0.5
+S-2026-002016,2026-08-26,North,Wholesale,Engobes,50,23.44,1172.0,Transfer,0.5
+S-2026-002017,2026-08-26,North,Retail,Digital inks,4,215.98,863.92,Credit card,2.8
+S-2026-002018,2026-08-26,Central,Wholesale,Frits,46,30.22,1390.12,Transfer,0.5
+S-2026-002019,2026-08-27,North,Wholesale,Ready-to-use glazes,76,42.43,3224.68,Transfer,0.5
+S-2026-002020,2026-08-27,Central,Wholesale,Ready-to-use glazes,33,45.56,1503.48,Transfer,0.5
+S-2026-002021,2026-08-27,Central,Wholesale,Digital inks,70,187.98,13158.6,Credit card,2.8
+S-2026-002022,2026-08-27,North,Wholesale,Ready-to-use glazes,25,43.35,1083.75,Transfer,0.5
+S-2026-002023,2026-08-27,West,Wholesale,Engobes,32,23.6,755.2,Transfer,0.5
+S-2026-002024,2026-08-27,North,Wholesale,Frits,47,29.75,1398.25,Transfer,0.5
+S-2026-002025,2026-08-27,Central,Retail,Ready-to-use glazes,8,48.04,384.32,Transfer,0.5
+S-2026-002026,2026-08-27,West,Wholesale,Digital inks,20,189.15,3783.0,Transfer,0.5
+S-2026-002027,2026-08-27,North,Retail,Ceramic pigments,7,120.49,843.43,Credit card,2.8
+S-2026-002028,2026-08-27,North,Wholesale,Ready-to-use glazes,24,47.24,1133.76,Transfer,0.5
+S-2026-002029,2026-08-27,West,Retail,Ceramic pigments,3,119.0,357.0,Cash,1.0
+S-2026-002030,2026-08-27,North,Retail,Frits,5,31.06,155.3,Cash,1.0
+S-2026-002031,2026-08-27,West,Wholesale,Frits,29,27.63,801.27,Transfer,0.5
+S-2026-002032,2026-08-27,North,Wholesale,Engobes,39,26.06,1016.34,Transfer,0.5
+S-2026-002033,2026-08-27,Central,Wholesale,Digital inks,56,201.75,11298.0,Transfer,0.5
+S-2026-002034,2026-08-27,West,Retail,Ready-to-use glazes,5,49.27,246.35,Cash,1.0
+S-2026-002035,2026-08-27,Central,Wholesale,Ceramic pigments,146,122.37,17866.02,Transfer,0.5
+S-2026-002036,2026-08-27,North,Retail,Engobes,8,27.65,221.2,Credit card,2.8
+S-2026-002037,2026-08-27,Central,Retail,Frits,17,31.24,531.08,Credit card,2.8
+S-2026-002038,2026-08-27,Central,Wholesale,Digital inks,36,191.85,6906.6,Transfer,0.5
+S-2026-002039,2026-08-27,North,Wholesale,Ceramic pigments,38,109.9,4176.2,Transfer,0.5
+S-2026-002040,2026-08-27,Central,Wholesale,Digital inks,22,208.32,4583.04,Transfer,0.5
+S-2026-002041,2026-08-27,North,Wholesale,Ceramic pigments,21,103.0,2163.0,Transfer,0.5
+S-2026-002042,2026-08-27,West,Wholesale,Digital inks,29,202.73,5879.17,Transfer,0.5
+S-2026-002043,2026-08-27,West,Retail,Frits,3,31.13,93.39,Credit card,2.8
+S-2026-002044,2026-08-27,Central,Wholesale,Frits,43,28.1,1208.3,Transfer,0.5
+S-2026-002045,2026-08-27,North,Wholesale,Ready-to-use glazes,9,44.93,404.37,Credit card,2.8
+S-2026-002046,2026-08-27,West,Wholesale,Frits,23,27.15,624.45,Credit card,2.8
+S-2026-002047,2026-08-28,West,Retail,Ready-to-use glazes,8,47.63,381.04,Transfer,0.5
+S-2026-002048,2026-08-28,North,Wholesale,Engobes,38,24.14,917.32,Transfer,0.5
+S-2026-002049,2026-08-28,Central,Wholesale,Digital inks,24,190.86,4580.64,Transfer,0.5
+S-2026-002050,2026-08-28,North,Wholesale,Frits,87,28.95,2518.65,Transfer,0.5
+S-2026-002051,2026-08-28,Central,Wholesale,Ready-to-use glazes,37,45.48,1682.76,Transfer,0.5
+S-2026-002052,2026-08-28,West,Wholesale,Ready-to-use glazes,34,42.4,1441.6,Transfer,0.5
+S-2026-002053,2026-08-28,West,Retail,Engobes,12,25.64,307.68,Cash,1.0
+S-2026-002054,2026-08-28,North,Wholesale,Ready-to-use glazes,107,46.03,4925.21,Transfer,0.5
+S-2026-002055,2026-08-28,West,Wholesale,Ceramic pigments,139,101.38,14091.82,Transfer,0.5
+S-2026-002056,2026-08-28,West,Wholesale,Ready-to-use glazes,34,43.04,1463.36,Transfer,0.5
+S-2026-002057,2026-08-28,North,Retail,Ready-to-use glazes,3,47.2,141.6,Credit card,2.8
+S-2026-002058,2026-08-28,West,Retail,Engobes,5,25.49,127.45,Credit card,2.8
+S-2026-002059,2026-08-28,North,Retail,Frits,10,31.8,318.0,Credit card,2.8
+S-2026-002060,2026-08-28,North,Wholesale,Ceramic pigments,20,107.19,2143.8,Transfer,0.5
+S-2026-002061,2026-08-28,West,Wholesale,Engobes,11,24.21,266.31,Credit card,2.8
+S-2026-002062,2026-08-28,Central,Wholesale,Digital inks,49,199.82,9791.18,Transfer,0.5
+S-2026-002063,2026-08-28,Central,Wholesale,Frits,63,29.59,1864.17,Transfer,0.5
+S-2026-002064,2026-08-28,Central,Retail,Frits,8,31.19,249.52,Credit card,2.8
+S-2026-002065,2026-08-28,North,Wholesale,Engobes,61,24.43,1490.23,Transfer,0.5
+S-2026-002066,2026-08-28,West,Retail,Digital inks,11,216.94,2386.34,Transfer,0.5
+S-2026-002067,2026-08-28,West,Wholesale,Digital inks,22,185.19,4074.18,Transfer,0.5
+S-2026-002068,2026-08-28,North,Retail,Frits,7,29.82,208.74,Transfer,0.5
+S-2026-002069,2026-08-28,North,Retail,Ceramic pigments,1,115.97,115.97,Transfer,0.5
+S-2026-002070,2026-08-29,North,Wholesale,Frits,38,31.36,1191.68,Transfer,0.5
+S-2026-002071,2026-08-29,North,Wholesale,Engobes,19,24.3,461.7,Credit card,2.8
+S-2026-002072,2026-08-29,Central,Wholesale,Engobes,54,22.84,1233.36,Transfer,0.5
+S-2026-002073,2026-08-29,Central,Retail,Frits,8,29.53,236.24,Credit card,2.8
+S-2026-002074,2026-08-29,West,Wholesale,Ceramic pigments,23,104.37,2400.51,Transfer,0.5
+S-2026-002075,2026-08-29,North,Wholesale,Ready-to-use glazes,19,42.92,815.48,Credit card,2.8
+S-2026-002076,2026-08-29,Central,Retail,Frits,8,31.52,252.16,Credit card,2.8
+S-2026-002077,2026-08-29,North,Retail,Ready-to-use glazes,14,47.3,662.2,Cash,1.0
+S-2026-002078,2026-08-30,Central,Wholesale,Ceramic pigments,29,115.25,3342.25,Transfer,0.5
+S-2026-002079,2026-08-30,North,Wholesale,Ready-to-use glazes,70,46.33,3243.1,Transfer,0.5
+S-2026-002080,2026-08-30,West,Wholesale,Digital inks,76,222.28,16893.28,Transfer,0.5
+S-2026-002081,2026-08-30,Central,Wholesale,Ready-to-use glazes,161,43.4,6987.4,Transfer,0.5
+S-2026-002082,2026-08-31,North,Retail,Frits,7,30.52,213.64,Credit card,2.8
+S-2026-002083,2026-08-31,North,Retail,Frits,1,31.63,31.63,Credit card,2.8
+S-2026-002084,2026-08-31,North,Retail,Ready-to-use glazes,12,47.27,567.24,Credit card,2.8
+S-2026-002085,2026-08-31,North,Wholesale,Ceramic pigments,100,114.11,11411.0,Transfer,0.5
+S-2026-002086,2026-08-31,Central,Wholesale,Ready-to-use glazes,21,44.24,929.04,Transfer,0.5
+S-2026-002087,2026-08-31,Central,Wholesale,Frits,17,27.92,474.64,Credit card,2.8
+S-2026-002088,2026-08-31,West,Wholesale,Ceramic pigments,54,114.8,6199.2,Transfer,0.5
+S-2026-002089,2026-08-31,West,Wholesale,Digital inks,19,191.96,3647.24,Transfer,0.5
+S-2026-002090,2026-08-31,West,Retail,Digital inks,13,211.73,2752.49,Credit card,2.8
+S-2026-002091,2026-08-31,Central,Wholesale,Ceramic pigments,100,113.99,11399.0,Transfer,0.5
+S-2026-002092,2026-08-31,North,Retail,Ready-to-use glazes,7,47.21,330.47,Credit card,2.8
+S-2026-002093,2026-08-31,West,Retail,Frits,5,32.98,164.9,Transfer,0.5
+S-2026-002094,2026-08-31,North,Retail,Digital inks,7,223.94,1567.58,Transfer,0.5
+S-2026-002095,2026-08-31,Central,Retail,Engobes,5,25.09,125.45,Credit card,2.8
+S-2026-002096,2026-08-31,West,Wholesale,Digital inks,18,218.01,3924.18,Credit card,2.8
+S-2026-002097,2026-08-31,North,Wholesale,Frits,39,30.2,1177.8,Transfer,0.5
+S-2026-002098,2026-08-31,North,Retail,Ready-to-use glazes,19,49.1,932.9,Credit card,2.8
+S-2026-002099,2026-08-31,West,Wholesale,Ceramic pigments,182,110.48,20107.36,Transfer,0.5
+S-2026-002100,2026-08-31,North,Retail,Ready-to-use glazes,14,47.56,665.84,Credit card,2.8

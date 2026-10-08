@@ -1,0 +1,139 @@
+line_id,material_id,sourcing_market,buyer_region,net_amount_eur,imputed_quantity_kg,quantity_source
+11,FEC-KA-10119961,Non-EU Europe,Plant CZ-South,721.23,3025,imputed: material + market + region
+115,FLB-BOAC-10165039,Non-EU Europe,Plant CZ-North,985.86,950,imputed: material + market + region
+128,CAR-DO-10310277,Americas,Plant CZ-North,18.09,175,imputed: material + market + region
+263,FLB-BOAC-10165039,Non-EU Europe,Plant PL,413.68,400,imputed: material + market + region
+313,FLB-BOAC-10162300,EU,Plant CZ-South,683.61,825,imputed: material + market + region
+492,OXC-IROX-10292113,Non-EU Europe,Plant PL,1818.69,1375,imputed: material + market + region
+621,CAR-CACA-10305890,Asia,Plant SK,110.13,1100,imputed: material + market + region
+707,CAR-CACA-10305010,EU,Plant CZ-South,295.38,3175,imputed: material + market + region
+746,FEC-BACL-10140894,Asia,Plant SK,22.13,175,imputed: material + market + region
+815,CAR-DO-10308775,Americas,Plant SK,431.38,4450,imputed: material + market + region
+1009,FEC-POFE-10104228,Asia,Plant CZ-North,100.71,525,imputed: material + market + region
+1030,OXC-IROX-10292113,Non-EU Europe,Plant CZ-South,1690.91,1275,imputed: material + market + region
+1036,OXC-AL-10235839,EU,Plant SK,4258.95,4350,imputed: material + market + region
+1058,FEC-KA-10119961,Non-EU Europe,Plant SK,358.21,1500,imputed: material + market + region
+1215,FLB-BOAC-10160452,Asia,Plant CZ-North,1069.76,1250,imputed: material + market + region
+1326,FEC-BACL-10134862,EU,Plant PL,136.58,1050,imputed: material + market + region
+1381,FEC-POFE-10100072,EU,Plant CZ-North,305.41,1825,imputed: material + market + region
+1410,FLB-SOAS-10178405,Non-EU Europe,Plant CZ-North,89.35,275,imputed: material + market + region
+1412,OXC-ZIOX-10229086,Non-EU Europe,Plant CZ-North,5630.35,2675,imputed: material + market + region
+1598,FEC-SOFE-10087061,Non-EU Europe,Plant SK,16.78,125,imputed: material + market + region
+1634,OXC-IROX-10292113,Non-EU Europe,Plant PL,3258.77,2475,imputed: material + market + region
+1716,FLB-BOAC-10160452,Asia,Plant CZ-North,695.95,825,imputed: material + market + region
+1781,FLB-SOAS-10187947,Non-EU Europe,Plant CZ-North,1400,4125,imputed: material + market + region
+1834,SIL-QUSA-10009706,Asia,Plant CZ-North,362.97,4175,imputed: material + market + region
+1882,OXC-IROX-10274836,Asia,Plant PL,9190.42,7375,imputed: material + market + region
+1926,FEC-KA-10119961,Non-EU Europe,Plant CZ-South,299.4,1250,imputed: material + market + region
+1930,OXC-IROX-10274836,Asia,Plant PL,1023.76,825,imputed: material + market + region
+1975,FLB-SOAS-10191777,EU,Plant CZ-North,238.37,675,imputed: material + market + region
+2007,OXC-ZIOX-10229086,Non-EU Europe,Plant CZ-South,954.74,450,imputed: material + market + region
+2103,FLB-SOAS-10191777,EU,Plant CZ-South,774.36,2175,imputed: material + market + region
+2187,OXC-IROX-10292113,Africa,Plant CZ-North,7912.38,6225,imputed: material + market + region
+2191,OXC-IROX-10292113,Non-EU Europe,Plant CZ-North,4172.21,3175,imputed: material + market + region
+2217,SIL-QUSA-10018054,Asia,Plant CZ-South,105.1,1475,imputed: material + market + region
+2250,FEC-KA-10119961,Non-EU Europe,Plant CZ-South,3033.56,12675,imputed: material + market + region
+2449,CAR-CACA-10293364,Non-EU Europe,Plant CZ-South,189.17,2000,imputed: material + market + region
+2738,OXC-IROX-10292113,Non-EU Europe,Plant CZ-South,1611.44,1225,imputed: material + market + region
+2741,FEC-KA-10131953,Asia,Plant CZ-North,232.6,1075,imputed: material + market + region
+2887,FEC-KA-10119961,Non-EU Europe,Plant CZ-North,667.03,2800,imputed: material + market + region
+2935,FLB-BO-10159014,EU,Plant CZ-North,1179.16,1575,imputed: material + market + region
+2967,CAR-CACA-10305010,EU,Plant CZ-South,59.46,650,imputed: material + market + region
+2971,FEC-KA-10119961,Non-EU Europe,Plant CZ-South,65.78,275,imputed: material + market + region
+3017,FLB-SOAS-10187947,Non-EU Europe,Plant SK,2779.74,8275,imputed: material + market + region
+3069,FEC-BACL-10135928,Americas,Plant CZ-South,50.05,450,imputed: material + market + region
+3070,CAR-STCA-10362767,Asia,Plant SK,5624.38,5050,imputed: material + market + region
+3124,FLB-SOAS-10191777,EU,Plant CZ-North,1316.98,3750,imputed: material + market + region
+3131,FEC-KA-10125232,Americas,Plant SK,820.55,2925,imputed: material
+3162,FEC-BACL-10140894,Asia,Plant CZ-North,195.01,1475,imputed: material + market + region
+3185,FLB-SOAS-10181183,Non-EU Europe,Plant CZ-North,2777.32,10500,imputed: material + market + region
+3187,OXC-IROX-10292113,Non-EU Europe,Plant CZ-South,1798.91,1375,imputed: material + market + region
+3208,OXC-IROX-10274836,Asia,Plant CZ-South,13092.39,10450,imputed: material + market + region
+3218,OXC-TIDI-10250825,EU,Plant SK,17352.51,5900,imputed: material + market + region
+3251,FEC-SOFE-10090177,Asia,Plant CZ-South,81.24,500,imputed: material + market + region
+3346,CAR-CACA-10305010,EU,Plant CZ-South,76.2,825,imputed: material + market + region
+3357,FLB-BOAC-10160452,Asia,Plant SK,497.32,575,imputed: material + market + region
+3367,OXC-IROX-10292113,Non-EU Europe,Plant SK,11117.14,8450,imputed: material + market + region
+3388,FEC-SOFE-10090177,Asia,Plant CZ-North,545.32,3325,imputed: material + market + region
+3462,OXC-IROX-10292113,Non-EU Europe,Plant SK,5686.15,4325,imputed: material + market + region
+3483,FEC-BACL-10140894,Asia,Plant SK,147.78,1125,imputed: material + market + region
+3501,SIL-QUSA-10007982,Asia,Plant PL,200.6,2325,imputed: material + market + region
+3622,SIL-WO-10063107,Non-EU Europe,Plant CZ-South,104.37,425,imputed: material + market + region
+3652,FLB-BOAC-10162300,EU,Plant SK,3789.5,4550,imputed: material + market + region
+3666,OXC-AL-10235839,EU,Plant PL,1463.47,1500,imputed: material + market + region
+3674,FEC-POFE-10100072,EU,Plant CZ-North,104.89,625,imputed: material + market + region
+3723,OXC-IROX-10274836,Asia,Plant CZ-South,794.04,625,imputed: material + market + region
+3848,FEC-POFE-10105170,EU,Plant PL,79.83,525,imputed: material + market + region
+3857,OXC-IROX-10292113,Non-EU Europe,Plant CZ-South,1743.5,1325,imputed: material + market + region
+3917,FLB-SOAS-10187947,Non-EU Europe,Plant CZ-North,1046.08,3100,imputed: material + market + region
+3947,FLB-BOAC-10160452,Asia,Plant CZ-South,12568.18,14750,imputed: material + market + region
+3989,OXC-IROX-10274836,Asia,Plant CZ-South,8331.57,6650,imputed: material + market + region
+4055,OXC-ZIOX-10213543,EU,Plant PL,4833.69,2225,imputed: material + market + region
+4070,OXC-ZIOX-10229086,Non-EU Europe,Plant CZ-North,3373.69,1600,imputed: material + market + region
+4106,FEC-KA-10119961,Non-EU Europe,Plant CZ-North,669.72,2800,imputed: material + market + region
+4266,SIL-TA-10069089,EU,Plant PL,26.55,100,imputed: material + market + region
+4399,SIL-WO-10063107,Non-EU Europe,Plant CZ-North,681.27,2825,imputed: material + market + region
+4553,FEC-BACL-10134862,EU,Plant PL,369.75,2875,imputed: material + market + region
+4643,FLB-SOAS-10187947,Non-EU Europe,Plant SK,5766.93,17175,imputed: material + market + region
+4647,FEC-BACL-10144295,EU,Plant CZ-South,239.2,2125,imputed: material + market + region
+4749,SIL-QUSA-10007982,Asia,Plant CZ-North,128.35,1475,imputed: material + market + region
+4758,OXC-IROX-10292113,Non-EU Europe,Plant CZ-North,2129.56,1625,imputed: material + market + region
+4899,FEC-KA-10119961,Non-EU Europe,Plant PL,1056.07,4425,imputed: material + market + region
+4941,FEC-SOFE-10090177,Asia,Plant CZ-South,987.12,5975,imputed: material + market + region
+4975,SIL-WO-10063107,Non-EU Europe,Plant PL,1628.52,6850,imputed: material + market + region
+5068,SIL-QUSA-10007982,Asia,Plant PL,83.04,975,imputed: material + market + region
+5314,OXC-IROX-10292113,Non-EU Europe,Plant CZ-North,8434.7,6400,imputed: material + market + region
+5315,OXC-IROX-10292113,Non-EU Europe,Plant CZ-North,2416.87,1825,imputed: material + market + region
+5393,FLB-SOAS-10187947,Non-EU Europe,Plant SK,67.25,200,imputed: material + market + region
+5412,OXC-IROX-10268196,EU,Plant CZ-North,748.03,575,imputed: material + market + region
+5433,FEC-SOFE-10098837,EU,Plant SK,41.41,250,imputed: material + market + region
+5542,CAR-CACA-10298492,Non-EU Europe,Plant CZ-North,89.82,1075,imputed: material + market + region
+5556,OXC-ZIOX-10221839,EU,Plant SK,4779.57,2100,imputed: material + market + region
+5608,FEC-KA-10119961,Non-EU Europe,Plant SK,320.72,1350,imputed: material + market + region
+5632,FLB-BO-10151026,EU,Plant PL,1105.52,1450,imputed: material + market + region
+5643,CAR-CACA-10305890,Asia,Plant CZ-South,35.36,350,imputed: material + market + region
+5694,OXC-IROX-10292113,Non-EU Europe,Plant CZ-North,775.49,600,imputed: material + market + region
+5801,FLB-BOAC-10165039,Non-EU Europe,Plant PL,2183.76,2100,imputed: material + market + region
+5914,CAR-DO-10325060,Non-EU Europe,Plant CZ-South,39.21,425,imputed: material + market + region
+5936,FLB-BOAC-10162300,EU,Plant CZ-North,2823.04,3400,imputed: material + market + region
+6086,OXC-IROX-10283479,Non-EU Europe,Plant CZ-North,4878.59,3000,imputed: material + market + region
+6246,FLB-SOAS-10191777,EU,Plant CZ-North,2243.78,6375,imputed: material + market + region
+6284,CAR-CACA-10293364,Non-EU Europe,Plant CZ-North,132.67,1375,imputed: material + market + region
+6302,FEC-SOFE-10098837,EU,Plant CZ-South,514.8,3300,imputed: material + market + region
+6314,FEC-KA-10119961,Non-EU Europe,Plant CZ-North,91.82,375,imputed: material + market + region
+6362,FEC-KA-10119961,Non-EU Europe,Plant CZ-South,185.32,775,imputed: material + market + region
+6516,SIL-ZISI-10039053,Asia,Plant SK,2098.61,1550,imputed: material + market + region
+6537,FEC-KA-10119961,EU,Plant PL,996.29,4175,imputed: material + market + region
+6637,CAR-DO-10316179,Africa,Plant CZ-North,204.68,1875,imputed: material + market + region
+6660,FEC-BACL-10134862,Non-EU Europe,Plant CZ-South,225.41,1725,imputed: material + market
+6799,FLB-BO-10159014,EU,Plant CZ-North,1940.25,2575,imputed: material + market + region
+6918,SIL-ZISI-10039053,EU,Plant CZ-North,3969.48,2875,imputed: material + market + region
+6922,FLB-BOAC-10160452,Asia,Plant CZ-North,3400.95,4000,imputed: material + market + region
+6944,OXC-IROX-10292113,Non-EU Europe,Plant CZ-North,389.33,300,imputed: material + market + region
+7003,OXC-IROX-10274836,Asia,Plant CZ-South,876.65,700,imputed: material + market + region
+7010,FLB-LICA-10198167,EU,Plant CZ-South,18004.53,1925,imputed: material + market + region
+7104,FEC-SOFE-10087061,Non-EU Europe,Plant PL,794.81,5800,imputed: material + market + region
+7300,FEC-SOFE-10085526,EU,Plant PL,71.6,500,imputed: material + market + region
+7302,FLB-SOAS-10187947,Non-EU Europe,Plant CZ-South,110.81,325,imputed: material + market + region
+7341,FLB-BOAC-10160452,Asia,Plant CZ-South,1140.6,1350,imputed: material + market + region
+7352,FLB-BO-10159954,EU,Plant CZ-North,1358.61,1550,imputed: material + market + region
+7423,OXC-IROX-10274836,Asia,Plant SK,1290.82,1025,imputed: material + market + region
+7472,CAR-CACA-10298492,Americas,Plant SK,33.35,400,imputed: material + market + region
+7537,FEC-BACL-10134862,EU,Plant CZ-North,209.27,1600,imputed: material + market + region
+7591,SIL-QUSA-10018054,Asia,Plant CZ-South,108.75,1525,imputed: material + market + region
+7624,FLB-BOAC-10169645,EU,Plant SK,511.16,500,imputed: material + market + region
+7654,SIL-QUSA-10007982,Asia,Plant CZ-South,170.49,1975,imputed: material + market + region
+7667,OXC-ZIOX-10221839,EU,Plant CZ-North,11981.2,5300,imputed: material + market + region
+7715,SIL-WO-10063107,Non-EU Europe,Plant CZ-South,255.59,1025,imputed: material + market + region
+7727,FLB-SOAS-10187947,Africa,Plant CZ-North,898.22,2475,imputed: material + market + region
+7747,FEC-BACL-10134862,EU,Plant PL,177.59,1375,imputed: material + market + region
+7754,FLB-BOAC-10162300,EU,Plant PL,2452.77,2950,imputed: material + market + region
+7777,FLB-BOAC-10160452,Non-EU Europe,Plant SK,3231.62,3525,imputed: material + market + region
+7784,SIL-WO-10063107,Non-EU Europe,Plant SK,121.31,500,imputed: material + market + region
+7862,SIL-WO-10045986,EU,Plant PL,1373.57,5425,imputed: material + market + region
+7921,FEC-SOFE-10085526,EU,Plant CZ-North,549.77,3925,imputed: material + market + region
+7942,OXC-IROX-10292113,Non-EU Europe,Plant CZ-North,473.8,350,imputed: material + market + region
+7950,OXC-IROX-10292113,Non-EU Europe,Plant CZ-South,8811.18,6700,imputed: material + market + region
+7958,FLB-SOAS-10187947,Non-EU Europe,Plant CZ-North,678.77,2000,imputed: material + market + region
+7971,FEC-POFE-10104228,Asia,Plant PL,961.65,4925,imputed: material + market + region
+7988,FEC-KA-10119961,Non-EU Europe,Plant CZ-North,177.53,750,imputed: material + market + region

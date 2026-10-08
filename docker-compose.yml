@@ -1,0 +1,17 @@
+# Local PostgreSQL 16 shared by all projects in this repository.
+# The repository folder is mounted at /repo so psql (inside the container) can read data/*.csv
+# and write output/*.csv of every project.
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: glaze
+    volumes:
+      - ./:/repo
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d glaze"]
+      interval: 3s
+      timeout: 3s
+      retries: 15

@@ -1,0 +1,7 @@
+category,lines_tested,mean_abs_pct_error,median_abs_pct_error,pct_within_10pct
+Carbonates,986,3.2,2.7,98.4
+Feldspars & Clays,2129,3.0,2.6,98.5
+Fluxes & Borates,1681,3.1,2.7,98.2
+Oxides & Colorants,1836,3.1,2.7,98.7
+Silicates & Quartz,880,2.9,2.5,98.5
+,7512,3.0,2.6,98.5

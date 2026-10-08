@@ -1,0 +1,26 @@
+category,spend_rank,material_name,total_spend_eur,total_price_variance_eur,pct_of_category_spend
+Carbonates,1,Strontium carbonate grade C,103317,3360,17.2
+Carbonates,2,Strontium carbonate grade D,95508,-1678,15.9
+Carbonates,3,Barium carbonate grade C,69921,2933,11.6
+Carbonates,4,Strontium carbonate grade B,46948,2716,7.8
+Carbonates,5,Barium carbonate grade D,44243,-1589,7.4
+Feldspars & Clays,1,Kaolin grade A,418453,-2270,48.2
+Feldspars & Clays,2,Ball clay grade A,48544,-1897,5.6
+Feldspars & Clays,3,Kaolin grade B,43104,-2713,5.0
+Feldspars & Clays,4,Kaolin grade D,42338,-83,4.9
+Feldspars & Clays,5,Sodium feldspar grade C,40696,-1800,4.7
+Fluxes & Borates,1,Lithium carbonate grade B,492563,-1584,14.4
+Fluxes & Borates,2,Lithium carbonate grade A,469165,-8648,13.7
+Fluxes & Borates,3,Borax grade B,437781,789,12.8
+Fluxes & Borates,4,Boric acid grade C,359135,-13712,10.5
+Fluxes & Borates,5,Boric acid grade B,283050,7855,8.3
+Oxides & Colorants,1,Iron oxide grade D,2118957,55362,34.5
+Oxides & Colorants,2,Zinc oxide grade B,509583,-9414,8.3
+Oxides & Colorants,3,Titanium dioxide grade C,450370,-20560,7.3
+Oxides & Colorants,4,Titanium dioxide grade B,382050,3659,6.2
+Oxides & Colorants,5,Zinc oxide grade D,358091,-1631,5.8
+Silicates & Quartz,1,Zircon silicate grade B,169485,2072,19.9
+Silicates & Quartz,2,Zircon silicate grade D,157618,1308,18.5
+Silicates & Quartz,3,Zircon silicate grade A,137450,5092,16.2
+Silicates & Quartz,4,Zircon silicate grade C,126623,1032,14.9
+Silicates & Quartz,5,Wollastonite grade D,51603,621,6.1

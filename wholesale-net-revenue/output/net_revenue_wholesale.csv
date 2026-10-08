@@ -1,0 +1,46 @@
+product_line,month,warehouse,net_revenue_eur
+Ceramic pigments,2026-06-01,West,144825.32
+Ceramic pigments,2026-06-01,Central,138374.54
+Ceramic pigments,2026-06-01,North,110324.12
+Ceramic pigments,2026-07-01,Central,161311.46
+Ceramic pigments,2026-07-01,West,115908.47
+Ceramic pigments,2026-07-01,North,42821.68
+Ceramic pigments,2026-08-01,West,143435.12
+Ceramic pigments,2026-08-01,North,110267.02
+Ceramic pigments,2026-08-01,Central,107875.47
+Digital inks,2026-06-01,West,300112.81
+Digital inks,2026-06-01,North,211433.81
+Digital inks,2026-06-01,Central,192077.91
+Digital inks,2026-07-01,West,435293.02
+Digital inks,2026-07-01,Central,224851.04
+Digital inks,2026-07-01,North,186045.67
+Digital inks,2026-08-01,West,330777.99
+Digital inks,2026-08-01,Central,236692.78
+Digital inks,2026-08-01,North,67018.49
+Engobes,2026-06-01,North,40286.13
+Engobes,2026-06-01,Central,34747.56
+Engobes,2026-06-01,West,32622.19
+Engobes,2026-07-01,North,36772.86
+Engobes,2026-07-01,Central,26913.65
+Engobes,2026-07-01,West,20051.37
+Engobes,2026-08-01,North,34242.53
+Engobes,2026-08-01,Central,20162.36
+Engobes,2026-08-01,West,12002.74
+Frits,2026-06-01,North,80822.53
+Frits,2026-06-01,Central,61114.25
+Frits,2026-06-01,West,30646.84
+Frits,2026-07-01,North,75099.43
+Frits,2026-07-01,Central,41505.27
+Frits,2026-07-01,West,33300.59
+Frits,2026-08-01,North,70132.93
+Frits,2026-08-01,Central,37087.70
+Frits,2026-08-01,West,22476.91
+Ready-to-use glazes,2026-06-01,West,118988.49
+Ready-to-use glazes,2026-06-01,Central,96216.80
+Ready-to-use glazes,2026-06-01,North,93012.93
+Ready-to-use glazes,2026-07-01,Central,112558.56
+Ready-to-use glazes,2026-07-01,North,102055.00
+Ready-to-use glazes,2026-07-01,West,46939.69
+Ready-to-use glazes,2026-08-01,North,88107.91
+Ready-to-use glazes,2026-08-01,Central,79001.93
+Ready-to-use glazes,2026-08-01,West,40452.72

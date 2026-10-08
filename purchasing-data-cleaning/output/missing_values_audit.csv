@@ -1,0 +1,11 @@
+column_name,n_rows,n_missing,pct_missing
+quantity_kg,8000,138,1.73
+buyer_region,8000,0,0.00
+line_id,8000,0,0.00
+material_id,8000,0,0.00
+net_amount_eur,8000,0,0.00
+order_date,8000,0,0.00
+po_number,8000,0,0.00
+price_variance_eur,8000,0,0.00
+rebate,8000,0,0.00
+sourcing_market,8000,0,0.00
